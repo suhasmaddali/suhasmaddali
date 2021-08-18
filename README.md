@@ -2,7 +2,7 @@
 
 I'm really passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in Computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level. 
 
-It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which is important in order to get insights. 
+It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights. 
 <!--
 **suhasmaddali/suhasmaddali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
