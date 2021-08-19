@@ -25,7 +25,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 ## Natural Language Processing 
 
-&emsp;&emsp; [
+&emsp;&emsp; 
 
    
         
