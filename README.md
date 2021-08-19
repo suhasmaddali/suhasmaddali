@@ -10,7 +10,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 ### Machine Learning Projects 
 
-&npsp;   🚴‍♂️Washigton Bike Demand Prediction
+&nbsp;   🚴‍♂️Washigton Bike Demand Prediction
    
           In this project, the demand for rental bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and correlation matrix was plotted to get an understanding of the relationship betweep features. 
   https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction
