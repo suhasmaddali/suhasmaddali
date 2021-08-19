@@ -28,7 +28,6 @@ In this section, different set of machine learning projects are highlighted. The
 
 &emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In some devices such as smartwatches and phones, there is a possibility to detect activity based on our hand movements and other important parameters. Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as standing, walking or playing based on the hand movements. Exploratory Data Analysis (EDA) was performed to understand various important features in the data. The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively. 
 
-<br/><br/>
 ## Natural Language Processing (NLP) projects
 Natural Language Processing (NLP) is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects. 
 
