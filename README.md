@@ -16,7 +16,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 &emsp;&emsp; [🏦Predicting Loan Default Using Machine Learning](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) - It is important for banks to give loans to customers based on whether they would be able to repay the loan or not. Sometimes, banks end up giving loans to people and end up not getting paid back the money along with interest. Machine Learning could be used in order to determine whether loan must be given to a person, and this would help the financial institutions and banks in saving money respectively. 
 
-&emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)
+&emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) - Cancer is a life-threatening disease, and it is really important to take the right steps in order to prevent this disease. Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid Doctors in predicting the chances of cancer. In this project, the chances of occurrence of cancer belonging to 9 classes is predicted using Machine Learning. Since there are more than 2 classes, it is a multi-class classification problem. 
 
    
         
