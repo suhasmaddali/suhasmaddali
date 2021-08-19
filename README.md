@@ -8,8 +8,6 @@ It is with my interest and passion towards the field that I started to apply my 
 
 🌱 Below are the links to my projects on GitHub. 
 
-Since Machine Learning is a diverse field where the algorithms could be applied in different areas, I have created sections for projects depending on their application and their area.
-
 
 
 
