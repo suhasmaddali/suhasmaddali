@@ -8,7 +8,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 🌱 Below are the links to my projects on GitHub. 
 
-### Machine Learning Projects 
+## Machine Learning Projects 
 
 &nbsp;   🚴‍♂️Washigton Bike Demand Prediction
    
