@@ -17,6 +17,7 @@ There is a huge amount of text generated every second. It is important to use th
 #### Twitter Sentiment Analysis - In this project, the sentiment of a text on Twitter would be predicted using various Machine Learning Models. 
 https://github.com/suhasmaddali/Twitter-Sentiment-Analysis 
 
+#### Readability of Text Prediction - In this project, we are going to be predicting the readability of the text using different machine learning models. What are some things that we are going to be doing right now. 
 
 
 
