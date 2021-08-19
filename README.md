@@ -4,6 +4,8 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights. 
 
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees and Naive Bayes. 
+
 
 <!--
 **suhasmaddali/suhasmaddali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
