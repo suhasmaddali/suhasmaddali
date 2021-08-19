@@ -14,6 +14,8 @@ It is with my interest and passion towards the field that I started to apply my 
 
 &emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction) - In this machine learning project, the prices of cars would be predicted based on features such as horsepower (HP), Mileage, Make and other features. Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions. 
 
+&emsp;&emsp; [🏦Predicting Loan Default Using Machine Learning](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
+
 
    
         
