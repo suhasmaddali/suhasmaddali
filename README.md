@@ -20,6 +20,8 @@ It is with my interest and passion towards the field that I started to apply my 
 
 &emsp;&emsp;[🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) - There are features that are important to predict heart disease in a patient such as Blood Pressure (BP), BMI and other factors. Since doctors cannot take into account all the factors and suggest whether a person may or may not have a heart disease, it is time to use the machine learning and deep learning algorithms to the rescue. In this machine learning project, various features such as BMI, Cholestrol and other factors are considered for predicting the chances of a person to suffer from a heart disease. Various machine learning models were used for the predictions and their precision, recall and accuracy were plotted respectively. 
 
+&ensp;&ensp; [❓Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)
+
 
 ## Natural Language Processing 
 
