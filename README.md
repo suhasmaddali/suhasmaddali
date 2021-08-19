@@ -31,7 +31,7 @@ Natural Language Processing (NLP) is converting a natural text into a form that 
 &emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In Twitter, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics. It is important to identify comments and extract key features from text so that positive and negative comments could be separated. In this project, we are going to be extracting useful information from texts and understand key components for differentiating between the positive texts and the negative texts. 
    
 ## Computer Vision Projects 
-&emsp;&emps; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
+&emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
 
 
 
