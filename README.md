@@ -9,7 +9,8 @@ It is with my interest and passion towards the field that I started to apply my 
 🌱 Below are the links to my projects on GitHub. 
 
 ### Machine Learning Projects 
-        ◦ Support Vector Machines
+        ◦ Washington Bike Demand Prediction 
+        In this project, the demand for bikes during different times of the day would be predicted using various machine learning and deep learning techniques. 
 
 
 
