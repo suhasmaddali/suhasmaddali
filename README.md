@@ -9,7 +9,7 @@ It is with my interest and passion towards the field that I started to apply my 
 🌱 Below are the links to my projects on GitHub. 
 
 ## Machine Learning Projects 
-In this section, different set of machine learning projects are highlighted. There is a brief description about the projects along with useful definitions. In the next few sections, subjects of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered. 
+In this section, different set of machine learning projects are highlighted. There is a brief description about the projects along with useful definitions. In the next few sections, subsets of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization. 
 
 &emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for rental             bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and correlation matrix was plotted to get an understanding of the relationship betweep features.
 
