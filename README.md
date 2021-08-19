@@ -21,7 +21,10 @@ In this section, different set of machine learning projects are highlighted. The
 
 &emsp;&emsp;[🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) - There are features that are important to predict heart disease in a patient such as Blood Pressure (BP), BMI and other factors. Since doctors cannot take into account all the factors and suggest whether a person may or may not have a heart disease, it is time to use the machine learning and deep learning algorithms to the rescue. In this machine learning project, various features such as BMI, Cholestrol and other factors are considered for predicting the chances of a person to suffer from a heart disease. Various machine learning models were used for the predictions and their precision, recall and accuracy were plotted respectively. 
 
-&ensp;&ensp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) - In Quora, there are numerious questions being asked everyday during different instances of time. It is important for the company to determine whether the newly asked questions are similar to the ones that were asked before. This would save a lot of memory and resources on the part of Quora. With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones. Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company. 
+&emsp;&emsp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) - In Quora, there are numerious questions being asked everyday during different instances of time. It is important for the company to determine whether the newly asked questions are similar to the ones that were asked before. This would save a lot of memory and resources on the part of Quora. With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones. Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company. 
+
+&emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In some devices such as smartwatches and phones, there is a possibility to detect activity based on our hand movements and other important parameters. 
+
 <br/><br/>
 ## Natural Language Processing (NLP) projects
 Natural Language Processing (NLP) is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects. 
@@ -31,7 +34,7 @@ Natural Language Processing (NLP) is converting a natural text into a form that 
 &emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In Twitter, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics. It is important to identify comments and extract key features from text so that positive and negative comments could be separated. In this project, we are going to be extracting useful information from texts and understand key components for differentiating between the positive texts and the negative texts. 
    
 ## Computer Vision Projects 
-&emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
+
 
 
 
