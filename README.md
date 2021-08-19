@@ -12,7 +12,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 &emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for rental             bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and correlation matrix was plotted to get an understanding of the relationship betweep features.
 
-&emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
+&emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction) - In this machine learning project, the prices of cars would be predicted based on features such as horsepower (HP), Mileage, Make and other features. Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions. 
 
 
    
