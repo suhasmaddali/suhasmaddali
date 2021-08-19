@@ -45,6 +45,8 @@ Computer Vision is a subset of artificial intelligence which gives the computer 
 ## Data Visualization Projects 
 It is important to note that data visualization is the key to extract insights from the data. In addition to this, it also gives us insights about whether new features must be created or removed. If we find that there is a strong correlation between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects. 
 
+&emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis/blob/main/Youtube%20Video%20Analysis%20Python.ipynb) - Since there are many videos being uploaded everyday, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots. 
+
 &emsp;&emsp; 
 
 
