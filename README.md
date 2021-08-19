@@ -18,8 +18,12 @@ It is with my interest and passion towards the field that I started to apply my 
 
 &emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) - Cancer is a life-threatening disease, and it is really important to take the right steps in order to prevent this disease. Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid Doctors in predicting the chances of cancer. In this project, the chances of occurrence of cancer belonging to 9 classes is predicted using Machine Learning. Since there are more than 2 classes, it is a multi-class classification problem. 
 
+&emsp;&emsp;[🧡Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)
 
-## Natural Langugae Processing 
+
+## Natural Language Processing 
+
+&emsp;&emsp; [
 
    
         
