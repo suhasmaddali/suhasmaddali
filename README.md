@@ -6,6 +6,10 @@ It is with my interest and passion towards the field that I started to apply my 
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees and Naive Bayes. 
 
+🌱 Below are the links to my projects on GitHub. 
+
+Since Machine Learning is a diverse field where the algorithms could be applied in different areas, I have created sections for projects depending on their application and their area.
+
 
 <!--
 **suhasmaddali/suhasmaddali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
