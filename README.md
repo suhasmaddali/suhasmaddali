@@ -14,7 +14,7 @@ Since Machine Learning is a diverse field where the algorithms could be applied 
 
 There is a huge amount of text generated every second. It is important to use the text and get an understanding of it. Text could be in the form of articles, news, street signs and textbooks. I've worked with Natural Language Processing and below are some of the projects along with their brief description. 
 
-### Twitter Sentiment Analysis - In this project, the sentiment of a text on Twitter would be predicted using various Machine Learning Models. 
+#### Twitter Sentiment Analysis - In this project, the sentiment of a text on Twitter would be predicted using various Machine Learning Models. 
 https://github.com/suhasmaddali/Twitter-Sentiment-Analysis 
 
 
