@@ -47,7 +47,7 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis/blob/main/Youtube%20Video%20Analysis%20Python.ipynb) - Since there are many videos being uploaded everyday, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots. 
 
-&emsp;&emsp; 
+&emsp;&emsp; [💬Reddit Comment Analysis
 
 
 
