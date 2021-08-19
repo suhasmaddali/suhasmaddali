@@ -10,7 +10,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 Since Machine Learning is a diverse field where the algorithms could be applied in different areas, I have created sections for projects depending on their application and their area.
 
-## Natural Language Processing (NLP) projects
+#### Natural Language Processing (NLP) projects
 
 There is a huge amount of text generated every second. It is important to use the text and get an understanding of it. Text could be in the form of articles, news, street signs and textbooks. I've worked with Natural Language Processing and below are some of the projects along with their brief description. 
 
