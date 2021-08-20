@@ -51,13 +51,14 @@ It is important to note that data visualization is the key to extract insights f
 
 These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
 
-Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!
+Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 LinkedIn: https://www.linkedin.com/in/suhas-maddali-b9b146136/
+
 Email: Suhas.maddali.edu@gmail.com
 
 
-
+😄😄😄😄😄😄😄😄😄😄😄😄
 
 
 
