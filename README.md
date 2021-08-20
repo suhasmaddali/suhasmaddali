@@ -57,6 +57,8 @@ LinkedIn: https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 Email: Suhas.maddali.edu@gmail.com
 
+Medium: https://suhas-maddali007.medium.com
+
 
 😄😄😄😄😄😄😄😄😄😄😄😄
 
