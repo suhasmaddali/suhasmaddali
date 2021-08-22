@@ -57,9 +57,9 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
-Email: Suhas.maddali.edu@gmail.com
+__Email:__ Suhas.maddali.edu@gmail.com
 
-Medium: https://suhas-maddali007.medium.com
+__Medium:__ https://suhas-maddali007.medium.com
 
 
 😄😄😄😄😄😄😄😄😄😄😄😄
