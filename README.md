@@ -55,7 +55,7 @@ These are some of my projects that I have worked and uploaded on GitHub. Feel fr
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
-LinkedIn: https://www.linkedin.com/in/suhas-maddali-b9b146136/
+__ __LinkedIn: https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 Email: Suhas.maddali.edu@gmail.com
 
