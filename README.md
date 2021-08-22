@@ -49,7 +49,7 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded everyday, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots. 
 
-&emsp;&emsp; [🔍Google Play store genre prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different type of apps in Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyse the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively. 
+&emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different type of apps in Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyse the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively. 
 
 These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
 
