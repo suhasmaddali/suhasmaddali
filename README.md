@@ -16,6 +16,8 @@ https://suhas-maddali007.medium.com
 ## Machine Learning Projects 
 In this section, different set of machine learning projects are highlighted. There is a brief description about the projects along with useful definitions. In the next few sections, subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization. 
 
+<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a></p>
+
 &emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for rental             bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and correlation matrix was plotted to get an understanding of the relationship betweep features.
 
 &emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction) - In this machine learning project, the prices of cars would be predicted based on features such as horsepower (HP), Mileage, Make and other features. Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions. 
