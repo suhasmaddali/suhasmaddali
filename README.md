@@ -6,6 +6,8 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights.
 
+My interest in machine learning and artificial intelligence started when I was in my final year of engineering. I remember that we had to pick a final year project. During that time, I could see that machine learning and artificial intelligence were talked about mostly on the internet, and it's capacity to revolutionize people's lives. I suggested my teammates that using learning for healthcare is a really good practice. Me and my teammates worked with using Machine Learning to predict the chances of a person to suffer from a Heart Disease respectively. 
+
 📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts to the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles. 
 https://suhas-maddali007.medium.com
 
