@@ -12,7 +12,10 @@ https://suhas-maddali007.medium.com
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees and Naive Bayes. 
 
 __More information about me:__
-I've been active on LinkedIn as well. I'm sharing my knowledge to communities by uploading the latest posts, news and insights gained during my experience of performing the machine learning and deep learning algorithms. 
+
+I've been active on LinkedIn as well. I'm sharing my knowledge to communities by uploading the latest posts, news and insights gained during my experience of performing the machine learning and deep learning algorithms. Below is the link to my LinkedIn profile. Feel free to connect with me. Thanks!
+
+https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 🌱 Below are the links to my projects on GitHub. 
 
