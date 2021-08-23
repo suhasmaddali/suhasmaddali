@@ -4,14 +4,14 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
-It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights.
+It is with my interest and passion towards the fieℹld that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights.
 
 📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts to the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles. 
 https://suhas-maddali007.medium.com
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees and Naive Bayes. 
 
-__More information about me:__
+💁‍♂️ℹ️__More information about me:__
 
 I've been active on LinkedIn as well. I'm sharing my knowledge to communities by uploading the latest posts, news and insights gained during my experience of performing the machine learning and deep learning algorithms. Below is the link to my LinkedIn profile. Feel free to connect with me. Thanks!
 
