@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm really passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level. 
 
@@ -6,7 +6,7 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 It is with my interest and passion towards the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as "Machine Learning" and "Deep Learning Specialization" both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights.
 
-# 📔📓My Inspiration😁😀: 
+## 📔📓My Inspiration😁😀: 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
 My interest in machine learning and artificial intelligence started when I was in my final year pursuing Bachelor of Technology. I remember that we had to pick a final year project. During that time, I could see that machine learning and artificial intelligence were talked about mostly on the internet, and it's potential to revolutionize people's lives. I suggested my teammates that using machine learning for healthcare is a really good practice. Me and my teammates worked with using Machine Learning to predict the chances of a person to suffer from a Heart Disease respectively. The challenge with diagnosing whether a person would suffer from a heart disease using traditional methods are that they are often slow and require a lot of time ane effort by the doctors. Therefore, we looked for various ways at which we would automate the process. We were able to download dataset from Kaggle and implement the machine learning models for predictions for heart disease dataset. We were able to get good results on the test set. I could see how machine learning was used for diagnosing whether a person would suffer from a heart disease. It spiked an interest where I tried to look for ways at which I could apply machine learning. I came across Kaggle - a website that allows people to download datasets for machine learning and artificial intelligence purposes. I applied my knowledge of machine learning and data science in different domains such as healtcare, academia and retail industries.😁😀
