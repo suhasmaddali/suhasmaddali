@@ -68,7 +68,7 @@ There are numerous machine learning and data science courses that I went through
 
 [Machine Learning by Stanford University](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf) - This is a course taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). I was able to understand the theory behind machine learning and deep learning models. Furthermore, he also gives practical advice on how machine learning could be used in different industries. The language that was used for programming was Octave. Overall, this gave me a good understanding of machine learning and I was able to enter the field starting with this course. 
 
-[Data Science and Machine Learning Bootcamp with R](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
+[Data Science and Machine Learning Bootcamp with R](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf) - R is a programming language that could be used for statistical purposes. I was able to implement the machine learning models using R. There are various ways at which R programming language is used in different scenarios. The was taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/). It gave a good insight about using R for machine learning purposes. Most of the videos are focused on practical implementation of the machine learning models respectively. 
 
 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf)
 
