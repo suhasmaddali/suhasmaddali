@@ -64,7 +64,7 @@ It is important to note that data visualization is the key to extract insights f
 ## List of Certifications
 There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
 
-#emsp;&emsp; [Data Science and Machine Learning Bootcamp with R](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
+[Data Science and Machine Learning Bootcamp with R](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
 
 
 
