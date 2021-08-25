@@ -10,6 +10,7 @@ It is with my interest and passion towards the field that I started to apply my 
 
 My interest in machine learning and artificial intelligence started when I was in my final year pursuing Bachelor of Technology. I remember that we had to pick a final year project. During that time, I could see that machine learning and artificial intelligence were talked about mostly on the internet, and it's potential to revolutionize people's lives. I suggested my teammates that using machine learning for healthcare is a really good practice. Me and my teammates worked with using Machine Learning to predict the chances of a person to suffer from a Heart Disease respectively. We were able to download dataset from Kaggle and implement the machine learning models for predictions for heart disease dataset. We were able to get good results on the test set. I could see how machine learning was used for diagnosing whether a person would suffer from a heart disease. It spiked an interest where I tried to look for ways at which I could apply machine learning. I came across Kaggle - a website that allows people to download datasets for machine learning and artificial intelligence purposes. I applied my knowledge of machine learning and data science in different domains such as healtcare, academia and retail industries.😁😀
 
+## Blogs on Medium:
 📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts to the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles. 
 https://suhas-maddali007.medium.com
 
@@ -81,7 +82,7 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
-__Email:__ Suhas.maddali.edu@gmail.com
+📫 __Email:__ Suhas.maddali.edu@gmail.com
 
 __Medium:__ https://suhas-maddali007.medium.com
 
