@@ -68,6 +68,8 @@ There are numerous machine learning and data science courses that I went through
 
 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf)
 
+[Machine Learning by Stanford University](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf)
+
 
 These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
 
