@@ -28,7 +28,7 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 🌱 Below are the links to my projects on GitHub. 
 
 ## Machine Learning Projects 
-In this section, different set of machine learning projects are highlighted. There is a brief description about the projects along with useful definitions. In the next few sections, subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization. 
+In this section, different set of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description about the projects along with useful definitions. In the next few sections, subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization. 
 
 &emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for rental             bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and correlation matrix was plotted to get an understanding of the relationship betweep features.
 
