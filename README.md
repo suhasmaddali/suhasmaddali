@@ -14,14 +14,14 @@ My interest in machine learning and artificial intelligence started when I was i
 ### 📄📉Blogs on Medium:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/andrew-neel-cckf4TsHAuw-unsplash.jpg)
-📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts to the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles. 
+📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 https://suhas-maddali007.medium.com
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees and Naive Bayes. 
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees, and Naive Bayes.
 
 ### 💁‍♂️ℹ️ __More information about me:__
 
-I've been active on LinkedIn as well. I'm sharing my knowledge to communities by uploading the latest posts, news and insights gained during my experience of performing the machine learning and deep learning algorithms. Below is the link to my LinkedIn profile. Feel free to connect with me. Thanks!
+I've been active on LinkedIn as well. I'm sharing my knowledge with communities by uploading the latest posts, news and insights gained during my experience of performing the machine learning and deep learning algorithms. Below is the link to my LinkedIn profile. Feel free to connect with me. Thanks!
 
 https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
