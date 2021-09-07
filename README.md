@@ -90,6 +90,7 @@ My interest in machine learning started during my final year of engineering at V
 📜 [What are the best applications of Machine Learning](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802) - There has been a significant increase in the number of machine learning applications in the recent decade. In the medium article, I highlight some of the potential applications of machine learning. Machine learning is being used in diverse fields such as social media, image detection and traffic prediction. All these topics are mentioned in the article. 
 
 📜 [Why is it just as important for machine learning models to be fair as well as being accurate](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123)
+
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
