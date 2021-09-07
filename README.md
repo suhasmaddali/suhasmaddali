@@ -95,7 +95,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [How important is data in Machine Learning](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435) - Data is present all around us. Companies generate ton of data in different ways which could be used for machine learning and deep learning purposes respectively. In the medium article, the importance of data is shown. Moreover, there could be data in different forms that could be used for machine learning. Data could be either in categorical forms or numerical format. Various steps must be taken for various data points in order to get the outputs. Various types of data are described. 
 
-📜 [What are Convoluted Neural Networks (CNN)](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665)
+📜 [What are Convoluted Neural Networks (CNN)](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665) - Computer Vision is applying deep learning models in order to classify objects in images and videos. It is important to understand Convoluted Neural Networks (CNNs) so that we could use them for our machine learning tasks. In this article, Convoluted Neural Networks are described. Feel free to take a look! 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
