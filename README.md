@@ -87,7 +87,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09) - In this article, basic definitions of machine learning and deep learning are mentioned. Overfitting and Underfitting are some of the challenges in machine learning. Their definitions and various ways at which those could be avoided are also talked about in the article. There are different types of machine learning such as supervised machine learning, unsupervised machine learning and semi-supervised machine learning respectively. Their definitions and usefulness are mentioned. 
 
-📜 [What are the best applications of machine learning](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
+📜 [What are the best applications of Machine Learning](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802) - There has been a significant increase in the number of machine learning applications in the recent decade. In the medium article, I highlight some of the potential applications of machine learning. 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
