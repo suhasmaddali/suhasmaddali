@@ -85,7 +85,7 @@ These are some of my projects that I have worked and uploaded on GitHub. Feel fr
 ## Blogs 
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
 
-📜 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
+📜 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09) - In this article, basic definitions of machine learning and deep learning are mentioned. Overfitting and Underfitting are some of the challenges in machine learning. Their definitions and various ways at which those could be avoided are also talked about in the article. There are different types of machine learning such as supervised machine learning, unsupervised machine learning and semi-supervised machine learning respectively. Their definitions and usefulness are mentioned. 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
