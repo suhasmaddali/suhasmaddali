@@ -91,6 +91,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [Why is it just as important for Machine Learning Models to be Fair as well as Accurate](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123) - There are machine learning and deep learning models that might have good accuracy but might be biased. It is important to address the data that is being provided to the machine learning models for prediction. It is also useful to give data that depicts the real-world use cases respectively. Sometimes the data that is given to the machine learning models might be biased. Therefore, steps must be taken to ensure that models take data that is unbiased. I've highlighted various ways at which machine learning models might be biased. Feel free to click on the link to get started. 
 
+📜 [Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b) 
+
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
