@@ -93,6 +93,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b) - GPUs are quite often used to run graphics intensive games and used by gamers. However, it is important to note that they could also be used to perform deep learning computations. In the article, I've mentioned some of the differences between a CPU and a GPU. In addition, I've described how the computations would increase with the help of GPUs as compared to that of CPUs. 
 
+📜 [How important is data in Machine Learning](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435)
+
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
