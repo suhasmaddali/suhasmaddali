@@ -97,9 +97,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [What are Convoluted Neural Networks (CNN)?](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665) - Computer Vision is applying deep learning models in order to classify objects in images and videos. It is important to understand Convoluted Neural Networks (CNNs) so that we could use them for our machine learning tasks. In this article, Convoluted Neural Networks are described. Feel free to take a look! 
 
-📜 [How Machine Learning could be used in the Cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
-
-[How machine learning could be used in the cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
+📜 [How Machine Learning could be used in the Cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5) - There are a lot of cloud based services that are present. We see companies such as Amazon and Google releasing their cloud services where the infrastructure is provided by them. In the medium article, I’ve highlighted how cloud could be used for machine learning. Since the field of data science require good amount of computational resources, it would be wise to use the cloud based platforms to perform training and testing the machine learning and deep learning models. 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
