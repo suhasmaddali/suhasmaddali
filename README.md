@@ -106,11 +106,11 @@ My interest in machine learning started during my final year of engineering at V
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
-🖇__LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
+🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 📫 __Email:__ Suhas.maddali.edu@gmail.com
 
-✍🏻__Medium:__ https://suhas-maddali007.medium.com
+✍🏻 __Medium:__ https://suhas-maddali007.medium.com
 
 
 😄😄😄😄😄😄😄😄😄😄😄😄
