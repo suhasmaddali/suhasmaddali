@@ -101,6 +101,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📜 [In Machine Learning, Correlation might not always be equal to Causation](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) - When taking into account visualizations from different features in our data, we could sometimes assume that correlated features are dependent on each other and occurrence of one feature might lead to the occurrence of the other. However, this might not always be true when performing the visualizations. In the blog, I’ve written examples and illustrations where correlation might not always be equal to causation and explained the details. 
 
+📜 [Predicting the Sentiment of a text using Machine Learning](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97) - There is an abundance of text around us. Since text is in the string format when talking in terms of computer context, it is important that steps are taken to convert it into a form that could be used for machine learning purposes. We use various natural language processing techniques for the process of converting the raw text into a form that is easily feasible for the machine learning algorithms. In the medium article, I’ve mentioned some of the latest natural language processing techniques. Feel free to have a look! 
+
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
