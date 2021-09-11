@@ -85,6 +85,8 @@ There are numerous machine learning and data science courses that I went through
 
 &emsp;&emsp; 🍐 [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7XJ8XLVS8UA7) - In the first course of the specialization, Andrew Ng concentrates on Logistic Regression, Shallow Neural Networks and Deep Neural Networks for performing various computations and getting the results. He first explains the basics of how a neuron performs complex computations which would inturn lead to predictions. This course gave me a good understanding of the theory behind the working of activation units in the neural networks. 
 
+&emsp;&emsp; 🍐 [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/Z996T3GTDQSE) - It is important to take measures to improve the performance of the deep learning models. In this second course under Deep Learning Specialization, structuring a machine learning projects and understanding bias, variance and practical applications of deep learning is taught by the instructor. Overall, it gave me a good foundation to apply my machine leanring knowledge to practical real-time projects. 
+
 ## Blogs 
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
 
