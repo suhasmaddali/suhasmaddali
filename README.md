@@ -85,8 +85,6 @@ There are numerous machine learning and data science courses that I went through
 
 &emsp;&emsp; 🍐 [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7XJ8XLVS8UA7) - In the first course of the specialization, Andrew Ng concentrates on Logistic Regression, Shallow Neural Networks and Deep Neural Networks for performing various computations and getting the results. He first explains the basics of how a neuron performs complex computations which would inturn lead to predictions. This course gave me a good understanding of the theory behind the working of activation units in the neural networks. 
 
-These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
-
 ## Blogs 
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
 
@@ -112,6 +110,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad) - Text is available in many forms such as in books, articles, magazines, and publications. It would be really wise to make use of the text that is present in industries. We've seen how Facebook has released the GPT algorithm that would take the text and understand the context, making it's predictions in the future. In the medium article, I've mentioned the use of GPT by giving numerous examples of it's working respectively. Feel free to share your thoughts from the article. Thanks! 
 
+These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
