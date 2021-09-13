@@ -28,6 +28,7 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 🌱 Below are the links to my projects on GitHub. 
 
 ## Machine Learning Projects 
+![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization.
 
 ![](https://github.com/suhasmaddali/Images/blob/main/markus-winkler-f57lx37DCM4-unsplash.jpg)
