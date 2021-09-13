@@ -97,6 +97,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
+
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/glenn-carstens-peters-6rkJD0Uxois-unsplash.jpg)
