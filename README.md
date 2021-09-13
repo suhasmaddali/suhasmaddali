@@ -118,6 +118,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad) - Text is available in many forms such as in books, articles, magazines, and publications. It would be really wise to make use of the text that is present in industries. We've seen how Facebook has released the GPT algorithm that would take the text and understand the context, making it's predictions in the future. In the medium article, I've mentioned the use of GPT by giving numerous examples of it's working respectively. Feel free to share your thoughts from the article. Thanks! 
 
+📃 [How to understand Machine Learning?](https://medium.com/nerd-for-tech/how-to-understand-machine-learning-237492943525) - In this article, I discuss various courses that teach machine learning such as courses by Andrew Ng and Jose Portilla. Moreover, various steps are mentioned about the proper use of these courses to gain a good understanding of machine learning algorithms. 
+
 These are some of my projects that I have worked and uploaded on GitHub. Feel free to reach out if you have any questions or explanation of the projects. Looking forward to share my knowledge to the community.
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
