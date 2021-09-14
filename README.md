@@ -128,6 +128,8 @@ These are some of my projects, blogs and certifications that I have worked and u
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
+![](https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif)
+
 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 📫 __Email:__ Suhas.maddali.edu@gmail.com
