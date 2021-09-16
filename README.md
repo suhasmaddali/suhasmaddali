@@ -132,6 +132,8 @@ https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learni
 
 https://www.springboard.com/library/machine-learning-engineering/how-to-become/
 
+https://machinelearningmastery.com/what-is-deep-learning/
+
 These are some of my projects, blogs and certifications that I have worked and uploaded on GitHub. I would be looking forward to learn new technologies in the field of AI and machine learning by going through a few more courses and applying my knowledge in different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to share my knowledge to the community.
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
