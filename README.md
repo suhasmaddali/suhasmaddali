@@ -127,7 +127,6 @@ My interest in machine learning started during my final year of engineering at V
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
-
 https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learning.html
 
 These are some of my projects, blogs and certifications that I have worked and uploaded on GitHub. I would be looking forward to learn new technologies in the field of AI and machine learning by going through a few more courses and applying my knowledge in different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to share my knowledge to the community.
