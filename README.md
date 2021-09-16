@@ -142,6 +142,8 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 📫 __Email:__ Suhas.maddali.edu@gmail.com
 
+__Facebook:__ https://www.facebook.com/suhas.maddali
+
 ✍🏻 __Medium:__ https://suhas-maddali007.medium.com
 
 
