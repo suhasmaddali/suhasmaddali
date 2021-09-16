@@ -93,7 +93,7 @@ There are numerous machine learning and data science courses that I went through
 
 &emsp;&emsp; 🍐 [Convoluted Neural Networks](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F) - In the final course of the Deep Learning Specialization, the instructor teaches the foundations of Convoluted Neural Networks (CNNs). Also, Deep Convoluted Neural Networks along with case studies are included in the lectures. Finally, Face Recognition Technology and Neural Style Transfer are taught in the course, giving a good idea of their work. Hence, I was able to get a good amount of working knowledge in the field of data science and deep learning by going through all the courses and completing the specialization. 
 
-## Blogs 
+## My Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
 
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
