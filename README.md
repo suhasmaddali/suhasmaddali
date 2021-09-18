@@ -133,7 +133,7 @@ My interest in machine learning started during my final year of engineering at V
 
 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu) - I'm currently pursuing a [Master's in Data Science](https://www.khoury.northeastern.edu/programs/data-science-ms/) at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress towards learning the concepts of data science. Courses such as Supervised Machine Learning, Unsupervised Machine Learning and Data Visualization helped me understand the practical ways at which data science is used in industrial applications. 
 
-🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](https://www.google.com/search?client=safari&rls=en&q=vnr+vjiet&ie=UTF-8&oe=UTF-8)
+🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](https://www.google.com/search?client=safari&rls=en&q=vnr+vjiet&ie=UTF-8&oe=UTF-8) - I've completed Bachelor of Technology in the field of [Electronics and Communication (ECE)](http://www.vnrvjiet.ac.in/ece.php) and got a good understanding of the concepts such as resistors and conductors and how they influence the overall circuit in real-life. 
 
 ## Useful Links
 
