@@ -126,7 +126,7 @@ My interest in machine learning started during my final year of engineering at V
 
 ## My Education
 
-🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu) - I'm currently pursuing a master's in data science at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress towards learning the concepts of data science. 
+🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu) - I'm currently pursuing a [Master's in Data Science](https://www.khoury.northeastern.edu/programs/data-science-ms/) at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress towards learning the concepts of data science. 
 
 ## Useful Links
 
