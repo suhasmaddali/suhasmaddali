@@ -126,7 +126,7 @@ My interest in machine learning started during my final year of engineering at V
 
 ## Education
 
-Northeastern University Khoury College of Computer Science- I'm currently pursuing a master's in data science at Khoury College of Computer sciences. It is a very interesting course and the lectures are quite good. 
+[Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu) - I'm currently pursuing a master's in data science at Khoury College of Computer sciences. It is a very interesting course and the lectures are quite good. 
 
 ## Useful Links
 
