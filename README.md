@@ -135,6 +135,8 @@ My interest in machine learning started during my final year of engineering at V
 
 🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](https://www.google.com/search?client=safari&rls=en&q=vnr+vjiet&ie=UTF-8&oe=UTF-8) - I've completed Bachelor of Technology in the field of [Electronics and Communication Engineering(ECE)](http://www.vnrvjiet.ac.in/ece.php) and got a good understanding of the concepts such as resistors and conductors and how they influence the overall circuit in real-life. During my 4 year journey of Electronics and Communication Engineering, I came to a conclusion that we would be learning various communication devices such as satellites and circuits that would influence the ways at which a mobile signal is being received for mobile applications. Furthermore, this gave me a good understanding of signal processing and other important topics that could also be used in machine learning analysis respectively.
 
+🏫 [Narayana Junior College](https://www.narayanagroup.com)
+
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
