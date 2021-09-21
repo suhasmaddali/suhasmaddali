@@ -31,7 +31,8 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 During the process of understanding and using machine learning models, I've learned skills and programmming languages that helped me accelerate machine learning projects. These tools and techniques have been influential in the way at which I approached machine learning and deep learning problems. Knowledge of Python and R really helped me perform statistical analysis and machine learning predictions. The libraries that are available in Python aid in developing machine learning models quite easily. 
 
 👉 Python &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  👉 R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL 
-👉 Java 
+
+👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Natural Language Processing (NLP) 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
