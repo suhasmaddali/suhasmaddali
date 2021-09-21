@@ -32,7 +32,7 @@ During the process of understanding and using machine learning models, I've lear
 
 👉 Python &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  👉 R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL 
 
-👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Octave &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 C 
+👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Octave &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 👉 C 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
