@@ -29,6 +29,7 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 ## My Skills 
 During the process of understanding and using machine learning models, I've learned skills and programmming languages that helped me accelerate machine learning projects. 
+
 👉 Python &emsp;&emsp;&emsp;&emsp;&emsp; 👉 R &emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL &emsp;&emsp;&emsp;&emsp;&emsp; 👉 Java 
 
 ## My Machine Learning Projects 
