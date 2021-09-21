@@ -29,7 +29,7 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
 ## My Skills 
 
-👉 Python &emsp;&emsp;&emsp; 👉 SQL 
+👉 Python &emsp;&emsp;&emsp;&emsp;&emsp; 👉 R &emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
