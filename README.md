@@ -28,8 +28,8 @@ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 🌱 Below are the links to my projects on GitHub. 
 
 ## My Skills 
-
-👉 Python &emsp;&emsp;&emsp;&emsp;&emsp; 👉 R &emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL 
+During the process of understanding and using machine learning models, I've learned skills and programmming languages that helped me accelerate machine learning projects. 
+👉 Python &emsp;&emsp;&emsp;&emsp;&emsp; 👉 R &emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL &emsp;&emsp;&emsp;&emsp;&emsp; 👉 Java 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
