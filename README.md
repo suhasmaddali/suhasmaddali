@@ -32,7 +32,7 @@ During the process of understanding and using machine learning models, I've lear
 
 👉 Python &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  👉 R &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 SQL 
 
-👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Octave &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 👉 C 
+👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Octave &emsp;&emsp;&emsp;&emsp;&emsp;👉 C 
 
 👉 Tensorflow &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Keras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Spark 
 
