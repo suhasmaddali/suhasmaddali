@@ -83,8 +83,6 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
 
-## My Work Experience
-
 ## My List of Certifications
 ![](https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg)
 There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
@@ -108,6 +106,9 @@ There are numerous machine learning and data science courses that I went through
 &emsp;&emsp; 🍐 [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/GN8G647GTLCR) - When performing the deep learning computations, it is always a good idea to perform hyperparameter tuning in order to get the best results for our test set. In the course, the importance of regularization and hyperparameter tuning is taught by the instructor. Furthermore, various optimization algorithms are taught by the instructor. All-in-all, it was a good course that covered the important aspects of deep learning in a data science life cycle respectively. 
 
 &emsp;&emsp; 🍐 [Convoluted Neural Networks](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F) - In the final course of the Deep Learning Specialization, the instructor teaches the foundations of Convoluted Neural Networks (CNNs). Also, Deep Convoluted Neural Networks along with case studies are included in the lectures. Finally, Face Recognition Technology and Neural Style Transfer are taught in the course, giving a good idea of their work. Hence, I was able to get a good amount of working knowledge in the field of data science and deep learning by going through all the courses and completing the specialization. 
+
+## My Work Experience 
+
 
 ## My Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
