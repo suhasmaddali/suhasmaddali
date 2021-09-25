@@ -109,6 +109,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## My Work Experience 
 
+[Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. 
 
 ## My Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
