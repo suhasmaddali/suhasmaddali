@@ -109,7 +109,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## My Work Experience 
 
-[Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convoluted Neural Networks (CNN) to detect images present in front of the Bionic hand in the company.
+🤖🦾 [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convoluted Neural Networks (CNN) to detect images present in front of the Bionic hand in the company.
 
 ## My Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
