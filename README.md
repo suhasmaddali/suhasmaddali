@@ -115,7 +115,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## My Volutary Experience
 
-[VNR SF](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ) - I was a member of VNR SF and I was mostly influential in driving the goals of the team in helping the community by providing the needy access to the resources and books. This gave me a good experience of working with different individuals and learning about their goals and dreams.
+👨‍💼 [VNR SF](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ) - I was a member of VNR SF and I was mostly influential in driving the goals of the team in helping the community by providing the needy access to the resources and books. This gave me a good experience of working with different individuals and learning about their goals and dreams.
 
 ## My Education
 
