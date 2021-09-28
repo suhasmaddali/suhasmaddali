@@ -167,7 +167,7 @@ My interest in machine learning started during my final year of engineering at V
 ## References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence. 
 
-[Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/)
+[Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of Solbots Technologies Private Limited. During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work with in machine learning so that we could drive the best outcomes of the company. 
 
 ## Useful Links
 
