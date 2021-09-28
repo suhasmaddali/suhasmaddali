@@ -164,7 +164,10 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Introduction to Natural Language Processing for Machine Learning](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213) - There is abundance of text present in magazines, newspapers, articles and blogs. In order to use the natural text, conversion mechanisms must be followed which would ensure that we get the best results when performing machine learning analysis. In the article, I've mentioned various natural language processing steps and ways to process a raw text and convert it to a form that could be used for machine learning purposes. Feel free to take a look!
 
-## References/Testimonials
+## References
+During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence. 
+
+Mano Satya Sai 
 
 ## Useful Links
 
