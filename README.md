@@ -38,7 +38,7 @@ During the process of understanding and using machine learning models, I've lear
 
 👉 Tensorflow &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Keras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Spark 
 
-👉 Sklearn &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 NLP &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Typing (100 WPM) 
+👉 Sklearn &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 NLP &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Typing (100 WPM) 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
