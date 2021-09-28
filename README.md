@@ -38,7 +38,7 @@ During the process of understanding and using machine learning models, I've lear
 
 👉 Tensorflow &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Keras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Spark 
 
-👉 Sklearn &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Natural Language Processing (NLP) 
+👉 Sklearn #emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Natural Language Processing (NLP) 
 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
