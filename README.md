@@ -36,7 +36,7 @@ During the process of understanding and using machine learning models, I've lear
 
 👉 Java &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    👉 Octave &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;👉 C 
 
-👉 Tensorflow &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Keras &ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&emsp;&ensp;&ensp;&ensp;&ensp; 👉 Spark 
+👉 Tensorflow &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 Keras &ensp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;&emsp;&ensp;&ensp;&ensp;&ensp;&emsp; 👉 Spark 
 
 👉 Sklearn &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👉 NLP &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 👉 Typing (100 WPM) 
 
