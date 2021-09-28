@@ -167,7 +167,7 @@ My interest in machine learning started during my final year of engineering at V
 ## References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence. 
 
-Mano Satya Sai 
+[Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/)
 
 ## Useful Links
 
