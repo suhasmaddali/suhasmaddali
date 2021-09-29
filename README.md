@@ -169,6 +169,9 @@ During my work and my LinkedIn contributions, I came across a wonderful set of p
 
 ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of Solbots Technologies Private Limited. During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work with in machine learning so that we could drive the best outcomes of the company. 
 
+✅ [Eugenia Dickson](https://www.linkedin.com/in/eugenia-dickson-sf/) - I was able to get good insights about data science and machine learning with the help of Eugenia Dickson. We talked about different machine learning techniques that could be applied and also, learned the key insights in the field of machine learning and data science. 
+
+
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
