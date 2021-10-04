@@ -154,6 +154,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Introduction to Natural Language Processing for Machine Learning](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213) - There is abundance of text present in magazines, newspapers, articles and blogs. In order to use the natural text, conversion mechanisms must be followed which would ensure that we get the best results when performing machine learning analysis. In the article, I've mentioned various natural language processing steps and ways to process a raw text and convert it to a form that could be used for machine learning purposes. Feel free to take a look!
 
+📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) - Machine learning and data science could be used in different domains. It is important to note that machine learning could be used in medical diagnosis where patients could be treated by taking a look at various features that are important for machine learning predictions. In the medium article, I've highlighted how machine learning and data science could be used in the medical industry along with their potential challenges. Feel free to take a look at the article. Thanks. 
+
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
