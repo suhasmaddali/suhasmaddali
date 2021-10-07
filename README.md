@@ -17,6 +17,8 @@ My interest in machine learning and artificial intelligence started when I was i
 
 ### 📄📉Blogs on Medium:
 
+![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 ![](https://github.com/suhasmaddali/Images/blob/main/andrew-neel-cckf4TsHAuw-unsplash.jpg)
 📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 https://suhas-maddali007.medium.com
