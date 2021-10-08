@@ -10,7 +10,7 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
-## 🛠 My Skills: 
+## 🪚🔧 My Skills 😀😀: 
 
 I've learend coding right from a young age. I learned C language and then now learning python which really gave me an edge for learning machine learning and data science. I was able to learn and understand the code well. Later, I also learned various other programming languages such as R which were really important in order to become a machine learning engineer or a data scientist. Below are the list of some of my skills that I've gained throughout my experience of working with data science and machine learning. Feel free to take a look. 
 
