@@ -33,7 +33,7 @@ https://suhas-maddali007.medium.com
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees, and Naive Bayes.
 
-## 🕹🎮 My Additional Information👨‍💻👨‍💻: 
+## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
 
