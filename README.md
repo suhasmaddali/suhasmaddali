@@ -6,7 +6,7 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
 
  
- ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) ![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white) ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
@@ -37,6 +37,8 @@ https://suhas-maddali007.medium.com
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
 
+ ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) ![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white) 
+ 
 ## My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
 
