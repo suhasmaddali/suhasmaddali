@@ -198,7 +198,7 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
 
-📫 __Email:__ Suhas.maddali.edu@gmail.com
+📫 __Email:__ Suhas.maddali.chinnu@gmail.com
 
 📘 __Facebook:__ https://www.facebook.com/suhas.maddali
 
