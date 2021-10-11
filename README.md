@@ -136,7 +136,7 @@ There are numerous machine learning and data science courses that I went through
 
 🏫 [Vikas The Concept School](https://vikasconcept.com) - During my education in Vikas The Concept School, I had a good foundation in mathematics, physics, social sciences, and Indian languages. Furthermore, we also had extracurricular activities that really shaped the way in which I viewed education, and they made a good impact. I was also involved in student leadership activities that really gave me good knowledge about how to handle people and derive outcomes in efficient ways. I was also involved in dance clubs and singing clubs where I gave a live performance in front of a group of people. This gave me a lot of confidence and I was able to somehow manage the fear of public speaking. All in all, my school was one of the best experiences where I could learn the theoretical concepts and see how they are being used in real life.  
 
-## My Asssignments and Coursework
+## 🗃📂 My Asssignments and Coursework
 
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
