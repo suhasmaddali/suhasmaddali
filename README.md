@@ -140,6 +140,10 @@ There are numerous machine learning and data science courses that I went through
 
 During my studies at Northeastern Khoury College of Computer Sciences, I was able to complete assignments in various subjects that are related to machine learning (ML) and artificial intelligence. This gave me a good understanding of the principles and the methodologies used by machine learning engineers and data scientists in solving complex problems that are real-time respectively. Solving the assignments and getting a good grade from them really pushed me forward to learn new technologies in the field of data science and this gave me a further good understanding of the usage of various machine learning models in different practices. Some of the courses that I really liked in my Master's in Data Science are Supervised Machine Learning and Introduction to Data Processing and Management respectively. 
 
+### DS5220 Supervised Machine Learning 
+
+
+
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
