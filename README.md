@@ -142,7 +142,7 @@ During my studies at Northeastern Khoury College of Computer Sciences, I was abl
 
 ### DS5220 Supervised Machine Learning 
 
-
+In the machine learning course, various techniques in the field of data science are explained.
 
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
