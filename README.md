@@ -144,6 +144,8 @@ During my studies at Northeastern Khoury College of Computer Sciences, I was abl
 
 In the machine learning course, various techniques in the field of data science are explained. Furthermore, there are interesting assignments and homeworks given that really helped me gain a good intuitive understanding of various machine learning algorithms used by data scientists and machine learning engineers. Apart from the theoretical teachings, assignments were given which really gave me a good understanding of various machine learning techniques. All in all, this course was quite challenging in terms of its course content and the assignments. However, doing those assignments gave me a good knowledge of machine learning and data science respectively. 
 
+[Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
+
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
