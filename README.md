@@ -147,6 +147,8 @@ During my work and my LinkedIn contributions, I came across a wonderful set of p
 
 ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work with in machine learning so that we could drive the best outcomes of the company. 
 
+✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) - He is currently workign in [PathAI](https://www.pathai.com/) 
+
 ## My Blogs 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
 
