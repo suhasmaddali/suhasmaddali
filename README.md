@@ -80,6 +80,9 @@ Computer Vision is a subset of artificial intelligence which gives the computer 
 &emsp;&emsp; 🌾[Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision) - There are a lot of food products that we get from wheat. Wheat is known as the common food staple that could be used to prepare different kinds of food items. Since there are differnet types of wheat available, it is important to identify different kinds of wheat available. In the machine learning project, images of different kinds of wheat heads are taken and made available so that computer vision could be used to understand the wheat heads and distinguish them. Various computer vision algorithms are used to identify the wheat heads respectively. 
 
 ## My Data Visualization Projects 
+
+![](https://github.com/suhasmaddali/Images/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
+
 It is important to note that data visualization is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong correlation between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded every day, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments, and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots.
