@@ -79,7 +79,7 @@ Computer Vision is a subset of artificial intelligence which gives the computer 
 
 &emsp;&emsp; 🌾[Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision) - There are a lot of food products that we get from wheat. Wheat is known as the common food staple that could be used to prepare different kinds of food items. Since there are differnet types of wheat available, it is important to identify different kinds of wheat available. In the machine learning project, images of different kinds of wheat heads are taken and made available so that computer vision could be used to understand the wheat heads and distinguish them. Various computer vision algorithms are used to identify the wheat heads respectively. 
 
-## My Data Visualization Projects 
+## 📊🗺 My Data Visualization Projects 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
