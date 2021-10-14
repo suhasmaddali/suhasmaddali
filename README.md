@@ -39,7 +39,7 @@ Furthermore, I'm also a gamer where I spend some time gaming on steam and other 
 
  ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) ![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white) 
  
-## My Machine Learning Projects 
+## 🤖⚙️ My Machine Learning Projects 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization.
@@ -58,7 +58,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 &emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) - In some devices such as smartwatches and phones, there is a possibility to detect activity based on our hand movements and other important parameters. Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as standing, walking, or playing based on hand movements. Exploratory Data Analysis (EDA) was performed to understand various important features in the data. The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
-## My Natural Language Processing (NLP) projects
+## 🗣📣 My Natural Language Processing (NLP) projects
 Natural Language Processing (NLP) is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
 ![](https://github.com/suhasmaddali/Images/blob/main/roman-kraft-X1exjxxBho4-unsplash.jpg)
@@ -67,7 +67,7 @@ Natural Language Processing (NLP) is converting a natural text into a form that 
 
 &emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In Twitter, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics. It is important to identify comments and extract key features from the text so that positive and negative comments could be separated. In this project, we are going to be extracting useful information from texts and understand key components for differentiating between positive texts and negative texts.
 
-## My Computer Vision Projects
+## 👀👁 My Computer Vision Projects
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif)
 
