@@ -42,7 +42,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
 
-### ⭐️ My Computer Vision Projects
+### ⭐️ Computer Vision Projects
 
 &emsp;&emsp; [🥄Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
 
