@@ -30,6 +30,14 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
+&emsp;&emsp;[🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
+
+&emsp;&emsp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
+
+&emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+
+
+
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
