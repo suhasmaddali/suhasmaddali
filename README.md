@@ -18,7 +18,7 @@ I've learned coding right from a young age. I learned C language and then now le
 
 ## My Portfolio Overview:
 
-I had an amazing experience doing machine learning and deep learning projects. Below are the links to the projects. Feel free to scroll down if you are interested in the project description. 
+I had an amazing experience doing machine learning and deep learning projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of the portfolio where I describe about the projects. 
 
 ### General Machine Learning Projects 
 
@@ -36,7 +36,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
-### My Natural Language Processing Projects 
+### Natural Language Processing Projects 
 
 &emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
 
@@ -50,13 +50,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🌾[Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
 
-### My Data Visualization Projects 
+### Data Visualization Projects 
 
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
-### My List of Certifications
+### List of Certifications
 
 &emsp;&emsp; 🌱 [Python for Data Science and Machine Learning ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
 
