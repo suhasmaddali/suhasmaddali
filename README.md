@@ -20,6 +20,15 @@ I've learned coding right from a young age. I learned C language and then now le
 
 I had an amazing experience doing machine learning and deep learning projects. Below are the links to the projects. Feel free to scroll down if you are interested in the project description. 
 
+#### General Machine Learning Projects 
+
+&emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
+
+&emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
+
+[🏦Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
+
+[👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
 ## 📔📓My Inspiration😀😀:
 
