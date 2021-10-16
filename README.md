@@ -36,7 +36,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
-### Natural Language Processing Projects 
+### ⭐️ Natural Language Processing Projects 
 
 &emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
 
