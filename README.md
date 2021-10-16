@@ -18,7 +18,8 @@ I've learned coding right from a young age. I learned C language and then now le
 
 ## My Brief Overview:
 
-I had an amazing experience doing machine learning and deep learning projects.
+I had an amazing experience doing machine learning and deep learning projects. Below are the links to the projects. Feel free to scroll down if you are interested in the project description. 
+
 
 ## 📔📓My Inspiration😀😀:
 
