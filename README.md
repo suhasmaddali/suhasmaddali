@@ -56,6 +56,28 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
+### My List of Certifications
+
+🌱 [Python for Data Science and Machine Learning ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
+
+🌱 [Machine Learning by Stanford University  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
+
+🌱 [Data Science and Machine Learning Bootcamp with R ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
+
+🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
+
+🌱 [Deep Learning Specialization  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)
+
+&emsp;&emsp; 🍐 [Neural Networks and Deep Learning  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/7XJ8XLVS8UA7)
+
+&emsp;&emsp; 🍐 [Structuring Machine Learning Projects  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/Z996T3GTDQSE)
+
+&emsp;&emsp; 🍐 [Sequence Models  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/HF2XFESMW5BQ)
+
+&emsp;&emsp; 🍐 [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/GN8G647GTLCR)
+
+&emsp;&emsp; 🍐 [Convoluted Neural Networks  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
+
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
