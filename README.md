@@ -26,9 +26,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-[🏦Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
+&emsp;&emsp; [🏦Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
 
-[👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
+&emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
 ## 📔📓My Inspiration😀😀:
 
