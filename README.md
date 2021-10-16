@@ -20,7 +20,7 @@ I've learned coding right from a young age. I learned C language and then now le
 
 I had an amazing experience doing machine learning and deep learning projects. Below are the links to the projects. Feel free to scroll down if you are interested in the project description. 
 
-#### General Machine Learning Projects 
+### General Machine Learning Projects 
 
 &emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
 
@@ -35,6 +35,12 @@ I had an amazing experience doing machine learning and deep learning projects. B
 &emsp;&emsp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
 
 &emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+
+### My Natural Language Processing Projects 
+
+&emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
+
+&emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
 
 
 
