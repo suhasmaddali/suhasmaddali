@@ -18,7 +18,7 @@ I've learned coding right from a young age. I learned C language and then now le
 
 ## 💼🎒 My Portfolio Overview:
 
-I had an amazing experience doing machine learning and deep learning projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of the portfolio where I describe about the projects. 
+I had an amazing experience doing machine learning and deep learning projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of this website where I describe in great detail the projects and the results obtained. Below is just a summary of the entire portfolio. Feel free to take a look. Thanks!
 
 ### ⭐️ Machine Learning Projects 
 
