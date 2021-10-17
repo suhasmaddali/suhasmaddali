@@ -78,6 +78,10 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
+### ⭐️ Blogs
+
+📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
+
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
