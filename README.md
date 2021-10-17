@@ -118,7 +118,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
 
+### ⭐️ References 
 
+&emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/)
+
+&emsp;&emsp; ✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) 
+
+&emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/)
 
 ## 📔📓My Inspiration😀😀:
 
