@@ -82,6 +82,30 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
 
+📃 [What are the best applications of Machine Learning?](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
+
+📃 [Why is it just as important for Machine Learning Models to be Fair as well as Accurate?](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123)
+
+📃 [Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b)
+
+📃 [How important is data in Machine Learning?](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435)
+
+📃 [What are Convoluted Neural Networks (CNN)?](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665)
+
+📃 [How Machine Learning could be used in the Cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
+
+📃 [In Machine Learning, Correlation might not always be equal to Causation](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) 
+
+📃 [Predicting the Sentiment of a text using Machine Learning](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97)
+
+📃 [Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad)
+
+📃 [How to understand Machine Learning?](https://medium.com/nerd-for-tech/how-to-understand-machine-learning-237492943525)
+
+📃 [Introduction to Natural Language Processing for Machine Learning](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213)
+
+📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
+
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
