@@ -106,6 +106,20 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
 
+### ⭐️ Education 
+
+&emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
+
+&emsp;&emsp; 🏫 [Arizona State University Ira A. Fulton School of Engineering](https://engineering.asu.edu) 
+
+&emsp;&emsp; 🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](https://www.google.com/search?client=safari&rls=en&q=vnr+vjiet&ie=UTF-8&oe=UTF-8)
+
+&emsp;&emsp; 🏫 [Narayana Educational Institutions](https://www.narayanagroup.com)
+
+&emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
+
+
+
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
