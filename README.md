@@ -145,7 +145,7 @@ https://suhas-maddali007.medium.com
 
 ## My Values:
 
-There are a lot of resources and tools available in the world with the advancement of technology. I beleive that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. 
+There are a lot of resources and tools available in the world with the advancement of technology. I beleive that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
