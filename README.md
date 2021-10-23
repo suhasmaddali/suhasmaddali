@@ -145,6 +145,8 @@ https://suhas-maddali007.medium.com
 
 ## My Values:
 
+There are a lot of resources and tools available in the world with the advancement of technology. I beleive that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. 
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
