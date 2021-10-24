@@ -122,9 +122,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at Apple 
 
-&emsp;&emsp; ✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at PathAI
+&emsp;&emsp; ✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [PathAI](https://www.pathai.com)
 
-&emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at Solbots Technologies Private Limited
+&emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
 ## 📔📓My Inspiration😀😀:
 
