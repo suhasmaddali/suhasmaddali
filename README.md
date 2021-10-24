@@ -120,7 +120,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ References 
 
-&emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at Apple 
+&emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 
 &emsp;&emsp; ✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [PathAI](https://www.pathai.com)
 
