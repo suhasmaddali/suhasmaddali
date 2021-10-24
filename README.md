@@ -263,7 +263,7 @@ In the machine learning course, various techniques in the field of data science 
 
 🏐 [Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf) - In this assignment, I worked with various linear regression techniques for machine learning. I could also understand some useful things such as the feature importance based on the coefficient output values. Furthermore, I also put my work in Latex format where I had to edit the documents to perform all the matrix computations needed for machine learning and data science. 
 
-#### DS5110 Introduction to Data Management and Processing
+#### [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
 In this machine learning course, the basics of machine learning and data science such as reading data and understanding the useful features are presented. Mainly, SQL was taught as it is important to read the data and process it before giving to the machine learning models for prediction. Below are the list of assignments that I've done in the course along with their description. 
 
