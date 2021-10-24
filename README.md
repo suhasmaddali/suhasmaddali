@@ -269,6 +269,8 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf) - In this assignment, the basic design of various relational diagrams are done. Along with this, ER diagrams are also drawn to get a good understanding of the topics and an idea about the overall data. All of this gave me a good understanding of the concepts used in sql. Feel free to take a look at the assignment. 
 
+[Assignment 2
+
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
