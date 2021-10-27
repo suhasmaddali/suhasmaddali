@@ -118,7 +118,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
 
-### ⭐️ Assignments and Homework
+### ⭐️ Assignments and Coursework 
+
+&emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
 
 ### ⭐️ References 
 
