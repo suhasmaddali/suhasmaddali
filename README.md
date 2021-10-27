@@ -120,7 +120,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Assignments and Coursework 
 
-&emsp;&emsp; [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
+&emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
 ### ⭐️ References 
 
