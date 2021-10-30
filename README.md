@@ -281,6 +281,8 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
 
+## ⭐️ My kaggle profile 
+
 ## My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
