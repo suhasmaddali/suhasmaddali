@@ -124,6 +124,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
+### ⭐️ Kaggle Profile 
+
 ### ⭐️ References 
 
 &emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
