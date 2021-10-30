@@ -281,13 +281,13 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
 
-## ⭐️ My Kaggle Profile 
+## 📽📽 My Kaggle Profile 
 
 I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
 
 https://www.kaggle.com/suhasmaddali007
 
-## My References
+## 🤝🤝 My References
 During my work and my LinkedIn contributions, I came across a wonderful set of people who gave me an opportunity to exhibit my talents and skills and made my learning experience really easy. Furthermore, they were also influential in giving me the right guidance and direction which really shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
 ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to Deployment of the models. 
