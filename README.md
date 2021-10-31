@@ -94,6 +94,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [How Machine Learning could be used in the Cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
 
+&emsp;&emsp; 📃 [Best projects to Showcase in Machine Learning Portfolio](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc)
+
 &emsp;&emsp; 📃 [In Machine Learning, Correlation might not always be equal to Causation](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) 
 
 &emsp;&emsp; 📃 [Predicting the Sentiment of a text using Machine Learning](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97)
