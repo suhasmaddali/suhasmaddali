@@ -142,6 +142,14 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📱 Phone No: 617-671-5751
 
+&emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
+
+&emsp;&emsp; 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
+
+&emsp;&emsp; 📘 __Facebook:__ https://www.facebook.com/suhas.maddali
+
+&emsp;&emsp; ✍🏻 __Medium:__ https://suhas-maddali007.medium.com
+
 
 ## 📔📓My Inspiration😀😀:
 
