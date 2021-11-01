@@ -178,7 +178,7 @@ Machine learning is used in many industries and there is a lot of demand and sco
 
 1. Availability of data - Getting access to quality data is important for the machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
 
-2. 
+2. Infrastructure Requirements - There is also a possiblity for the companies particularly startups to have the infrastructure needed for the machine learning processes respectively. They might be used some third-party applications such as Amazin Web Services (AWS) in order for them to perform their day-to-day predictions using ML algorithms. However, this would lead to further questions such as security and data ownership. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
