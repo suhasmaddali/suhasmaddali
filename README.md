@@ -182,6 +182,8 @@ Machine learning is used in many industries and there is a lot of demand and sco
 
 3. Rigid Business models - Companies need to be flexible where they must spend their time to other resources apart from the fixed number of resources for them to work effectively. There are many companies which might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than being more flexible. This creates problems for large-scale businesses as they must adopt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
 
+4. Lack of Talent - Machine Learning Engineer and Data Scientist are some of the talked about professions in the IT industry. There are many universities and colleges making the use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seems to be a lot of gap in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
