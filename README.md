@@ -180,6 +180,8 @@ Machine learning is used in many industries and there is a lot of demand and sco
 
 2. Infrastructure Requirements - There is also a possiblity for the companies particularly startups to have the infrastructure needed for the machine learning processes respectively. They might be used some third-party applications such as Amazin Web Services (AWS) in order for them to perform their day-to-day predictions using ML algorithms. However, this would lead to further questions such as security and data ownership. 
 
+3. Rigid Business models - Companies need to be flexible where they must spend their time to other resources apart from the fixed number of resources for them to work effectively. There are many companies which might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than being more flexible. This creates problems for large-scale businesses as they must adopt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
