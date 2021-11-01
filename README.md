@@ -176,6 +176,10 @@ There are a lot of resources and tools available in the world with the advanceme
 
 Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be using in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
 
+1. Availability of data - Getting access to quality data is important for the machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
+
+2. 
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
