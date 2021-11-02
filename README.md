@@ -132,6 +132,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Resume 
 
+&emsp;&emsp; 📄
 
 ### ⭐️ References 
 
