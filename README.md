@@ -130,6 +130,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🔗 https://www.kaggle.com/suhasmaddali007
 
+### ⭐️ Resume 
+
+
 ### ⭐️ References 
 
 &emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
