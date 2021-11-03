@@ -325,7 +325,7 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; 🦸 Leadership Skills - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
 
-&emsp;&emsp; 🦸 Communication Skills 
+&emsp;&emsp; 🦸 Communication Skills - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
 
 ## 📽📽 My Kaggle Profile 
 
