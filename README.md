@@ -323,7 +323,9 @@ In this machine learning course, the basics of machine learning and data science
 
 ### Competencies
 
-🦸 Leadership Skills - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+&emsp;&emsp; 🦸 Leadership Skills - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+
+&emsp;&emsp; 🦸 Communication Skills 
 
 ## 📽📽 My Kaggle Profile 
 
