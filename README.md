@@ -321,6 +321,10 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
 
+### Competencies
+
+🦸 Leadership Skills - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+
 ## 📽📽 My Kaggle Profile 
 
 I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
