@@ -132,6 +132,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🦸 Communication Skills 
 
+&emsp;&emsp; 🦸 Team Work 
+
 
 ### ⭐️ Kaggle Profile 
 
