@@ -126,6 +126,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
+### ⭐️ Competencies
+
+&emsp;&emsp; Leadership Skills 
+
+&emsp;&emsp; Communication Skills 
+
+
 ### ⭐️ Kaggle Profile 
 
 &emsp;&emsp; 🔗 https://www.kaggle.com/suhasmaddali007
