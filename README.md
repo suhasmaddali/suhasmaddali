@@ -128,9 +128,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Competencies
 
-&emsp;&emsp; Leadership Skills 
+&emsp;&emsp; 🦸 Leadership Skills 
 
-&emsp;&emsp; Communication Skills 
+&emsp;&emsp; 🦸 Communication Skills 
 
 
 ### ⭐️ Kaggle Profile 
