@@ -128,7 +128,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Competencies
 
-&emsp;&emsp; 🦸 Leadership Skills 
+&emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Images/blob/main/jehyun-sung-6U5AEmQIajg-unsplash.jpg) 
 
 &emsp;&emsp; 🦸 Communication Skills 
 
