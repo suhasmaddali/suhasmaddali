@@ -329,7 +329,7 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; 🦸 Communication Skills - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
 
-&emsp;&emsp; 🦸 Team Work - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. 
+&emsp;&emsp; 🦸 Team Work - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
 
 ## 📽📽 My Kaggle Profile 
 
