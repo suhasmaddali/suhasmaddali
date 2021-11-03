@@ -329,6 +329,8 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; 🦸 Communication Skills - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
 
+&emsp;&emsp; 🦸 Team Work - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. 
+
 ## 📽📽 My Kaggle Profile 
 
 I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
