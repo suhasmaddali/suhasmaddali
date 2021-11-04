@@ -257,6 +257,10 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
 
+### ⭐️ Professional Introduction Video 
+
+In repository, I've created my introduction video so that employers could take a look at it and get to know my core strengths, passion and key knowledge in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Thanks. 
+
 ## 🏅🎖 My List of Certifications
 ![](https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg)
 There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
