@@ -159,7 +159,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📱 __Phone No:__ 617-671-5751, 480-28-63087
 
-&emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
+&emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
 &emsp;&emsp; 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
 
@@ -409,7 +409,7 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif)
 
-🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali-b9b146136/
+🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
 
