@@ -134,7 +134,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
 
-&emsp;&emsp; 🦸 Communication Skills 
+&emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-) 
 
 &emsp;&emsp; 🦸 Team Work 
 
