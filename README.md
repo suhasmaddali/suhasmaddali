@@ -145,7 +145,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Resume 
 
-&emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20MSDS%20resume%20.pdf)
+&emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Data%20Science%20Intern%20Resume%20MSDS.pdf)
 
 ### ⭐️ References 
 
