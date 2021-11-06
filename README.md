@@ -136,7 +136,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-) 
 
-&emsp;&emsp; 🦸 Team Work 
+&emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
 
 
 ### ⭐️ Kaggle Profile 
