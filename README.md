@@ -58,7 +58,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Professional Introduction Video 
 
-&emsp;&emsp; [My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
+&emsp;&emsp; [📸 My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
 ### ⭐️ List of Certifications
 
