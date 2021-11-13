@@ -335,11 +335,19 @@ In this machine learning course, the basics of machine learning and data science
 
 ### Competencies
 
-&emsp;&emsp; 🦸 Leadership Skills - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+&emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
 
-&emsp;&emsp; 🦸 Communication Skills - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
+&emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-) 
 
-&emsp;&emsp; 🦸 Team Work - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
+&emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
+
+&emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
+
+&emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-) - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+
+&emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-)  - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
+
+&emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
 
 ## 📽📽 My Kaggle Profile 
 
