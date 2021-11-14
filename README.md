@@ -333,7 +333,7 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
 
-[Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structered data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. 
+[Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structured data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. In order to read the .xml files, trees were used from a list of python libraries. API call was also performed to read the .json file and generate real-time directions to destination. 
 
 ### Competencies
 
