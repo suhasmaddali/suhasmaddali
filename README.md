@@ -354,6 +354,8 @@ I'm very familiar with Kaggle - a website that would help data scientist and mac
 https://www.kaggle.com/suhasmaddali007
 
 ## 🤝🤝 My References
+
+![](https://github.com/suhasmaddali/Images/blob/main/charles-deluvio-AT5vuPoi8vc-unsplash.jpg)
 During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
 ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to Deployment of the models. 
