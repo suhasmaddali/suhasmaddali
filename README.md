@@ -193,6 +193,8 @@ There are a lot of resources and tools available in the world with the advanceme
 
 ## 🔨⚒️ Key Challenges:
 
+![](https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg)
+
 Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be used in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
 
 1. __Availability of data__ - Getting access to quality data is important for machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
