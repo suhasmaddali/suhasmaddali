@@ -191,19 +191,6 @@ https://suhas-maddali007.medium.com
 
 There are a lot of resources and tools available in the world with the advancement of technology. I believe that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
-## 🔨⚒️ Key Challenges:
-
-![](https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg)
-
-Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be used in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
-
-1. __Availability of data__ - Getting access to quality data is important for machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
-
-2. __Infrastructure Requirements__ - There is also a possibility for the companies particularly startups to have the infrastructure needed for the machine learning processes respectively. They might be used some third-party applications such as Amazon Web Services (AWS) in order for them to perform their day-to-day predictions using ML algorithms. However, this would lead to further questions such as security and data ownership. 
-
-3. __Rigid Business models__ - Companies need to be flexible where they must spend their time to other resources apart from the fixed number of resources for them to work effectively. There are many companies that might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than be more flexible. This creates problems for large-scale businesses as they must adapt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
-
-4. __Lack of Talent__ - Machine Learning Engineer and Data Scientist are some of the talked about professions in the IT industry. There are many universities and colleges making use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seems to be a lot of gaps in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
@@ -348,6 +335,21 @@ In this machine learning course, the basics of machine learning and data science
 &emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-)  - Communication skills are also important to become a good software engineer and a data scientist. Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
 
 &emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
+
+
+## 🔨⚒️ Key Challenges:
+
+![](https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg)
+
+Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be used in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
+
+1. __Availability of data__ - Getting access to quality data is important for machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
+
+2. __Infrastructure Requirements__ - There is also a possibility for the companies particularly startups to have the infrastructure needed for the machine learning processes respectively. They might be used some third-party applications such as Amazon Web Services (AWS) in order for them to perform their day-to-day predictions using ML algorithms. However, this would lead to further questions such as security and data ownership. 
+
+3. __Rigid Business models__ - Companies need to be flexible where they must spend their time to other resources apart from the fixed number of resources for them to work effectively. There are many companies that might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than be more flexible. This creates problems for large-scale businesses as they must adapt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
+
+4. __Lack of Talent__ - Machine Learning Engineer and Data Scientist are some of the talked about professions in the IT industry. There are many universities and colleges making use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seems to be a lot of gaps in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
 
 ## 📽📽 My Kaggle Profile 
 
