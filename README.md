@@ -333,6 +333,8 @@ In this machine learning course, the basics of machine learning and data science
 
 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
 
+Assignment 3 - In this assignment, I worked on solving and reading the semi-structered data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. 
+
 ### Competencies
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-) - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
