@@ -286,7 +286,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🎗🎗 My Voluntary Experience
 
-![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
+![](https://github.com/suhasmaddali/Images/blob/main/elia-pellegrini-Splyvx-pgtg-unsplash.jpg)
 
 👨‍💼 [VNR SF](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ) - I was a member of VNR SF and I was most influential in driving the goals of the team in helping the community by providing the needy access to resources and books. This gave me a good experience of working with different individuals and learning about their goals and dreams. There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them access to new books and also explained about our initiative to serve the poor and needy by giving them access to all the resources. This experience was really useful for me and the way in which I viewed education in shaping my life. This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
 
