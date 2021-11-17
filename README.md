@@ -254,7 +254,9 @@ It is important to note that data visualization is the key to extract insights f
 
 ![](https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg)
 
-In repository, I've created my introduction video so that employers could take a look at it and get to know my core strengths, passion and key knowledge in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Thanks. 
+In repository, I've created my introduction video so that employers could take a look at it and get to know my core strengths, passion and key knowledge in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the mp4 files. Thanks. 
+
+https://github.com/suhasmaddali/Professional-Introduction-Repository
 
 ## 🏅🎖 My List of Certifications
 ![](https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg)
