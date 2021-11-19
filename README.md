@@ -208,8 +208,7 @@ Furthermore, I'm also a gamer where I spend some time gaming on steam and other 
  
 ## 🤖⚙️ My Machine Learning Projects 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
-![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "600"/>
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization.
 
