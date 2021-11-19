@@ -1,4 +1,4 @@
-## <img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="30" />Hi there, I'm Suhas Maddali 👋
+## <img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="50" />Hi there, I'm Suhas Maddali 👋
 
 
 
