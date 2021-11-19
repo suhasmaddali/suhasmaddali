@@ -300,7 +300,7 @@ There are numerous machine learning and data science courses that I went through
 
 🎤 [Crescendo](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/) - In our engineering college, we had Crescendo which was the singing club where people from different departments in college came together to sing and learn to enjoy music. I was the lead singer during that time. Furthermore, I was also directing different groups of people to sing and also play musical instruments respectively. It was a really good experience to learn from the team the mistakes and correct them and ensure that everything was going well. It shaped the way in which I viewed music which was to not just sing but also enjoy the process. My 2 years of working with Crescendo really helped in handling practical aspects of life as well. Overall, it was a good and amazing experience to learn from a group of people of different departments in my college and it was really influential. 
 
-## 📖🧑‍🏫<img src="https://github.com/suhasmaddali/GIF-files/blob/main/giphylatest.gif" width = "10"/> My Education
+## 📖🧑‍🏫<img src="https://github.com/suhasmaddali/GIF-files/blob/main/giphylatest.gif" width = "50"/> My Education
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/education%20gif.gif)
 
