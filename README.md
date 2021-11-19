@@ -200,6 +200,8 @@ There are a lot of resources and tools available in the world with the advanceme
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" /img>
+
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
 
  [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
