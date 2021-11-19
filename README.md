@@ -440,6 +440,8 @@ These are some of my projects, blogs and certifications that I have worked and u
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
+
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif)
 
 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
