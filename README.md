@@ -388,11 +388,10 @@ During my work and my LinkedIn contributions, I came across a wonderful set of p
 ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
 
 ## My Blogs 
-![](https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif)
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif" width = "750"/>
 
 My interest in machine learning started during my final year of engineering at Vignana Jyothi Institute of Technology. During that time, we had to apply different machine learning and deep learning techniques for the prediction of a heart disease in patients. I've also found interest in writing blogs and articles, and sharing my knowledge to the community so that newbies in machine learning could read and understand them. Below are a list of blogs and articles that I've written along with a short description. 
-
-![](https://github.com/suhasmaddali/Images/blob/main/glenn-carstens-peters-6rkJD0Uxois-unsplash.jpg)
 
 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09) - In this article, basic definitions of machine learning and deep learning are mentioned. Overfitting and Underfitting are some of the challenges in machine learning. Their definitions and various ways at which those could be avoided are also talked about in the article. There are different types of machine learning such as supervised machine learning, unsupervised machine learning and semi-supervised machine learning respectively. Their definitions and usefulness are mentioned. 
 
