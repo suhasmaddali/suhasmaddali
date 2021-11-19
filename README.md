@@ -442,8 +442,6 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
 
-![](https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif)
-
 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
