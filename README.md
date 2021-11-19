@@ -1,4 +1,4 @@
-## !<img src="https://github.com/suhasmaddali/GIF-files/blob/main/icon-1.1s-47px.gif" width="40" />Hi there, I'm Suhas Maddali 👋
+## <img src="https://github.com/suhasmaddali/GIF-files/blob/main/icon-1.1s-47px.gif" width="30" />Hi there, I'm Suhas Maddali 👋
 
 
 
