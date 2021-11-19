@@ -239,6 +239,7 @@ Natural Language Processing (NLP) is converting a natural text into a form that 
 
 ## 👀👁 My Computer Vision Projects
 
+<img  scr = "https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif" width = "750" />
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif)
 
 Computer Vision is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
