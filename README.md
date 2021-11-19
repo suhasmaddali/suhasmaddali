@@ -207,6 +207,8 @@ Furthermore, I'm also a gamer where I spend some time gaming on steam and other 
  [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
  
 ## 🤖⚙️ My Machine Learning Projects 
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif)
 
 In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization.
