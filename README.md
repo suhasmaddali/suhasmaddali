@@ -34,9 +34,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
-&emsp;&emsp;[🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
+&emsp;&emsp; [🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
 
-&emsp;&emsp; [https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
+&emsp;&emsp; [🏚Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
 &emsp;&emsp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
 
