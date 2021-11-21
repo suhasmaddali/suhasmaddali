@@ -239,7 +239,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 Natural Language Processing (NLP) is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
-![](https://github.com/suhasmaddali/Images/blob/main/roman-kraft-X1exjxxBho4-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/roman-kraft-X1exjxxBho4-unsplash.jpg" width = "750"/>
 
 &emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning) - Since there is a lot of text around us, it would be beneficial if we get to know the content. In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article. Moreover, libraries and other educational institutions could use this information and classify textbooks and notebooks, and separate them based on the difficulty level. In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts. Hyperparameter tuning was also done to ensure that the models took important features into consideration and made predictions with low mean squared error and mean absolute error respectively.
 
@@ -259,7 +259,7 @@ Computer Vision is a subset of artificial intelligence which gives the computer 
 
 ## 📊🗺 My Data Visualization Projects 
 
-![](https://github.com/suhasmaddali/Images/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = "750" />
 
 It is important to note that data visualization is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong correlation between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
