@@ -332,7 +332,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🗃📂 My Asssignments and Coursework
 
-![](https://github.com/suhasmaddali/Images/blob/main/laura-rivera-ArH3dtoDQc0-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/laura-rivera-ArH3dtoDQc0-unsplash.jpg" width = "750" />
 
 During my studies at Northeastern Khoury College of Computer Sciences, I was able to complete assignments in various subjects that are related to machine learning (ML) and artificial intelligence. This gave me a good understanding of the principles and the methodologies used by machine learning engineers and data scientists in solving complex problems that are real-time respectively. Solving the assignments and getting a good grade from them really pushed me forward to learn new technologies in the field of data science and this gave me a further good understanding of the usage of various machine learning models in different practices. Some of the courses that I really liked in my Master's in Data Science are Supervised Machine Learning and Introduction to Data Processing and Management respectively. 
 
@@ -356,7 +356,7 @@ In this machine learning course, the basics of machine learning and data science
 
 ### Competencies
 
-![](https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-) - During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. It was a good opportunity for me to improve my leadership skills during the process. I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
 
@@ -367,7 +367,7 @@ In this machine learning course, the basics of machine learning and data science
 
 ## 🔨⚒️ Key Challenges:
 
-![](https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg" width = "750"/>
 
 Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be used in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
 
@@ -381,7 +381,7 @@ Machine learning is used in many industries and there is a lot of demand and sco
 
 ## 📽📽 My Kaggle Profile 
 
-![](https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
 
 I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
 
@@ -389,7 +389,8 @@ https://www.kaggle.com/suhasmaddali007
 
 ## 🤝🤝 My References
 
-![](https://github.com/suhasmaddali/Images/blob/main/charles-deluvio-AT5vuPoi8vc-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/charles-deluvio-AT5vuPoi8vc-unsplash.jpg" width = "750" />
+
 During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
 ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to Deployment of the models. 
