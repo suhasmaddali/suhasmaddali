@@ -9,6 +9,7 @@ I'm really passionate about Machine Learning and Data Science. With the developm
 
  
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg" width = "1000" height = "750"/>
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
