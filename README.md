@@ -269,7 +269,7 @@ It is important to note that data visualization is the key to extract insights f
 
 ## 📹🎥 My Professional Introduction Video 
 
-![](https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
 
 In repository, I've created my introduction video so that employers could take a look at it and get to know my core strengths, passion and key knowledge in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the mp4 files. Thanks. 
 
@@ -301,14 +301,13 @@ There are numerous machine learning and data science courses that I went through
 
 ## 📐📑 My Work Experience 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "500" />
-![](https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
 🤖🦾 [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convoluted Neural Networks (CNN) to detect images present in front of the Bionic hand. The input from the camera would contain a list of images and videos that contain different objects. Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip. Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
 
 ## 🎗🎗 My Voluntary Experience
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width = "500"/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width = "750"/>
 
 
 👨‍💼 [VNR SF](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ) - I was a member of VNR SF and I was most influential in driving the goals of the team in helping the community by providing the needy access to resources and books. This gave me a good experience of working with different individuals and learning about their goals and dreams. There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them access to new books and also explained about our initiative to serve the poor and needy by giving them access to all the resources. This experience was really useful for me and the way in which I viewed education in shaping my life. This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
