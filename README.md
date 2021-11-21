@@ -276,7 +276,9 @@ In repository, I've created my introduction video so that employers could take a
 https://github.com/suhasmaddali/Professional-Introduction-Repository
 
 ## 🏅🎖 My List of Certifications
-![](https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg)
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg" width = 750 />
+
 There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
 
 🌱 [Python for Data Science and Machine Learning ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf) - This course is taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/). It is a course that gave me a very good understanding of Python. Important topics such as dataframes, tuples and lists were discussed in the course. The instructor does a good job in showing the practical implementation of the course along with theory. Therefore, this gave me a good solid understanding of Python that later helped me to build machine learning and deep learning algorithms. 
