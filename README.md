@@ -60,6 +60,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
+### ⭐️ SQL Projects 
+
 ### ⭐️ Professional Introduction Video 
 
 &emsp;&emsp; [📸 My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
