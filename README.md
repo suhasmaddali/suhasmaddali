@@ -389,7 +389,7 @@ https://www.kaggle.com/suhasmaddali007
 
 ## 🤝🤝 My References
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/charles-deluvio-AT5vuPoi8vc-unsplash.jpg" width = "750" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/charles-deluvio-AT5vuPoi8vc-unsplash.jpg" width = "750" height = "750"/>
 
 During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
 
