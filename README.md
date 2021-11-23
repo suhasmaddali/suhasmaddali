@@ -342,7 +342,7 @@ In the machine learning course, various techniques in the field of data science 
 
 🏐 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb) - This assignment was based mostly on programming with one theoretical question as well. The topics were discussed in the class and we were asked to do the programming in the assignment just to get a practical understanding of those concepts. It deals with hyperparameter tuning in order to find not just the training error but also the test error and loss respectively. Moreover, topics such as subset selection and forward feature selection were given as homework in the programming assignment. Overall, it is a good and a challenging assignment. 
 
-[Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
+🏐 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb) - Random forests and decision trees are used in the assignment for the machine learning predictions. Furthermore, random forests are also implemented from scratch with steps such as bagging and feature subset selection. There is also a deep learning task given training the data with MNIST and generating predictions for the test set using both Deep Learning and Convoluted Neural Networks (CNNs) respectively. 
 
 #### [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
