@@ -334,7 +334,7 @@ There are numerous machine learning and data science courses that I went through
 
 During my studies at Northeastern Khoury College of Computer Sciences, I was able to complete assignments in various subjects that are related to machine learning (ML) and artificial intelligence. This gave me a good understanding of the principles and the methodologies used by machine learning engineers and data scientists in solving complex problems that are real-time respectively. Solving the assignments and getting a good grade from them really pushed me forward to learn new technologies in the field of data science and this gave me a further good understanding of the usage of various machine learning models in different practices. Some of the courses that I really liked in my Master's in Data Science are Supervised Machine Learning and Introduction to Data Processing and Management respectively. 
 
-#### [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
+#### ⛹️‍♂️ [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
 In the machine learning course, various techniques in the field of data science are explained. Furthermore, there are interesting assignments and homeworks given that really helped me gain a good intuitive understanding of various machine learning algorithms used by data scientists and machine learning engineers. Apart from the theoretical teachings, assignments were given which really gave me a good understanding of various machine learning techniques. All in all, this course was quite challenging in terms of its course content and the assignments. However, doing those assignments gave me a good knowledge of machine learning and data science respectively. 
 
@@ -344,7 +344,7 @@ In the machine learning course, various techniques in the field of data science 
 
 🏀 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb) - Random forests and decision trees are used in the assignment for the machine learning predictions. Furthermore, random forests are also implemented from scratch with steps such as bagging and feature subset selection. There is also a deep learning task given training the data with MNIST and generating predictions for the test set using both Deep Learning and Convoluted Neural Networks (CNNs) respectively. 
 
-#### [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
+#### ⛹️‍♂️ [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
 In this machine learning course, the basics of machine learning and data science such as reading data and understanding the useful features are presented. Mainly, SQL was taught as it is important to read the data and process it before giving to the machine learning models for prediction. Below are the list of assignments that I've done in the course along with their description. 
 
