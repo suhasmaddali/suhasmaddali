@@ -342,6 +342,8 @@ In the machine learning course, various techniques in the field of data science 
 
 🏐 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb) - This assignment was based mostly on programming with one theoretical question as well. The topics were discussed in the class and we were asked to do the programming in the assignment just to get a practical understanding of those concepts. It deals with hyperparameter tuning in order to find not just the training error but also the test error and loss respectively. Moreover, topics such as subset selection and forward feature selection were given as homework in the programming assignment. Overall, it is a good and a challenging assignment. 
 
+[Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
+
 #### [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
 In this machine learning course, the basics of machine learning and data science such as reading data and understanding the useful features are presented. Mainly, SQL was taught as it is important to read the data and process it before giving to the machine learning models for prediction. Below are the list of assignments that I've done in the course along with their description. 
