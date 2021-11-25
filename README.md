@@ -366,6 +366,8 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) - When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
 
+&emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md) - Being creative when building applications would lead to better and more innovative products. 
+
 
 ## 🔨⚒️ Key Challenges:
 
