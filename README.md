@@ -314,6 +314,8 @@ There are numerous machine learning and data science courses that I went through
 
 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf)
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" />
+
 
 ## 📐📑 My Work Experience 
 
