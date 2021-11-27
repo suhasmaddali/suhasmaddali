@@ -310,6 +310,8 @@ There are numerous machine learning and data science courses that I went through
 
 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf)
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "50" height = "40" /> 
+
 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf)
 
 
