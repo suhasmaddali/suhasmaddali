@@ -303,21 +303,13 @@ There are numerous machine learning and data science courses that I went through
 
 ## Academic Transcripts 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif" width = "750" height = "750"/>
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif" width = "750" height = "500"/>
 
 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "50" height = "40"/>
 
-
- 
-
 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "50" height = "40" /> 
 
-
-
 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "50" height = "40"/>
-
-
-
 
 ## 📐📑 My Work Experience 
 
