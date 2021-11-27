@@ -303,11 +303,11 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🚌👨‍🏫 Academic Transcripts 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif" width = "750" height = "500"/>
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif" width = "750"/>
 
 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "50" height = "40"/> - I completed my schooling in Vikas the Concept School where I learned the foundation of mathematics and physics required later in real-world applications. During that time, I had an amazing experience talking to friends, learning about their hobbies and their interests and their goals in life. Overall, it was a really good experience learning the concepts in various topics that could be potentially used later in life in general. Click on the link to view my certificate along with marks report. 
 
-[High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "50" height = "40" /> 
+[High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "50" height = "40" /> - Narayana Institutes in India are really known for their academic rigor and teachings. As a result of my education in the institute, I've learned the fundamental concepts of physics, mathematics and chemistry that are used in lot of real-world applications. Furthermore, there was an exam that tests how well a student would apply the learned principles in various disciplines. The exam is also known as IIT advanced exam. I was able to excel in the examination and performed well. You can take a look at my education certificate along with marks by clicking on the link above. 
 
 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "50" height = "40"/>
 
