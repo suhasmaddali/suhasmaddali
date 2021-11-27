@@ -92,6 +92,14 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
+### ⭐️ Academic Transcripts
+
+🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "50" height = "40"/>
+
+🗓 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "50" height = "40" /> 
+
+🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) <img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "50" height = "40"/> 
+
 ### ⭐️ Blogs On Medium
 
 &emsp;&emsp; 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
