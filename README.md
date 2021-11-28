@@ -103,7 +103,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🗓 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/> 
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/> 
 
 &emsp;&emsp; 🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
 
