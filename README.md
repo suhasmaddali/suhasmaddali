@@ -99,7 +99,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
 
-&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" /> 
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
 
 &emsp;&emsp; 🗓 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
 
