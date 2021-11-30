@@ -204,12 +204,6 @@ It is with my interest and passion for the field that I started to apply my know
 https://suhas-maddali007.medium.com
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees, and Naive Bayes.
-
-## 😇😇 My Values:
-
-![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
-
-There are a lot of resources and tools available in the world with the advancement of technology. I believe that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
  
 ## 🤖⚙️ My Machine Learning Projects 
 
@@ -265,6 +259,12 @@ It is important to note that data visualization is the key to extract insights f
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded every day, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments, and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots.
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
+
+## 😇😇 My Values:
+
+![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
+
+There are a lot of resources and tools available in the world with the advancement of technology. I believe that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
