@@ -94,7 +94,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Academic Transcripts
 
-
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
 &emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
