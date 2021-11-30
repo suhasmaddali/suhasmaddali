@@ -264,7 +264,7 @@ It is important to note that data visualization is the key to extract insights f
 
 ### 💿💽 My SQL Projects 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "750" />
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "500" />
 
 It is also important to understand how data is stored before performing machine learning analysis. It could be stored either in Relational or Non-relational format depending on the requirements. It is important to understand the requirements of the customers in order to design a database and perform querying and retrieval of information. You might take a look at some of the ideas of SQL project. Thanks. 
 
