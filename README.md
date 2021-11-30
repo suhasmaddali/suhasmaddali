@@ -264,7 +264,7 @@ It is important to note that data visualization is the key to extract insights f
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/sqldatabase%20.gif" width = "750" />
 
-&emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
+&emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-) - In this project, database design of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database. Furthermore, Flask was also used to design and store the data values for storing information about various customers. After successfully designing and implementing the database design, focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
 ## 😇😇 My Values:
 
