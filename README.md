@@ -311,7 +311,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🚌👨‍🏫 Academic Transcripts 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif" width = "750"/>
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif"/>
 
 [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
