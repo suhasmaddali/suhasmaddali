@@ -262,9 +262,11 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
 
-### 💿💽 SQL Projects 
+### 💿💽 My SQL Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "750" />
+
+It is also important to understand how data is stored before performing machine learning analysis. It could be stored either in Relational or Non-relational format depending on the requirements. It is important to understand the requirements of the customers in order to design a database and perform querying and retrieval of information. You might take a look at some of the ideas of SQL project. Thanks. 
 
 &emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-) - In this project, database design of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database. Furthermore, Flask was also used to design and store the data values for storing information about various customers. After successfully designing and implementing the database design, focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
