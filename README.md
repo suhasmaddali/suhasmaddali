@@ -269,7 +269,7 @@ It is important to note that data visualization is the key to extract insights f
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" />
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" width = "750"/>
 
 Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
 
