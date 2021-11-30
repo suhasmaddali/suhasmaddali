@@ -260,7 +260,9 @@ It is important to note that data visualization is the key to extract insights f
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
 
-### ⭐️ SQL Projects 
+### 💿💽 SQL Projects 
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "750" />
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/sqldatabase%20.gif" width = "750" />
 
