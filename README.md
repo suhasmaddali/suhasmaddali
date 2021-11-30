@@ -403,7 +403,7 @@ In this machine learning course, the basics of machine learning and data science
 &emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md) - Being creative when building applications would lead to better and more innovative products. Some of the most remarkable and breakthroughs take place with curiosity in the field. I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
 
 
-## 🔨⚒️ Key Challenges:
+## 🔨⚒️ Data Science Key Challenges:
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg" width = "750"/>
 
