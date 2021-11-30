@@ -210,15 +210,6 @@ https://suhas-maddali007.medium.com
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
 
 There are a lot of resources and tools available in the world with the advancement of technology. I believe that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
-
-
-## 🕹🎮 Additional Information👨‍💻👨‍💻: 
-
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" />
-
-Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
-
- [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
  
 ## 🤖⚙️ My Machine Learning Projects 
 
@@ -274,6 +265,15 @@ It is important to note that data visualization is the key to extract insights f
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded every day, it is important to analyze the videos and the categories. In the project, we have also analyzed the likes, comments, and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as Scatterplots and Countplots.
 
 &emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the Google Play store. In addition, we are also going to understand the NULL values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
+
+
+## 🕹🎮 Additional Information👨‍💻👨‍💻: 
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" />
+
+Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
+
+ [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 
 ## 📹🎥 My Professional Introduction Video 
 
