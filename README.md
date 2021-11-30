@@ -262,6 +262,8 @@ It is important to note that data visualization is the key to extract insights f
 
 ### ⭐️ SQL Projects 
 
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/sqldatabase%20.gif" width = "750" />
+
 &emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
 
 ## 😇😇 My Values:
