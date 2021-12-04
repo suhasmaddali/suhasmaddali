@@ -147,19 +147,19 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
 
 &emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
+&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
 
-&emsp;&emsp; &emsp;&emsp; 🏀 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
 
 
 ### ⭐️ Competencies
