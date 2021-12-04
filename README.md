@@ -144,6 +144,23 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Assignments and Coursework 
 
+
+🏀 [Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf) - In this assignment, I worked with various linear regression techniques for machine learning. I could also understand some useful things such as the feature importance based on the coefficient output values. Furthermore, I also put my work in Latex format where I had to edit the documents to perform all the matrix computations needed for machine learning and data science. 
+
+🏀 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb) - This assignment was based mostly on programming with one theoretical question as well. The topics were discussed in the class and we were asked to do the programming in the assignment just to get a practical understanding of those concepts. It deals with hyperparameter tuning in order to find not just the training error but also the test error and loss respectively. Moreover, topics such as subset selection and forward feature selection were given as homework in the programming assignment. Overall, it is a good and a challenging assignment. 
+
+🏀 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb) - Random forests and decision trees are used in the assignment for the machine learning predictions. Furthermore, random forests are also implemented from scratch with steps such as bagging and feature subset selection. There is also a deep learning task given training the data with MNIST and generating predictions for the test set using both Deep Learning and Convoluted Neural Networks (CNNs) respectively. 
+
+#### ⛹️‍♂️ [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
+
+In this machine learning course, the basics of machine learning and data science such as reading data and understanding the useful features are presented. Mainly, SQL was taught as it is important to read the data and process it before giving to the machine learning models for prediction. Below are the list of assignments that I've done in the course along with their description. 
+
+🏀 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf) - In this assignment, the basic design of various relational diagrams are done. Along with this, ER diagrams are also drawn to get a good understanding of the topics and an idea about the overall data. All of this gave me a good understanding of the concepts used in sql. Feel free to take a look at the assignment. 
+
+🏀 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
+
+🏀 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structured data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. In order to read the .xml files, trees were used from a list of python libraries. API call was also performed to read the .json file and generate real-time directions to destination. 
+
 &emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
 &emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
