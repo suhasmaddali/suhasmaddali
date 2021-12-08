@@ -288,6 +288,7 @@ It is also important to understand how data is stored before performing machine 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
+Web scraping is really interesting in that information that could be potentially used for data science and machine learning could be implemented. 
 
 ## 😇😇 My Values:
 
