@@ -291,17 +291,17 @@ It is also important to understand how data is stored before performing machine 
 Web scraping is really interesting in that information that could be potentially used for data science and machine learning could be implemented. There are various ways to extract information from websites. Sometimes the websites under consideration could be stored either in 'HTML', 'XML' or 'JSON' formats. Therefore, proper scraping mechanisms must be followed to generate the data from the web which could be later used for deep learning as well. Below are some web scraping projects which also involves quering information from the web and so on. Feel free to take a look. 
 
 
-[IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)
+&emsp;&emsp; [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)
 
 
 
-[Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)
+&emsp;&emsp; [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)
 
-[Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)
+&emsp;&emsp; [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)
 
-[University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)
+&emsp;&emsp; [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)
 
-https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb
+&emsp;&emsp; [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)
 
 ## 😇😇 My Values:
 
