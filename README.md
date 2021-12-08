@@ -284,11 +284,11 @@ It is also important to understand how data is stored before performing machine 
 
 &emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-) - In this project, database design of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database. Furthermore, Flask was also used to design and store the data values for storing information about various customers. After successfully designing and implementing the database design, focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
-## Web Scraping
+## Web Scraping Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
-Web scraping is really interesting in that information that could be potentially used for data science and machine learning could be implemented. 
+Web scraping is really interesting in that information that could be potentially used for data science and machine learning could be implemented. There are various ways to extract information from websites. Sometimes the websites under consideration could be stored either in 'HTML', 'XML' or 'JSON' formats. Therefore, proper scraping mechanisms must be followed to generate the data from the web which could be later used for deep learning as well. Below are some web scraping projects which also involves quering information from the web and so on. Feel free to take a look. 
 
 ## 😇😇 My Values:
 
