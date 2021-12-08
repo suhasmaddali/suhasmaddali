@@ -293,13 +293,15 @@ Web scraping is really interesting in that information that could be potentially
 
 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)
 
+
+
+[Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)
+
+[Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)
+
+[University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)
+
 https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb
-
-https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb
-
-https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb
-
-https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb
 
 ## 😇😇 My Values:
 
