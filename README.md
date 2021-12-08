@@ -60,6 +60,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
 
+## 🕸🔨My Web Scraping Projects
+
 &emsp;&emsp; 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) 
 
 
