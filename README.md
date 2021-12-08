@@ -248,8 +248,6 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 Natural Language Processing (NLP) is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
-
-
 &emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning) - Since there is a lot of text around us, it would be beneficial if we get to know the content. In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article. Moreover, libraries and other educational institutions could use this information and classify textbooks and notebooks, and separate them based on the difficulty level. In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts. Hyperparameter tuning was also done to ensure that the models took important features into consideration and made predictions with low mean squared error and mean absolute error respectively.
 
 &emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In Twitter, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics. It is important to identify comments and extract key features from the text so that positive and negative comments could be separated. In this project, we are going to be extracting useful information from texts and understand key components for differentiating between positive texts and negative texts.
@@ -284,7 +282,7 @@ It is also important to understand how data is stored before performing machine 
 
 &emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-) - In this project, database design of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database. Furthermore, Flask was also used to design and store the data values for storing information about various customers. After successfully designing and implementing the database design, focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
-## Web Scraping Projects
+## 🕸🔨My Web Scraping Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
