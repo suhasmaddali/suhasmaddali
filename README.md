@@ -286,7 +286,7 @@ It is also important to understand how data is stored before performing machine 
 
 ## Web Scraping
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "1000"/>
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
 
 ## 😇😇 My Values:
