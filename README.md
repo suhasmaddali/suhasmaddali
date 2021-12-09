@@ -433,6 +433,8 @@ In this machine learning course, the basics of machine learning and data science
 
 🏀 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structured data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. In order to read the .xml files, trees were used from a list of python libraries. API call was also performed to read the .json file and generate real-time directions to destination. 
 
+[Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf)
+
 ### 🐎🏎 Competencies
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
