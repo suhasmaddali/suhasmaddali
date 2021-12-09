@@ -433,7 +433,7 @@ In this machine learning course, the basics of machine learning and data science
 
 🏀 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structured data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. In order to read the .xml files, trees were used from a list of python libraries. API call was also performed to read the .json file and generate real-time directions to destination. 
 
-[Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf)
+[Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) - MongoDB was used as a database and querying was performed. In addition to this, Mapreduce and Pyspark were used in the process of extracting and storing data. This assignment was really interesting in that querying was performed for a complex dataset and also intricate queries had to be performed to retrieve the information from the MongoDB database. All in all, it was a good experience working with the dataset and understand the implementation of MongoDB.
 
 ### 🐎🏎 Competencies
 
