@@ -156,19 +156,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Assignments and Coursework 
 
-🏀 [Homework 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) - In the assignment, gradient boosting decision trees were used for getting the estimators and getting the predictions. Cross-validation was performed to ensure that we get the best results not just on the training data but also on the test set. It was quite similar to the previous assignments. If we are going to increase the number of estimators, there would be a good amount of computational cost. Therefore, care must be taken to ensure that the number of estimators are not very large. Feel free to take a look at the notebook. 
 
-#### ⛹️‍♂️ [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
-In this machine learning course, the basics of machine learning and data science such as reading data and understanding the useful features are presented. Mainly, SQL was taught as it is important to read the data and process it before giving to the machine learning models for prediction. Below are the list of assignments that I've done in the course along with their description. 
 
-🏀 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf) - In this assignment, the basic design of various relational diagrams are done. Along with this, ER diagrams are also drawn to get a good understanding of the topics and an idea about the overall data. All of this gave me a good understanding of the concepts used in sql. Feel free to take a look at the assignment. 
-
-🏀 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) - Questions regarding the implementation of SQL commands were asked where we are supposed to write complex queries to retrieve information from university database. This gave me a good understanding of various statements and tools in sql such as join, select and where statements.
-
-🏀 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb) - In this assignment, I worked on solving and reading the semi-structured data. The data contained .html, .xml and .json files respectively. Various methods were used to extract useful information from the data. BeautifulSoup library was used to consider the .html file. In order to read the .xml files, trees were used from a list of python libraries. API call was also performed to read the .json file and generate real-time directions to destination. 
-
-🏀 [Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) - MongoDB was used as a database and querying was performed. In addition to this, Mapreduce and Pyspark were used in the process of extracting and storing data. This assignment was really interesting in that querying was performed for a complex dataset and also intricate queries had to be performed to retrieve the information from the MongoDB database. All in all, it was a good experience working with the dataset and understand the implementation of MongoDB.
 
 &emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
@@ -178,6 +168,8 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; &emsp;&emsp; 📖 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
 
+&emsp;&emsp; &emsp;&emsp; 📖 [Homework 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
+
 &emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
 &emsp;&emsp; &emsp;&emsp; 📖 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
@@ -186,6 +178,7 @@ In this machine learning course, the basics of machine learning and data science
 
 &emsp;&emsp; &emsp;&emsp; 📖 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
 
+&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
 
 ### ⭐️ Competencies
 
