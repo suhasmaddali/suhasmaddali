@@ -531,6 +531,8 @@ https://machinelearningmastery.com/what-is-deep-learning/
 
 https://healthinformatics.uic.edu/blog/machine-learning-in-healthcare/
 
+https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+
 ## 🎬🔚 Summary
 
 These are some of my projects, blogs and certifications that I have worked and uploaded on GitHub. I would be looking forward to learn new technologies in the field of AI and machine learning by going through a few more courses and applying my knowledge in different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to share my knowledge to the community.
