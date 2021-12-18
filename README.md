@@ -21,33 +21,33 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Machine Learning Projects 
 
-&emsp;&emsp; [🚴‍♂️ Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
+&emsp;&emsp;  🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
 
-&emsp;&emsp; [🚙 Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
+&emsp;&emsp; 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-&emsp;&emsp; [🏦 Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
+&emsp;&emsp; 🏦 [Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
 
-&emsp;&emsp; [👨‍⚕️ Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
+&emsp;&emsp; 👨‍⚕️ Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
-&emsp;&emsp; [🧡 Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
+&emsp;&emsp; 🧡 Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
 
-&emsp;&emsp; [🏚 Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
+&emsp;&emsp; 🏚 Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
-&emsp;&emsp; [⁉️ Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
+&emsp;&emsp; ⁉️ Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
 
-&emsp;&emsp; [🏄🧘🏻‍♀️ Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+&emsp;&emsp; 🏄🧘🏻‍♀️ Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
 ### ⭐️ Natural Language Processing Projects 
 
-&emsp;&emsp; [📚 Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
+&emsp;&emsp; 📚 Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
 
-&emsp;&emsp; [👹 Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
+&emsp;&emsp; 👹 Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
 
 ### ⭐️ Computer Vision Projects
 
-&emsp;&emsp; [🥄 Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
+&emsp;&emsp; 🥄 Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
 
-&emsp;&emsp; [🕸 Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
+&emsp;&emsp; 🕸 Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
 
 &emsp;&emsp; 🌾 [Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
 
@@ -55,13 +55,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Data Visualization Projects 
 
-&emsp;&emsp; [📽 YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
+&emsp;&emsp; 📽 YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
 
-&emsp;&emsp; [🔍 Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
+&emsp;&emsp; 🔍 Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
 ### ⭐️ SQL Projects 
 
-&emsp;&emsp; [🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
+&emsp;&emsp; 🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
 
 ### ⭐️ Web Scraping Projects
 
@@ -77,7 +77,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Professional Introduction Video 
 
-&emsp;&emsp; [📸 My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
+&emsp;&emsp; 📸 My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
 ### ⭐️ List of Certifications
 
