@@ -55,13 +55,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Data Visualization Projects 
 
-&emsp;&emsp; 📽 YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
+&emsp;&emsp; 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
 
-&emsp;&emsp; 🔍 Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
+&emsp;&emsp; 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
 ### ⭐️ SQL Projects 
 
-&emsp;&emsp; 🚕 Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
+&emsp;&emsp; 🚕 [Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
 
 ### ⭐️ Web Scraping Projects
 
