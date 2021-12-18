@@ -53,6 +53,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🌾[Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
 
+&emsp;&emsp; [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)
+
 ### ⭐️ Data Visualization Projects 
 
 &emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
