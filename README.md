@@ -33,27 +33,27 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; [🏚Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
-&emsp;&emsp; [⁉️Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
+&emsp;&emsp; [⁉️ Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
 
-&emsp;&emsp; [🏄🧘🏻‍♀️Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+&emsp;&emsp; [🏄🧘🏻‍♀️ Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
 ### ⭐️ Natural Language Processing Projects 
 
-&emsp;&emsp; [📚Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
+&emsp;&emsp; [📚 Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
 
-&emsp;&emsp; [👹Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
+&emsp;&emsp; [👹 Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
 
 &emsp;&emsp; [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)
 
 ### ⭐️ Computer Vision Projects
 
-&emsp;&emsp; [🥄Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
+&emsp;&emsp; [🥄 Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
 
-&emsp;&emsp; [🕸Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
+&emsp;&emsp; [🕸 Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
 
-&emsp;&emsp; 🌾[Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
+&emsp;&emsp; 🌾 [Wheat Detection Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
 
-&emsp;&emsp; [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)
+&emsp;&emsp; 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)
 
 ### ⭐️ Data Visualization Projects 
 
