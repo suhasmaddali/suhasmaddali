@@ -21,17 +21,17 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Machine Learning Projects 
 
-&emsp;&emsp; [🚴‍♂️Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
+&emsp;&emsp; [🚴‍♂️ Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
 
-&emsp;&emsp; [🚙Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
+&emsp;&emsp; [🚙 Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-&emsp;&emsp; [🏦Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
+&emsp;&emsp; [🏦 Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
 
-&emsp;&emsp; [👨‍⚕️Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
+&emsp;&emsp; [👨‍⚕️ Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
 
-&emsp;&emsp; [🧡Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
+&emsp;&emsp; [🧡 Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
 
-&emsp;&emsp; [🏚Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
+&emsp;&emsp; [🏚 Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
 &emsp;&emsp; [⁉️ Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
 
@@ -57,9 +57,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Data Visualization Projects 
 
-&emsp;&emsp; [📽YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
+&emsp;&emsp; [📽 YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
 
-&emsp;&emsp; [🔍Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
+&emsp;&emsp; [🔍 Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
 
 ### ⭐️ SQL Projects 
 
