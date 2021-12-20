@@ -525,7 +525,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) - Machine learning and data science could be used in different domains. It is important to note that machine learning could be used in medical diagnosis where patients could be treated by taking a look at various features that are important for machine learning predictions. In the medium article, I've highlighted how machine learning and data science could be used in the medical industry along with their potential challenges. Feel free to take a look at the article. Thanks. 
 
-📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
+📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858) - We see that there are a lot of applications in machine learning. There is complex math involved in the field of artificial intelligence. As a result, it would be highly valuable if activation functions are understood. These are mostly used in Neural Networks and also machine learning. In the medium article, I've highlighted various activation functions along with their equations. 
 
 ## Useful Links
 
