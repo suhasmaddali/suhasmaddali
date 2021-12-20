@@ -145,7 +145,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
 
-&emsp;&emsp; 📃 [What are the activation functions in Machine Learning](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
+&emsp;&emsp; 📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
 
 ### ⭐️ Education 
 
