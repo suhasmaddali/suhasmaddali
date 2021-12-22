@@ -51,7 +51,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
 
-&emsp;&emsp; 🌾 [Wheat Localization Using Machine Learning](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
+&emsp;&emsp; 🌾 [Wheat Localization Using Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)
 
 &emsp;&emsp; 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)
 
