@@ -45,7 +45,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Computer Vision Projects
 
-&emsp;&emsp;  [Wheat Disease Detection](https://github.com/suhasmaddali/Wheat-Disease-Detection-)
+&emsp;&emsp; 🎋 [Wheat Disease Detection](https://github.com/suhasmaddali/Wheat-Disease-Detection-)
 
 &emsp;&emsp; 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)
 
