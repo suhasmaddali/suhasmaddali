@@ -63,7 +63,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ SQL Projects 
 
-&emsp;&emsp; 🚕 [Cab Reservation System*](https://github.com/suhasmaddali/Cab-Reservation-System-)
+&emsp;&emsp; 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)
 
 ### ⭐️ Web Scraping Projects
 
