@@ -531,6 +531,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858) - We see that there are a lot of applications in machine learning. There is complex math involved in the field of artificial intelligence. As a result, it would be highly valuable if activation functions are understood. These are mostly used in Neural Networks and also machine learning. In the medium article, I've highlighted various activation functions along with their equations. 
 
+[Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representaion of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
+
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
