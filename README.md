@@ -157,7 +157,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🏫 [Arizona State University Ira A. Fulton School of Engineering](https://engineering.asu.edu) 
 
-&emsp;&emsp; 🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](https://www.google.com/search?client=safari&rls=en&q=vnr+vjiet&ie=UTF-8&oe=UTF-8)
+&emsp;&emsp; 🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](http://www.vnrvjiet.ac.in/)
 
 &emsp;&emsp; 🏫 [Narayana Educational Institutions](https://www.narayanagroup.com)
 
