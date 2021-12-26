@@ -149,6 +149,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
 
+&emsp;&emsp; 📃 [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
+
 ### ⭐️ Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
