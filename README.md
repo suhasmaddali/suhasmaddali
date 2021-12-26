@@ -291,7 +291,7 @@ Computer Vision is a subset of artificial intelligence which gives the computer 
 
 ## 📊🗺 My Data Visualization Projects 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = "750" />
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
 
 It is important to note that data visualization is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong correlation between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
