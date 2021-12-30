@@ -77,9 +77,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) 
 
-### HTML5, CSS3 and Bootstrap Projects
+### ⭐️ HTML5, CSS3 and Bootstrap Projects
 
-&emsp;&emsp; [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)
+&emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)
 
 ### ⭐️ Professional Introduction Video 
 
