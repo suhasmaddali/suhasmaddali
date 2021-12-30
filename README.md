@@ -332,7 +332,7 @@ Web scraping is interesting in that information that could be potentially used f
 
 ### 📄📃 HTML5, CSS3 and Bootstrap Projects
 
-<img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = 750/>
+<img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
 
 &emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of HTML and CSS. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
 
