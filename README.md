@@ -330,6 +330,10 @@ Web scraping is interesting in that information that could be potentially used f
  
 &emsp;&emsp; 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) - There could be many websites that give APIs to implement their work. We could take the APIs and also extract the JSON files that are stored using key-value terminology. When this is performed and done, we could smartly extract useful features that are important for the machine learning predictions depending on the project at hand. You might take a look at this project as it highlights how to gain useful information from a website with JSON data.
 
+### ⭐️ HTML5, CSS3 and Bootstrap Projects
+
+&emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of HTML and CSS. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also placed in the homepage so that visiters take a look at it. 
+
 ## 😇😇 My Values:
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
