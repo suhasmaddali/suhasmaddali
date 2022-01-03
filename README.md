@@ -4,6 +4,8 @@
 
 I'm really passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level. 
 
+<p align = "center">This is a sample text</p>
+
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
 ## 🪚🔧 My Skills 😀😀: 
