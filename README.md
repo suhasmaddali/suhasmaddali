@@ -45,7 +45,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
 | :-: | :-: | 
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Steel%20image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
 
 ### ⭐️ Data Visualization Projects 
 
