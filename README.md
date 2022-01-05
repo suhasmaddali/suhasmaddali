@@ -44,10 +44,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 333 height = 200/>| <img src = "hhttps://github.com/suhasmaddali/Images/blob/main/Basic%20network.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>| 
 
 | 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
-| :-: | :-: |
-| This project is still going on | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" />
+| :-: | :-: | :-: |
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
 
 ### ⭐️ Data Visualization Projects 
 
