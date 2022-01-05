@@ -37,10 +37,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 |-------------------|-----------------------------------| 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 250/>|
 
-&emsp;&emsp; 📚 [Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
-
-&emsp;&emsp; 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)
-
 ### ⭐️ Computer Vision Projects
 
 &emsp;&emsp; 🎋 [Wheat Disease Detection Using Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)
