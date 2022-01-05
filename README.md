@@ -31,22 +31,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 |-------------------|-----------------------------------| --------------------------------|----------------------------------| 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction.jpg" height = 250 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" height = 250 width = 250/>| <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 250  height = 250/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 250 height = 250/>|
 
-&emsp;&emsp;  🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
-
-&emsp;&emsp; 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)
-
-&emsp;&emsp; 🏦 [Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)
-
-&emsp;&emsp; 👨‍⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) 
-
-&emsp;&emsp; 🧡 [Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) 
-
-&emsp;&emsp; 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
-
-&emsp;&emsp; ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) 
-
-&emsp;&emsp; 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) 
-
 ### ⭐️ Natural Language Processing Projects 
 
 &emsp;&emsp; 📚 [Predicting Readability of Texts Using Machine Learning](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)
