@@ -20,7 +20,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
-### ⭐️ Machine Learning Projects 
+## ⭐️ Machine Learning Projects 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)|🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition) |
 |-------------------|-----------------------------------| --------------------------------| ----------------------|
