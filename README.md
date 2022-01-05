@@ -21,7 +21,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
 |Washington Bike Demand Prediction|Car Prices Prediction| Predicting Loan Default Using Machine Learning*| Cancer Diagnosis Prediction|
-|-------------------|-----------------------------------| --------------------------------|
+|-------------------|-----------------------------------| --------------------------------| -------------------------------------------|
 
 ### ⭐️ Machine Learning Projects 
 
