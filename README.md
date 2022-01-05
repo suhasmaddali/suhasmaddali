@@ -20,10 +20,10 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
-### ⭐️ Machine Learning Projects 
-
-|This is just a test| Randomly inserting values in table| Wasington Bike Demand Prediction|
+|Washington Bike Demand Prediction|Car Prices Prediction| Predicting Loan Default Using Machine Learning*| Cancer Diagnosis Prediction|
 |-------------------|-----------------------------------| --------------------------------|
+
+### ⭐️ Machine Learning Projects 
 
 &emsp;&emsp;  🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
 
