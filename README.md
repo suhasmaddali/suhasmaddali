@@ -43,9 +43,9 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-:| :-:| :-:|
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Prices%20Prediction%20Image.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 250 height = 200/>| 
 
-| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
-| :-: |
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/> |
+| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
+| :-: | :-: |
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 250 height = 200/>|
 
 
 
