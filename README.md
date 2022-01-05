@@ -26,7 +26,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) |🧡 [Heart Disease Prediction Using Machine Learning and Deep Learning](https://github.com/suhasmaddali/Heart-Disease-Prediction) | 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| 
 |-------------------|-----------------------------------| --------------------------------| 
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg"/>| <img src="https://media.wired.com/photos/59547e60ce3e5e760d52d429/191:100/w_1280,c_limit/02_Bugatti-VGT_photo_ext_WEB.jpg"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" />|
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg"/>| <img src="https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" />|
 
 ### ⭐️ Machine Learning Projects 
 
