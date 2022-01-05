@@ -22,6 +22,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 |Washington Bike Demand Prediction|Car Prices Prediction| Predicting Loan Default Using Machine Learning*| Cancer Diagnosis Prediction|
 |-------------------|-----------------------------------| --------------------------------| -------------------------------------------|
+|This is just a sample| Random values are inserted| Just to test the creation| of table|
 
 ### ⭐️ Machine Learning Projects 
 
