@@ -22,8 +22,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Machine Learning Projects 
 
-|This is just a test| Randomly inserting values in table|
-|-------------------|-----------------------------------|
+|This is just a test| Randomly inserting values in table| Wasington Bike Demand Prediction|
+|-------------------|-----------------------------------| --------------------------------|
 
 &emsp;&emsp;  🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)
 
