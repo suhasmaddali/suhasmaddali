@@ -44,7 +44,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Prices%20Prediction%20Image.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg" width = 250 height = 200/>|
 
 | 🎋 [Wheat Disease Detection Using Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)|
-| ---------------------------- |
+| :-: |
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/> |
 
 &emsp;&emsp; 🎋 [Wheat Disease Detection Using Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)
