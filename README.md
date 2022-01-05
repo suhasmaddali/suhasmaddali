@@ -20,7 +20,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
-&emsp; | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)|🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| Predicting Loan Default Using Machine Learning*| Cancer Diagnosis Prediction|
+| 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)|🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| Predicting Loan Default Using Machine Learning*| Cancer Diagnosis Prediction|
 |-------------------|-----------------------------------| --------------------------------| -------------------------------------------|
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg" width = "200" height = "200"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg" width = "200" height = "200"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg" width = "200" height = "200"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg" width = "200" height = "200"/>|
 
