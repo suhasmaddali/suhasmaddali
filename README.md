@@ -41,7 +41,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| 🌾 [Wheat Localization With Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)|
 | :-:| :-:| :-:|
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 333 height = 200/>| <img src = "hhttps://github.com/suhasmaddali/Images/blob/main/Basic%20network.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>| 
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>| 
 
 | 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
 | :-: | :-: | 
