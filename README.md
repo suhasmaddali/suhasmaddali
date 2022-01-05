@@ -47,6 +47,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: | :-: |
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" width = 250 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" />
+
 ### ⭐️ Data Visualization Projects 
 
 &emsp;&emsp; 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
