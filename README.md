@@ -23,7 +23,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)|🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 
 |-------------------|-----------------------------------| --------------------------------| 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg"/>| <img src="https://media.wired.com/photos/59547e60ce3e5e760d52d429/191:100/w_1280,c_limit/02_Bugatti-VGT_photo_ext_WEB.jpg"/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" />|
-![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)|🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default Using Machine Learning*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 
 |-------------------|-----------------------------------| --------------------------------| 
