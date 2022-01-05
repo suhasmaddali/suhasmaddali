@@ -31,17 +31,17 @@ I had an amazing experience doing machine learning and deep learning projects. B
 |-------------------|-----------------------------------| --------------------------------|----------------------------------| 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" height = 200 width = 250/>| <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 250  height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 250 height = 200/>|
 
-### ⭐️ Natural Language Processing Projects 
+## ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 |-------------------|-----------------------------------| 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 250/>|
 
-### ⭐️ Computer Vision Projects
+## ⭐️ Computer Vision Projects
 
 | 🎋 [Wheat Disease Detection Using Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| 🌾 [Wheat Localization With Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)|
 | :-:| :-:| :-:|
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Prices%20Prediction%20Image.jpg" width = 275 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 275 height = 200/>| 
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 250 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Prices%20Prediction%20Image.jpg" width = 300 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 300 height = 200/>| 
 
 | 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
 | :-: | :-: |
