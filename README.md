@@ -34,8 +34,8 @@ I had an amazing experience doing machine learning and deep learning projects. B
 ## ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
-|-------------------|-----------------------------------| 
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 250/>|
+| :-:| :-:| 
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 300/>| <img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 300/>|
 
 ## ⭐️ Computer Vision Projects
 
