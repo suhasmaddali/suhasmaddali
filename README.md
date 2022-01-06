@@ -29,7 +29,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) |🧡 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction) | 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) |
 |-------------------|-----------------------------------| --------------------------------|----------------------------------| 
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" height = 200 width = 250/>| <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 250  height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 250 height = 200/>|
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image.jpg" height = 200 width = 250/>| <img src="https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" height = 200 width = 250/>| <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 250  height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 250 height = 200/>|
 
 ## ⭐️ Natural Language Processing Projects 
 
