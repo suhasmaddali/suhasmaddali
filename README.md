@@ -53,7 +53,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: | :-: | 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 300 height = 200/>|
 
-### ⭐️ SQL Projects 
+## ⭐️ SQL Projects 
 
 | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 | :-: |
