@@ -59,10 +59,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: |
 | <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 300 height = 200/>
 
-&emsp;&emsp; 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)
-
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = "800"/>
-
 ### ⭐️ Web Scraping Projects
 
 &emsp;&emsp; 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) 
