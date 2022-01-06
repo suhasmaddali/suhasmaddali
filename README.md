@@ -228,15 +228,15 @@ My interest in __machine learning__ and __artificial intelligence__ started when
 
 It is with my interest and passion for the field that I started to apply my knowledge of Machine Learning in different projects. I've gone through some of the courses that are in demand in the field of Machine Learning such as __"Machine Learning"__ and __"Deep Learning Specialization"__ both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects present involve performing data analysis and data visualization which are important to get insights.
 
-### 📄📉Blogs on Medium:
+## 📄📉Blogs on Medium:
 
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ![](https://github.com/suhasmaddali/Images/blob/main/andrew-neel-cckf4TsHAuw-unsplash.jpg)
-📝 Furthermore, I also write articles and share my blogs through Medium. It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
+📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a website where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 https://suhas-maddali007.medium.com
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Deep Neural Networks, Gradient Boosted Decision Trees, and Naive Bayes.
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve __Linear Regression__, __Logistic Regression__, __Support Vector Machines (SVM)__, __Decision Trees__, __Random Forests__, __Deep Neural Networks__, __Gradient Boosted Decision Trees__, and __Naive Bayes__.
  
 ## 🤖⚙️ My Machine Learning Projects 
 
