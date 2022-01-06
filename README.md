@@ -61,6 +61,14 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ Web Scraping Projects
 
+| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| 🌾 [Wheat Localization With Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)|
+| :-:| :-:| :-:|
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>| 
+
+| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
+| :-: | :-: | 
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Steel%20image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
+
 &emsp;&emsp; 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) 
 
 &emsp;&emsp; 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb) 
