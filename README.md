@@ -59,7 +59,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: |
 | <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 300 height = 200/>
 
-### ⭐️ Web Scraping Projects
+## ⭐️ Web Scraping Projects
 
 | 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) | 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) |
 | :-:| :-:| :-:|
@@ -69,15 +69,15 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: | :-: | 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 300 height = 200/>|
 
-### ⭐️ HTML5, CSS3 and Bootstrap Projects
+## ⭐️ HTML5, CSS3 and Bootstrap Projects
 
 &emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)
 
-### ⭐️ Professional Introduction Video 
+## ⭐️ Professional Introduction Video 
 
 &emsp;&emsp; 📸 [My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
-### ⭐️ List of Certifications
+## ⭐️ List of Certifications
 
 &emsp;&emsp; 🌱 [Machine Learning by Stanford University  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
 
@@ -99,7 +99,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
-### ⭐️ Academic Transcripts
+## ⭐️ Academic Transcripts
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
@@ -113,7 +113,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
 
-### ⭐️ Blogs On Medium
+## ⭐️ Blogs On Medium
 
 &emsp;&emsp; 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
 
@@ -147,7 +147,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 📃 [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
 
-### ⭐️ Education 
+## ⭐️ Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
 
@@ -159,7 +159,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
 
-### ⭐️ Assignments and Coursework 
+## ⭐️ Assignments and Coursework 
 
 &emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
@@ -181,7 +181,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; &emsp;&emsp; 📖 [Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
 
-### ⭐️ Competencies
+## ⭐️ Competencies
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
 
@@ -192,15 +192,15 @@ I had an amazing experience doing machine learning and deep learning projects. B
 &emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
 
-### ⭐️ Kaggle Profile 
+## ⭐️ Kaggle Profile 
 
 &emsp;&emsp; 🔗 https://www.kaggle.com/suhasmaddali007
 
-### ⭐️ Resume 
+## ⭐️ Resume 
 
 &emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Data%20Science%20Intern%20Resume%20MSDS.pdf)
 
-### ⭐️ References 
+## ⭐️ References 
 
 &emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 
@@ -208,7 +208,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 &emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
-### ⭐️ Contact Information
+## ⭐️ Contact Information
 
 &emsp;&emsp; 📱 __Phone No:__ 617-671-5751, 480-28-63087
 
