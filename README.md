@@ -67,7 +67,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | 🎒 [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb) | 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) |
 | :-: | :-: | 
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>|
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 300 height = 200/>|
 
 &emsp;&emsp; 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) 
 
