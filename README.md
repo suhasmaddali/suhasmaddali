@@ -63,7 +63,7 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 | 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) | 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) |
 | :-:| :-:| :-:|
-| <img src = "https://github.com/suhasmaddali/Images/blob/main/Web%20Scraping%20Movies.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Restaurant%20Recipes%20Image.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>| 
+| <img src = "https://github.com/suhasmaddali/Images/blob/main/Web%20Scraping%20Movies.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Restaurant%20Recipes%20Image.jpg" width = 333 height = 200/>| <img src = "https://github.com/suhasmaddali/Images/blob/main/Gaming%20Image.jpg" width = 333 height = 200/>| 
 
 | 🎒 [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb) | 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) |
 | :-: | :-: | 
