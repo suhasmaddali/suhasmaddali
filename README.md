@@ -55,7 +55,13 @@ I had an amazing experience doing machine learning and deep learning projects. B
 
 ### ⭐️ SQL Projects 
 
+| 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
+| :-: |
+| <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 300 height = 200/>
+
 &emsp;&emsp; 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = "800"/>
 
 ### ⭐️ Web Scraping Projects
 
