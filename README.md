@@ -53,10 +53,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: | :-: | 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 300 height = 200/>|
 
-&emsp;&emsp; 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)
-
-&emsp;&emsp; 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)
-
 ### ⭐️ SQL Projects 
 
 &emsp;&emsp; 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)
