@@ -69,16 +69,6 @@ I had an amazing experience doing machine learning and deep learning projects. B
 | :-: | :-: | 
 | <img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 300 height = 200/> | <img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 300 height = 200/>|
 
-&emsp;&emsp; 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) 
-
-&emsp;&emsp; 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb) 
-
-&emsp;&emsp; 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) 
-
-&emsp;&emsp; 🎒 [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb) 
-
-&emsp;&emsp; 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) 
-
 ### ⭐️ HTML5, CSS3 and Bootstrap Projects
 
 &emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)
