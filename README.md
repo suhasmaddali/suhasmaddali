@@ -20,7 +20,7 @@ I've learned coding right from a young age. I learned __"C"__ language and now I
 
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=radical)](https://github.com/suhasmaddali/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact)](https://github.com/suhasmaddali/github-readme-stats)
 
 ## 💼🎒 My Portfolio Overview:
 
