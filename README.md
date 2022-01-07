@@ -7,7 +7,7 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
-[![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali007)](https://github.com/suhasmaddali/github-readme-stats)
+[![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali)](https://github.com/suhasmaddali/github-readme-stats)
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
