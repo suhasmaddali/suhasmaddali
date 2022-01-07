@@ -9,6 +9,8 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 [![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali)](https://github.com/suhasmaddali/github-readme-stats)
 
+![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
+
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 I've learned coding right from a young age. I learned __"C"__ language and now I'm learning __python__ which really gave me an edge for learning machine learning and data science. I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were really important in order to become a __machine learning engineer__ or a __data scientist__. Below are the list of some of my skills that I've gained throughout my experience of working with data science and machine learning. Learning these important __tools__ and __techniques__ really helped me accelerate the machine learning projects and understand their working in full detail. Feel free to take a look.
