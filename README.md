@@ -20,9 +20,11 @@ I've learned coding right from a young age. I learned __"C"__ language and now I
 
 Feel free to take a look at my GitHub overview. This gives a good understanding of the languages used along with the total commits. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact&theme=radical)](https://github.com/suhasmaddali/github-readme-stats)
+
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact&theme=radical)](https://github.com/suhasmaddali/github-readme-stats)
+
 
 ## 💼🎒 My Portfolio Overview:
 
