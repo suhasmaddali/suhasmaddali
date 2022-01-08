@@ -344,14 +344,14 @@ Web scraping is interesting in that information that could be potentially used f
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
 
-There are a lot of resources and tools available in the world with the advancement of technology. I believe that education should be accessible to everyone regardless of their location, age and social status. It is possible to discover very good insights with the help of machine learning and data science and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
+There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
 
-Furthermore, I'm also a gamer where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
+Furthermore, I'm also a __gamer__ where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
 
  [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 
@@ -359,7 +359,7 @@ Furthermore, I'm also a gamer where I spend some time gaming on steam and other 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
 
-In repository, I've created my introduction video so that employers could take a look at it and get to know my core strengths, passion and key knowledge in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the mp4 files. Thanks. 
+In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
 
 https://github.com/suhasmaddali/Professional-Introduction-Repository
 
