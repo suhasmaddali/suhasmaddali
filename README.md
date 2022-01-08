@@ -254,7 +254,7 @@ https://suhas-maddali007.medium.com
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
 
-In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as Computer Vision and Natural Language Processing (NLP) would be covered along with Data Visualization.
+In this section, different sets of __machine learning__ projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of __Artificial Intelligence__ such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
 &emsp;&emsp; 🚴‍♂️ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for rental bikes was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were visualized. Dependencies between features were highlighted and a correlation matrix was plotted to get an understanding of the relationship between features. After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
 
