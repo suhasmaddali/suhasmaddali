@@ -24,6 +24,8 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suhasmaddali&repo=github-readme-stats)](https://github.com/suhasmaddali/github-readme-stats)
+
 
 
 ## 💼🎒 My Portfolio Overview:
