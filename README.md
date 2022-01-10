@@ -554,6 +554,8 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5) - Sentences and paragraphs are present in all of our textbooks and notebooks. It would be handy if their difficulty is understood so that the most appropriate text could be given to children depending on this feature. However, reading and understanding the difficulty of texts manually is time-consuming. Therefore, we would be using machine learning and data science for predicting the difficulty of texts. In the article, I've highlighted how we could be using NLP and machine learning for text classification based on the difficulty. 
 
+📃 [Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f) - Steel is available almost everywhere from buildings, roads, and appliances. During the manufacture of steel, there are defects that go unnoticed. As a consequence, this leads to lower quality steel that is less durable and also affected by environmental conditions. With machine learning and convolutional neural networks (CNNs), it is possible to detect the defects in steel which results in saving a lot of time and money. Feel free to take a look at the blog where I have written the code for detecting the defects of steel along with a complete description. 
+
 ## Useful Links
 
 https://www.ibm.com/cloud/learn/machine-learning
