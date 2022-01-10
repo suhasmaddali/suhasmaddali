@@ -160,6 +160,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
 
+&emsp;&emsp; 📃 [Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f)
+
 ## ⭐️ Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
