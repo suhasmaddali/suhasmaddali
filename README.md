@@ -22,7 +22,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact&theme=radical)](https://github.com/suhasmaddali/github-readme-stats)
 
-![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical&hide=Total Issues)
+![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical&hide=Total_Issues)
 
 
 ## 💼🎒 My Portfolio Overview:
