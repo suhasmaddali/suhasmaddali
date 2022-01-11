@@ -45,6 +45,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bike%20Demand%20Prediction%20Image%201.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Price%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 
 
+| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition)| ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🧡 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
+| :-:| :-:| :-:|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bike%20Demand%20Prediction%20Image%201.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Price%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 
+
 ## ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
