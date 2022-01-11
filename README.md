@@ -346,7 +346,7 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 &emsp;&emsp; 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of HTML and CSS. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
 
-&emsp;&emsp; 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) - Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes. The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. Feel free to take a look at the website design by clicking the link. 
+&emsp;&emsp; 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage) - Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes. The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. Feel free to take a look at the website design by clicking the link. 
 
 ## 😇😇 My Values:
 
