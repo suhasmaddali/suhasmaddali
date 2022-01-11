@@ -49,6 +49,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 
 
+| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) |
+| :-:| :-:| 
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
+
 ## ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
