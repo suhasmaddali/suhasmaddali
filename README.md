@@ -49,7 +49,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
 ## ⭐️ Computer Vision Projects
 
