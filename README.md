@@ -309,7 +309,7 @@ __Computer Vision__ is a subset of artificial intelligence which gives the compu
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
 
-It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong correlation between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
+It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
 &emsp;&emsp; 📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded every day, it is important to analyze the __videos__ and the categories. In the project, we have also analyzed the __likes__, __comments__, and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as __Scatterplots__ and __Countplots__.
 
@@ -343,6 +343,8 @@ __Web scraping__ is interesting in that information that could be potentially us
 ### 📄📃 My HTML5, CSS3 and Bootstrap Projects
 
 <img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
+
+With the help of the tools such as HTML, CSS and bootstrap, website is designed to help users in easier navigation.
 
 &emsp;&emsp; 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of HTML and CSS. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
 
