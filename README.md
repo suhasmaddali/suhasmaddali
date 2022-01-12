@@ -344,7 +344,7 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 <img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
 
-With the help of the tools such as HTML, CSS, and bootstrap, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the interactive UI, thus, booking the services as required. Feel free to take a look at the website design. The back-end programming is not yet done (would be done in the future). An interactive front-end is designed so that users get access to the contents. 
+With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the contents. 
 
 &emsp;&emsp; 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of HTML and CSS. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
 
