@@ -7,7 +7,6 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
-__Note__: The images are downloaded from unsplash.com website. It gives irrevoacble, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
@@ -24,6 +23,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
+__Note__: The images are downloaded from unsplash.com website. It gives irrevoacble, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
 ## 💼🎒 My Portfolio Overview:
 
