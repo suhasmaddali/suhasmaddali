@@ -19,7 +19,7 @@ I've learned coding right from a young age. I learned __"C"__ language and now I
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits. By taking a look at this summary, it is really handy to get to get a brief overview of the entire __portfolio__. Thanks. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact&theme=radical&langs_count=8)](https://github.com/suhasmaddali/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmaddali&layout=compact&theme=radical&langs_count=10)](https://github.com/suhasmaddali/github-readme-stats)
 
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
