@@ -87,13 +87,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)|
-
-
-
-&emsp;&emsp; 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)
-
-&emsp;&emsp; 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage)
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
 
 ## ⭐️ Professional Introduction Video 
 
