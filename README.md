@@ -7,7 +7,7 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
-
+__Note__: The images are downloaded from unsplash.com website. It gives irrevoacble, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
