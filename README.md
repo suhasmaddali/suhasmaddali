@@ -23,7 +23,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 ![Suhas Maddali's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasmaddali&show_icons=true&theme=radical)
 
-__Note__: The images are downloaded from unsplash.com website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
+__Note__: The images are downloaded and used thanks to unsplash.com website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
 ## 💼🎒 My Portfolio Overview:
 
