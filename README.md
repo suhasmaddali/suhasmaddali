@@ -216,7 +216,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Resume 
 
-&emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Data%20Science%20Intern%20Resume%20MSDS.pdf)
+&emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20Resume%20Khoury.pdf)
 
 ## ⭐️ References 
 
