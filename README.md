@@ -418,7 +418,7 @@ There are numerous machine learning and data science courses that I went through
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
-Graduate Teaching Assistant
+Graduate Teaching Assistant - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP) under professor Uzair Ahmed. 
 
 🤖🦾 [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convoluted Neural Networks (CNN) to detect images present in front of the Bionic hand. The input from the camera would contain a list of images and videos that contain different objects. Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip. Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
 
