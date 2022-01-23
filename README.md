@@ -88,6 +88,14 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
 
+## Work Experience 
+
+&emsp;&emsp; 🧪👨‍🔬 [Research Assistant](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-)
+
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [Graduate Teaching Assistant](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-)
+
+&emsp;&emsp; 🤖🦾 [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+
 ## ⭐️ Professional Introduction Video 
 
 &emsp;&emsp; 📸 [My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
