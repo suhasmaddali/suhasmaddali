@@ -88,7 +88,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
 
-## Work Experience 
+## ⭐️ Work Experience 
 
 &emsp;&emsp; 🧪👨‍🔬 [Research Assistant](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-)
 
