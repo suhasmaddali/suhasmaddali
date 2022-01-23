@@ -418,7 +418,7 @@ There are numerous machine learning and data science courses that I went through
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
-🧪👨‍🔬 [Research Assistant](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-)
+🧪👨‍🔬 [Research Assistant](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) - I'm a research assistant for Neural Network (NN) Verification and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). We are currently working on verifying the execution of neural networks on untrusted servers, black-box databases, and for systems.  
 
 👨‍🏫🧑‍🏫 [Graduate Teaching Assistant](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/). I'm involved in designing the assignments to students, teaching them concepts and improving their performance in the tests. 
 
