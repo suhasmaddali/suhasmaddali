@@ -90,9 +90,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Work Experience 
 
-&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant | Khoury College of Computer Sciences](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-)
+&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant | Khoury College of Computer Sciences__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-)
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-)
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant | Khoury College of Computer Sciences__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-)
 
 &emsp;&emsp; 🤖🦾 [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
