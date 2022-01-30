@@ -9,7 +9,7 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 <h2> 👨‍🎓🙋‍♂️ About Me </h2>
 
-I'm a __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. 
+I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
