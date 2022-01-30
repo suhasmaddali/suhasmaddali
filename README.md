@@ -9,7 +9,7 @@ I'm really passionate about __Machine Learning__ and __Data Science__. With the 
 
 <h2> 👨‍🎓🙋‍♂️ About Me </h2>
 
-I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
+I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. I have 3 years of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as machine learning certification by Stanford University and Deep Learning Specialization by Andrew Ng. These courses were influential in my theoretical understanding of machine learning and data science.
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
