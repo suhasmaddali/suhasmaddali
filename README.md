@@ -269,7 +269,7 @@ https://suhas-maddali007.medium.com
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve __Linear Regression__, __Logistic Regression__, __Support Vector Machines (SVM)__, __Decision Trees__, __Random Forests__, __Deep Neural Networks__, __Gradient Boosted Decision Trees__, and __Naive Bayes__.
  
-## 🤖⚙️ My Machine Learning Project
+## 🤖⚙️ My Machine Learning Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
 
