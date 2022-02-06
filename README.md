@@ -9,7 +9,7 @@ I'm very passionate about __Machine Learning__ and __Data Science__. With the de
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. I have 3 years of experience building and deploying __machine learning__ and __deep learning__ models. Furthermore, I completed courses such as __Machine Learning Certification__ by __Stanford University__ and __Deep Learning Specialization__ by __Andrew Ng__. These courses were influential in my theoretical understanding of machine learning and data science. Later, I began to work on projects ranging from __agricultural__, __retail__, __manufacturing__ and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks. 🙂
+I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. I have 3 years of experience building and deploying __machine learning__ and __deep learning__ models. Furthermore, I completed courses such as __Machine Learning Certification__ by __Stanford University__ and __Deep Learning Specialization__ by __Andrew Ng__. These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __agricultural__, __retail__, __manufacturing__ and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks. 🙂
 
 ![](https://github.com/suhasmaddali/Images/blob/main/inspiration%20photo%203.jpg)
 
