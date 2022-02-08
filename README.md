@@ -414,7 +414,7 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🚌👨‍🏫 Academic Transcripts 
 
-In this section of the portfolio, I attach the official transcript documents. 
+In this section of the portfolio, I attach the official transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif"/>
 
