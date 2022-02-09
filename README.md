@@ -67,6 +67,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
 
+| 🌾 [Wheat Localization With Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) |
+| :-:| :-:| 
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Images/blob/main/Steel%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
+
 
 
 
