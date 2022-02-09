@@ -55,13 +55,13 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)
 
-# ⭐️ Natural Language Processing Projects 
+<h2 align = "center"> ⭐️ Natural Language Processing Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
-# ⭐️ Computer Vision Projects
+<h2 align = "center"> ⭐️ Computer Vision Projects</h2>
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
 | :-:| :-:| 
@@ -76,19 +76,19 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
 
-# ⭐️ Data Visualization Projects 
+<h2 align = "center"> ⭐️ Data Visualization Projects </h2> 
 
 | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 
-## ⭐️ SQL Projects 
+<h2 align = "center"> ⭐️ SQL Projects</h2> 
 
 | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 | :-: |
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 
-## ⭐️ Web Scraping Projects
+<h2 align = "center"> ⭐️ Web Scraping Projects</h2>
 
 | 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) | 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) |
 | :-:| :-:| :-:|
@@ -98,7 +98,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)|
 
-## ⭐️ HTML5, CSS3 and Bootstrap Projects
+<h2 align = "center"> ⭐️ HTML5, CSS3 and Bootstrap Projects</h2>
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
