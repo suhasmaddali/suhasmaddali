@@ -45,7 +45,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🏦 [Predicting Loan Default*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bike%20Demand%20Prediction%20Image%201.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Price%20Prediction%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)|
