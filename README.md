@@ -61,7 +61,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
-## ⭐️ Computer Vision Projects
+# ⭐️ Computer Vision Projects
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
 | :-:| :-:| 
@@ -75,17 +75,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
-
-
-
-
-| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convoluted Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| 🌾 [Wheat Localization With Convoluted Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)|
-| :-:| :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 
-
-| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)|
-| :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Steel%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
 ## ⭐️ Data Visualization Projects 
 
