@@ -96,7 +96,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)| 🎒 [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)|
 | :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Gaming%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)|
 
 | 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)| 
 | :-: | 
