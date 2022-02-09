@@ -55,29 +55,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)
 
-
-
-
-
-
-| 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)|
-| :-:| :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bike%20Demand%20Prediction%20Image%201.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Price%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Car-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/home%20default%20prediction.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 
-
-| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition)| ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🧡 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
-| :-:| :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Human-Activity-Recognition)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)| 
-
-| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) |
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" height = 200 width = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src="https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
-
-
 ## ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 200 width = 300/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
 ## ⭐️ Computer Vision Projects
 
