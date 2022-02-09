@@ -35,7 +35,14 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
+
+
 ## ⭐️ Machine Learning Projects 
+
+| 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| :-:| :-:| 
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bike%20Demand%20Prediction%20Image%201.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Car%20Price%20Prediction%20Image.jpg" width = 333 height = 200/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)| 🏦 [Predicting Loan Default*](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)|
 | :-:| :-:| :-:|
