@@ -37,7 +37,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 
 
-## ⭐️ Machine Learning Projects 
+# ⭐️ Machine Learning Projects 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
 | :-:| :-:| 
@@ -55,7 +55,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)
 
-## ⭐️ Natural Language Processing Projects 
+# ⭐️ Natural Language Processing Projects 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
@@ -76,17 +76,17 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
 
-## ⭐️ Data Visualization Projects 
+# ⭐️ Data Visualization Projects 
 
 | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 | :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 300 height = 200/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 
 ## ⭐️ SQL Projects 
 
 | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 | :-: |
-| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 300 height = 200/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
+| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 
 ## ⭐️ Web Scraping Projects
 
