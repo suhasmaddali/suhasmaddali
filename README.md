@@ -49,7 +49,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🧡 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpgg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Disease%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
 | 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
 | :-:| :-:| 
