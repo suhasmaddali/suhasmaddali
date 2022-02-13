@@ -393,14 +393,6 @@ There are a lot of __resources__ and __tools__ available in the world with the a
 
 🤖🦾 [__Solbots Technologies Private Limited | Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convoluted Neural Networks (CNN) to detect images present in front of the Bionic hand. The input from the camera would contain a list of images and videos that contain different objects. Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip. Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
 
-## 🕹🎮 Additional Information👨‍💻👨‍💻: 
-
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
-
-Furthermore, I'm also a __gamer__ where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
-
- [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
-
 ## 📹🎥 My Professional Introduction Video 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
@@ -592,6 +584,14 @@ My interest in machine learning started during my final year of engineering at V
 📃 [__Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words__](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5) - Sentences and paragraphs are present in all of our textbooks and notebooks. It would be handy if their difficulty is understood so that the most appropriate text could be given to children depending on this feature. However, reading and understanding the difficulty of texts manually is time-consuming. Therefore, we would be using machine learning and data science for predicting the difficulty of texts. In the article, I've highlighted how we could be using NLP and machine learning for text classification based on the difficulty. 
 
 📃 [__Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning__](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f) - Steel is available almost everywhere from buildings, roads, and appliances. During the manufacture of steel, there are defects that go unnoticed. As a consequence, this leads to lower quality steel that is less durable and also affected by environmental conditions. With machine learning and convolutional neural networks (CNNs), it is possible to detect the defects in steel which results in saving a lot of time and money. Feel free to take a look at the blog where I have written the code for detecting the defects of steel along with a complete description. 
+
+## 🕹🎮 Additional Information👨‍💻👨‍💻: 
+
+<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
+
+Furthermore, I'm also a __gamer__ where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
+
+ [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 
 ## Useful Links
 
