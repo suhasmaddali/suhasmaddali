@@ -114,7 +114,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/)
 
-&emsp;&emsp; 🤖🦾 [__Data Scientist__] | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
 ## ⭐️ Professional Introduction Video 
 
