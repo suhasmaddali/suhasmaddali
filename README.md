@@ -226,6 +226,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; &emsp;&emsp; 📖 [Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
 
+&emsp;&emsp; 📙 [IE 7275 Data Mining in Engineering](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
+
 ## ⭐️ Competencies
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
