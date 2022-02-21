@@ -502,9 +502,12 @@ In this machine learning course, the basics of machine learning and data science
 
 ## 🎼👨‍🎓 Key Learnings
 
+During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI powered applications. Given below are some of the repositories that I have added which I felt that had key ingredients in them that helped me excel in this data science journey. 
 
 
-### 🐎🏎 Competencies
+
+
+## 🐎🏎 Competencies
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
 
