@@ -502,6 +502,8 @@ In this machine learning course, the basics of machine learning and data science
 
 ## 🎼👨‍🎓 Key Learnings
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
+
 During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI powered applications. Given below are some of the repositories that I have added which I felt that had key ingredients in them that helped me excel in this data science journey. 
 
 📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the intructor Jose Portilla is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanded concepts related to python. 
