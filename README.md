@@ -29,6 +29,14 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 __Note__: The images are downloaded and used thanks to [unsplash.com](https://unsplash.com/) website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
+```diff
+- text in red
++ __Note__: The images are downloaded and used thanks to [unsplash.com](https://unsplash.com/) website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## 💼🎒 My Portfolio Overview:
 
 I had an amazing experience doing __machine learning__ and __deep learning__ projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of this website where I describe in great detail the projects and the results obtained. Below is just a __summary__ of the entire portfolio. Feel free to take a look. Thanks!
