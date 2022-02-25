@@ -4,9 +4,13 @@
 
 I'm very passionate about __Machine Learning__ and __Data Science__. With the development of technology, I believe that there is a huge potential for __Artificial Intelligence__ in different domains. The rapid rate at which there is advancement in __computing power__ and the freedom to take a __large amount of data__ really pushes the field of __Data Science__ and __Machine Learning__ to a whole new level.
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
