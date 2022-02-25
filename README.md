@@ -31,7 +31,9 @@ __Note__: The images are downloaded and used thanks to [unsplash.com](https://un
 
 ```diff
 - text in red
-+ __Note__: The images are downloaded and used thanks to [unsplash.com](https://unsplash.com/) website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
++ __Note__: The images are downloaded and used thanks to [unsplash.com](https://unsplash.com/) website.
+
+It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
