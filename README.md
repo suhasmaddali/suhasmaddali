@@ -32,7 +32,9 @@ __Note__: The images are downloaded and used thanks to [unsplash.com](https://un
 ```diff
 + Note: The images are downloaded and used thanks to https://unsplash.com/ website.
 
-+ It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
++ It gives irrevocable, nonexclusive, worldwide copyright license to 
+
++ download, copy, modify, distribute, perform and use photos. 
 ```
 
 ## 💼🎒 My Portfolio Overview:
