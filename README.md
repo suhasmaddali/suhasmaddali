@@ -30,9 +30,9 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 __Note__: The images are downloaded and used thanks to [unsplash.com](https://unsplash.com/) website. It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 
 ```diff
-+ Note: The images are downloaded and used thanks to https://unsplash.com/ website.
+Note: The images are downloaded and used thanks to https://unsplash.com/ website.
 
-+ It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
+It gives irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform and use photos. 
 ```
 
 ## 💼🎒 My Portfolio Overview:
