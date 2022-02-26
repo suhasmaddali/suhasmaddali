@@ -514,6 +514,8 @@ In this machine learning course, the basics of machine learning and data science
 
 #### ⛹️‍♂️ [IE7275 Data Mining in Engineering](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
 
+The course was interesting in that it focuses mostly on the insights generated from the data and also emphasizes the importance of using the right metrics to solve a machine learning problem. Most of the course deals with supervised machine learning while some parts deal with unsupervised machine learning as well. Overall, the theoretical concepts presented in the course were handy especially for starting new projects in the field of AI and data science. 
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
