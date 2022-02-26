@@ -512,6 +512,8 @@ In this machine learning course, the basics of machine learning and data science
 
 🏀 [__Assignment 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) - MongoDB was used as a database and querying was performed. In addition to this, Mapreduce and Pyspark were used in the process of extracting and storing data. This assignment was really interesting in that querying was performed for a complex dataset and also intricate queries had to be performed to retrieve the information from the MongoDB database. All in all, it was a good experience working with the dataset and understand the implementation of MongoDB.
 
+#### ⛹️‍♂️ [IE7275 Data Mining in Engineering](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
