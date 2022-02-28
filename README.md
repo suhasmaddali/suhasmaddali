@@ -6,6 +6,7 @@ I'm very passionate about __Machine Learning__ and __Data Science__. With the de
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
+ <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
  
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
