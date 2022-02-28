@@ -29,7 +29,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 
 ```diff
-+ Note: The images are downloaded and used thanks to https://unsplash.com/ website.
++ The images are downloaded and used thanks to https://unsplash.com/ website.
 
 + It gives irrevocable, nonexclusive, worldwide copyright license to 
 
