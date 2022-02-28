@@ -33,7 +33,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 + It gives irrevocable, nonexclusive, worldwide copyright license to 
 
-+ download, copy, modify, distribute, perform and use photos. 
++ download, copy, modify, distribute, perform and use photos. 🙂
 ```
 
 ## 💼🎒 My Portfolio Overview:
