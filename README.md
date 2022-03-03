@@ -517,6 +517,8 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) - There were 4 different datasets provided in the assignment. It was mostly about dealing with the missing values in the data and generating the percentage of categories in the output labels and so on. Furthermore, data visualization was also asked to find using stacked plots which was interesting to learn and use. Pairplots were also used to find the correlation of various features. Overall, it was a good learning experience doing the assignment. 
 
+https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
