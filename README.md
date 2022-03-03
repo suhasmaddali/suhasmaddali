@@ -517,7 +517,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) - There were 4 different datasets provided in the assignment. It was mostly about dealing with the missing values in the data and generating the percentage of categories in the output labels and so on. Furthermore, data visualization was also asked to find using stacked plots which was interesting to learn and use. Pairplots were also used to find the correlation of various features. Overall, it was a good learning experience doing the assignment. 
 
-🏀 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202) 
+🏀 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202) - In this assignment, we were asked to plot useful figures with plotly library. Plotly provides interactive visualizations where users can hover over the figure to find interesting trends in the data. Furthermore, there are other interesting plots generated in the assignment such as Chloropleths which give a good detailed geometric intuition of the data. It was fun and intuitive to work on this assignment and learning the full capabilities of using Plotly library. 
 
 ## 🎼👨‍🎓 Key Learnings
 
