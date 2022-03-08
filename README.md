@@ -10,11 +10,9 @@ I'm very passionate about __Machine Learning__ and __Data Science__. With the de
 
 I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. I have 3 years of experience building and deploying __machine learning__ and __deep learning__ models. Furthermore, I completed courses such as __Machine Learning Certification__ by __Stanford University__ and __Deep Learning Specialization__ by __Andrew Ng__. These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __agricultural__, __retail__, __manufacturing__ and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks. 🙂
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
-
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-[](https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
 
 I learned to code from a young age. I learned __"C"__ language and now I'm learning __python__ which gives me an edge for understanding machine learning and data science. As a result, I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were important in order to become a __machine learning engineer__ or a __data scientist__. Below are the list of some of my skills that I've gained throughout my experience of working with data science and machine learning. Learning these important __tools__ and __techniques__ really helped me build machine learning projects and understand their working in full detail. Feel free to take a look.
 
