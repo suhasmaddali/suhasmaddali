@@ -118,7 +118,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Work Experience 
 
-&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__<p align = "right">__[December 2022 - Present]__</p> ](https://www.khoury.northeastern.edu/) 
+&emsp;&emsp; 🧪👨‍🔬 [<p>__Research Assistant__</p>](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__<p align = "right">__[December 2022 - Present]__</p> ](https://www.khoury.northeastern.edu/) 
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
  
