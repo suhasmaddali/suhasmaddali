@@ -118,11 +118,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Work Experience 
 
-&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/)               May 10th 
+&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [December 2022 - Present] 
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/)
-
-&emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [December 2022 - Present]
+ 
+&emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) [January 2018 - December 2018]
 
 ## ⭐️ Professional Introduction Video 
 
