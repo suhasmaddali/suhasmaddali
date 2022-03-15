@@ -65,7 +65,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 | :-:|
-| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" />](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" />
 
