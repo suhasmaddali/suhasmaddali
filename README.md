@@ -63,7 +63,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 
-<h2 align = "center"> ⭐️ Natural Language Processing Projects</h2> 
+<h2 align = "center"> ⭐️ Natural Language Processing (NLP) Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
