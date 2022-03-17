@@ -450,17 +450,17 @@ There are numerous machine learning and data science courses that I went through
 
 ## 🚌👨‍🏫 Academic Transcripts 
 
-In this section of the portfolio, I attach the official transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
+In this section of the portfolio, I attach the transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif"/>
 
 [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
 
-🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) - Pursuing my engineering at Electronics and Communication (ECE) Engineering shaped the way at which I viewed technology and their power at which they impact people's lives. Communication is a fundamental requirement of humans. There are a lot of tools and technologies that are used for this purpose such as Mobiles and telephones respectively. Overall, I had a good experience working and understanding these tools in my communcation engineering. Feel free to take a look at my marks certificate in Engineering. Thanks. 
+🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) - Pursuing my engineering at __Electronics and Communication (ECE)__ Engineering shaped the way at which I viewed technology and their power at which they impact people's lives. Communication is a fundamental requirement of humans. There are a lot of tools and technologies that are used for this purpose such as __Mobiles__ and __telephones__ respectively. Overall, I had a good experience working and understanding these tools in my communcation engineering. Feel free to take a look at my marks certificate in Engineering. Thanks. 
 
 [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
 
-🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) - Narayana Institutes in India are really known for their academic rigor and teachings. As a result of my education in the institute, I've learned the fundamental concepts of physics, mathematics and chemistry that are used in lot of real-world applications. Furthermore, there was an exam that tests how well a student would apply the learned principles in various disciplines. The exam is also known as IIT advanced exam. I was able to excel in the examination and performed well. You can take a look at my education certificate along with marks by clicking on the link above. 
+🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) - __Narayana Institutes__ in India are really known for their academic __rigor__ and __teachings__. As a result of my education in the institute, I've learned the fundamental concepts of physics, mathematics and chemistry that are used in lot of real-world applications. Furthermore, there was an exam that tests how well a student would apply the learned principles in various disciplines. The exam is also known as __IIT advanced exam__. I was able to excel in the examination and performed well. You can take a look at my education certificate along with marks by clicking on the link above. 
 
 [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
