@@ -156,17 +156,17 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Academic Transcripts
 
-&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
 
-&emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
+&emsp;&emsp; 🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
 
 &emsp;&emsp; 🗓 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
 
-&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
-&emsp;&emsp; 🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
+&emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
 
 ## ⭐️ Blogs On Medium
 
