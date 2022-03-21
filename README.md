@@ -150,7 +150,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/GN8G647GTLCR)
 
-&emsp;&emsp; &emsp;&emsp; 🍐 [Convoluted Neural Networks  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
+&emsp;&emsp; &emsp;&emsp; 🍐 [Convolutional Neural Networks  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
 
 &emsp;&emsp; 🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
