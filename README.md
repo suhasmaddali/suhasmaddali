@@ -32,7 +32,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 ```diff
 + The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites.
 
-+ They gives irrevocable, nonexclusive, worldwide copyright license to 
++ They give irrevocable, nonexclusive, worldwide copyright license to 
 
 + download, copy, modify, distribute, perform and use photos. 🙂
 ```
