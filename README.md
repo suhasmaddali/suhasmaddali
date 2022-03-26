@@ -398,12 +398,6 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 &emsp;&emsp; 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage) - Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes. The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. Feel free to take a look at the website design by clicking the link. 
 
-## 😇😇 My Values:
-
-![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
-
-There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
-
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Machine Learning:
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/state%20of%20the%20art%20techniques%20image.gif" width = "750"/>
@@ -415,6 +409,13 @@ There is a large volume of research taking place in the field of machine learnin
 &emsp;&emsp; 📣🔊 __LIME & SHAP (Explainable AI)__ - __LIME__ stands for __Local Interpretable Model-agnostic Explanations__ while __SHAP__ stands for __Shapley Additive Explanations__. One of the challenges with using AI and machine learning, in general, is their lack of interpretability. Though there are models such as Random Forests and Decision trees that explain why they have come up with a particular outcome such as giving feature importance, they fail to account for local dependencies which means they do not give output for a particular query point but only provide explainability in terms of the entire dataset. Furthermore, there are other models that do not also offer these features. With the help of LIME and SHAP, it is possible to explain for a query point why a particular outcome is generated for any of the machine learning models at hand. Therefore, LIME and SHAP are good, and executing them is also a lot easier with the help of libraries.
 
 &emsp;&emsp; 📕📚 __BERT & ROBERTA__ - __BERT__ stands for __Bidirectional Encoder Representations from Transformers__ while __RoBERTa__ stands for __Robustly Optimized BERT Pre-training Approach__. These models have been gaining popularity due to their extremely good performance in natual language processing tasks. They are basically transformers with bidirectional context vector representation. In other words, they take into account the context in terms of both the forward pass and the backward pass as well. This works extremely well due to the fact that representating each word based on the context of all the words in the document is basically a good way to understand a human language. 
+
+## 😇😇 My Values:
+
+![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
+
+There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
+
 
 ## 📐📑 My Work Experience 
 
