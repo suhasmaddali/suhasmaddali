@@ -404,7 +404,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
-## My Thoughts on State-of-the-art (SOTA) Techniques in Machine Learning:
+## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Machine Learning:
 
 There is a large volume of research taking place in the field of machine learning and data science. There are newer and computationally efficient algorithms being developed by the likes of many companies and research institutes. I would like to share my thoughts on these latest machine learning trends and explain them well. 
 
