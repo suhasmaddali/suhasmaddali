@@ -398,7 +398,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 &emsp;&emsp; 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage) - Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes. The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. Feel free to take a look at the website design by clicking the link. 
 
-## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Machine Learning:
+## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/state%20of%20the%20art%20techniques%20image.gif" width = "750"/>
 
