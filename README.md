@@ -412,6 +412,8 @@ __Vision Transformers__ - transformers have revolutionized the __natural languag
 
 __LIME & SHAP (Explainable AI)__ - __LIME__ stands for __Local Interpretable Model-agnostic Explanations__ while __SHAP__ stands for __Shapley Additive Explanations__. One of the challenges with using AI and machine learning, in general, is their lack of interpretability. Though there are models such as Random Forests and Decision trees that explain why they have come up with a particular outcome such as giving feature importance, they fail to account for local dependencies which means they do not give output for a particular query point but only provide explainability in terms of the entire dataset. Furthermore, there are other models that do not also offer these features. With the help of LIME and SHAP, it is possible to explain for a query point why a particular outcome is generated for any of the machine learning models at hand. Therefore, LIME and SHAP are good, and executing them is also a lot easier with the help of libraries.
 
+__BERT & ROBERTA__ - These models have been gaining popularity due to their extremely good performance in natual language processing tasks. They are basically transformers with bidirectional context vector representation. In other words, they take into account the context in terms of both the forward pass and the backward pass as well. 
+
 ## 📐📑 My Work Experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
