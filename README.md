@@ -437,7 +437,7 @@ https://github.com/suhasmaddali/Professional-Introduction-Repository
 
 ## 🏅🎖 My List of Certifications
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/anton-maksimov-juvnsky-JHW03DGVPA4-unsplash.jpg" width = 750 />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/certifications.gif" width = 750 />
 
 There are numerous machine learning and data science courses that I went through in order to gain a theoretical understanding of the concepts before their practical implementation in the form of projects. Below are some of my certifications and the contents covered in the course respectively.
 
