@@ -410,6 +410,8 @@ There is a large volume of research taking place in the field of machine learnin
 
 __Vision Transformers__ - transformers have revolutionized the __natural language processing industry (NLP)__ where a given text is converted into a representation which takes into account the contextual information for all the possible words given as input and returns a vector with these weights and other dependencies. One interesting research area that has emerged is to use these same transformers for computer vision tasks. __Convolutional Neural Networks__, CNNs for short, are currently being used to take into account different positions of the image and map them with their weights before making predictions. But if we could represent these vectors by using contextual dependencies, then vision transformers might be able to replace CNNs in the future. Currently as the performance of vision transformers has not been significantly higher than the CNN models, there is no replacement for CNNs. However as the complexity of vision transformers increases, there is a possibililty that they might replace CNNs for image processing tasks.
 
+__LIME & SHAP (Explainable AI)__
+
 ## 📐📑 My Work Experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
