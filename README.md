@@ -408,6 +408,8 @@ There are a lot of __resources__ and __tools__ available in the world with the a
 
 There is a large volume of research taking place in the field of machine learning and data science. There are newer and computationally efficient algorithms being developed by the likes of many companies and research institutes. I would like to share my thoughts on these latest machine learning trends and explain them well. 
 
+__Vision Transformers__ - transformers have revolutionized the natural language processing industry (NLP) where a given text is converted into a representation which takes into account the contextual information for all the possible words given as input and returns a vector with these weights and other dependencies. One interesting research area that has emerged is to use these same transformers for computer vision tasks. Convolutional Neural Networks, CNN for short, are currently being used to take into account different positions of the image and map them with their weights before making predictions. But if we could represent these vectors by using contextual dependencies, then vision transformers might be able to replace CNNs in the future. 
+
 ## 📐📑 My Work Experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
