@@ -39,7 +39,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 ## 💼🎒 My Portfolio Overview:
 
-I had an amazing experience doing __machine learning__ and __deep learning__ projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of this website where I describe in great detail the projects and the results obtained. Below is just a __summary__ of the entire portfolio. Feel free to take a look. Thanks!
+I had an amazing experience doing __machine learning__ and __deep learning__ projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of this website where I describe in great detail the projects and the results obtained. Below is just a __summary__ of the entire portfolio. Feel free to take a look. 
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
