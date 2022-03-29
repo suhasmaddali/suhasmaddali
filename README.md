@@ -410,6 +410,8 @@ There is a large volume of research taking place in the field of machine learnin
 
 &emsp;&emsp; 📕📚 __BERT & ROBERTA__ - __BERT__ stands for __Bidirectional Encoder Representations from Transformers__ while __RoBERTa__ stands for __Robustly Optimized BERT Pre-training Approach__. These models have been gaining popularity due to their extremely good performance in natual language processing tasks. They are basically transformers with bidirectional context vector representation. In other words, they take into account the context in terms of both the forward pass and the backward pass as well. This works extremely well due to the fact that representating each word based on the context of all the words in the document is basically a good way to understand a human language. 
 
+&emsp;&emsp; __FAISS & ScaNN__  
+
 ## 😇😇 My Values:
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
