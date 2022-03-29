@@ -412,6 +412,8 @@ There is a large volume of research taking place in the field of machine learnin
 
 &emsp;&emsp; 🔎🕵️‍♂️ __FAISS & ScaNN__ - When we are dealing with finding similar rows in our data and we have a very high dimensional representation of a vector, with traditional algorithms it takes a long time to find similarly if we use metrics such as __euclidean distance__ and __cosine similarity__. __Facebook Research__ has launched __FAISS__ that simplifies the process of searching similarity and clustering of dense vectors. In the same light, __Google AI Research__ came up with __ScaNN__ which speeds up the overall process of computing the distance between various features and reduces the time complexity to a large extent. The outputs from these models contain vectors that represent a large amount of information from the input data. These are useful for building __good recommender systems__ where the items that are the most similar are recommended to an user along with many other applications as well.
 
+&emsp;&emsp; __Spectrogram as Image__ - We can define our audio signal in terms of a spectrogram which is used in audio processing. One of the most insightful things that is currently done for deep learning is that a spectrogram is converted to an image which is later used with convolutional neural networks (CNNs) for NLP tasks. 
+
 ## 😇😇 My Values:
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
