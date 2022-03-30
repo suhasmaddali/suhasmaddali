@@ -414,7 +414,7 @@ There is a large volume of research taking place in the field of machine learnin
 
 &emsp;&emsp; __🎧🔉 Audio Signal as a Spectrogram__ - We can define our audio signal in terms of a __spectrogram__ which is used in __audio processing__. One of the most insightful things that is currently done for deep learning is that an audio signal is converted to a spectrogram image which is later used with __convolutional neural networks (CNNs)__ for NLP tasks. Therefore, we are trying to pose the audio problem as a computer vision problem and get __higher accuracy__ and __better results__. __CNNs__ are know to perform especially well if we are able to give large amounts of image data. CNNs along with transfer learning are produces extremely good results. Therefore, it is improving the performance of NLP tasks such as __speech detection__ and many others. 
 
-&emsp;&emsp; __Siamese Networks__:
+&emsp;&emsp; __Siamese Networks__ - Building recommender systems whether it be recommending items, movies or songs with the help of deep neural networks can be a hard problem to define and solve respectively. With the help of Siamese neural networks, it is possible to use deep learning for recommending users various items as discussed above. Siamese networks essentially take into account 2 different inputs and they have two networks which accept these inputs. Same weights are initialized to both the networks and the outputs from these two networks are combined together to get our predictions of how likely is an user doing to like a particular item. Furthermore, it is also possible to perform one-shot learning with these models where very few training examples can be given to the network and it would learn on its own the task at hand.  
 
 ## 😇😇 My Values:
 
