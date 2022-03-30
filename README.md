@@ -414,6 +414,8 @@ There is a large volume of research taking place in the field of machine learnin
 
 &emsp;&emsp; __🎧🔉 Audio Signal as a Spectrogram__ - We can define our audio signal in terms of a __spectrogram__ which is used in __audio processing__. One of the most insightful things that is currently done for deep learning is that an audio signal is converted to a spectrogram image which is later used with __convolutional neural networks (CNNs)__ for NLP tasks. Therefore, we are trying to pose the audio problem as a computer vision problem and get __higher accuracy__ and __better results__. __CNNs__ are know to perform especially well if we are able to give large amounts of image data. CNNs along with transfer learning are produces extremely good results. Therefore, it is improving the performance of NLP tasks such as __speech detection__ and many others. 
 
+&emsp;&emsp; __Siamese Networks__:
+
 ## 😇😇 My Values:
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
