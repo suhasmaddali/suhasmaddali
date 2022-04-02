@@ -547,7 +547,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202) - In this assignment, we were asked to plot useful figures with plotly library. Plotly provides interactive visualizations where users can hover over the figure to find interesting trends in the data. Furthermore, there are other interesting plots generated in the assignment such as Chloropleths which give a good detailed geometric intuition of the data. It was fun and intuitive to work on this assignment and learning the full capabilities of using Plotly library. 
 
-[__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the Sensitivity and Specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and a few others as well. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true positive rate, false positive rate, precision, recall and f1-score. 
 
 ## 🎼👨‍🎓 Key Learnings
 
