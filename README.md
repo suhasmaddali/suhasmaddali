@@ -547,6 +547,8 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202) - In this assignment, we were asked to plot useful figures with plotly library. Plotly provides interactive visualizations where users can hover over the figure to find interesting trends in the data. Furthermore, there are other interesting plots generated in the assignment such as Chloropleths which give a good detailed geometric intuition of the data. It was fun and intuitive to work on this assignment and learning the full capabilities of using Plotly library. 
 
+[__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
