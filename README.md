@@ -577,7 +577,7 @@ During my machine learning journey, I had a good time learning important things 
 
 &emsp;&emsp; 🦸 [__Problem-solving skills__](https://github.com/suhasmaddali/Problem-Solving) - These are the skills that generally help in solving issues quickly and effectively. They are being learned as part of the education or training. They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
 
-&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) - It is a process of organizing and planning how to divide the time between different activities. During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time.  
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) - During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. It is a process of organizing and planning how to divide the time between different activities.   
 
 
 ## 🔨⚒️ Data Science Key Challenges:
