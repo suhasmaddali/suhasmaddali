@@ -259,7 +259,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; Problem-solving skills
 
-&emsp;&emsp; Time Management
+&emsp;&emsp; 🦸 [Time Management](https://github.com/suhasmaddali/Time-Management)
 
 
 ## ⭐️ Kaggle Profile 
