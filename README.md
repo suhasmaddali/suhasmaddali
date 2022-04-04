@@ -257,6 +257,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
+&emsp;&emsp; Problem-solving skills
+
+&emsp;&emsp; Time Management
+
 
 ## ⭐️ Kaggle Profile 
 
