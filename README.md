@@ -575,6 +575,10 @@ During my machine learning journey, I had a good time learning important things 
 
 &emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md) - Being creative when building applications would lead to better and more innovative products. Some of the most remarkable breakthroughs take place with curiosity in the field. I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
 
+&emsp;&emsp; 🦸 [__Problem-solving skills__](https://github.com/suhasmaddali/Problem-Solving) 
+
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
+
 
 ## 🔨⚒️ Data Science Key Challenges:
 
