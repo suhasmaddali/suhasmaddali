@@ -257,7 +257,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
-&emsp;&emsp; Problem-solving skills
+&emsp;&emsp; 🦸 [Problem-solving skills](https://github.com/suhasmaddali/Problem-Solving)
 
 &emsp;&emsp; 🦸 [Time Management](https://github.com/suhasmaddali/Time-Management)
 
