@@ -257,7 +257,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
-&emsp;&emsp; 🦸 [Problem-solving skills](https://github.com/suhasmaddali/Problem-Solving)
+&emsp;&emsp; 🦸 [Problem-solving Skills](https://github.com/suhasmaddali/Problem-Solving)
 
 &emsp;&emsp; 🦸 [Time Management](https://github.com/suhasmaddali/Time-Management)
 
@@ -575,7 +575,7 @@ During my machine learning journey, I had a good time learning important things 
 
 &emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md) - Being creative when building applications would lead to better and more innovative products. Some of the most remarkable breakthroughs take place with curiosity in the field. I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
 
-&emsp;&emsp; 🦸 [__Problem-solving skills__](https://github.com/suhasmaddali/Problem-Solving) - These are the skills that generally help in solving issues quickly and effectively. They are being learned as part of the education or training. They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
+&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving) - These are the skills that generally help in solving issues quickly and effectively. They are being learned as part of the education or training. They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
 
 &emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) - During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. Therefore, I was involved in the process of organizing and planning between various activities. As a result, there was a very good productivity in the company by managing time and effectively using it for best practicies. 
 
