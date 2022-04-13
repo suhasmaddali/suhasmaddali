@@ -120,7 +120,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
 
-## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
+<h2 align = "center"> ⭐️ My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence</h2>
 
 &emsp;&emsp; 👀👁 [__Vision Transformers__](https://en.wikipedia.org/wiki/Vision_transformer) 
 
