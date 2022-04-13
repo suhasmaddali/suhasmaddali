@@ -122,10 +122,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/state%20of%20the%20art%20techniques%20image.gif" width = "750"/>
-
-There is a large volume of research taking place in the field of machine learning and data science. There are newer and computationally efficient algorithms being developed by the likes of many companies and research institutes. I would like to share my thoughts on these latest machine learning trends and explain them well. 
-
 &emsp;&emsp; 👀👁 [__Vision Transformers__](https://en.wikipedia.org/wiki/Vision_transformer) 
 
 &emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
