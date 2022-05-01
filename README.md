@@ -122,7 +122,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
-&emsp;&emsp; 👀👁 [__Vision Transformers__](https://en.wikipedia.org/wiki/Vision_transformer) 
+&emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
 
 &emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
 
