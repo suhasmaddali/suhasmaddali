@@ -317,7 +317,7 @@ It is with my interest and passion for the field that I started to apply my know
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ![](https://github.com/suhasmaddali/Images/blob/main/andrew-neel-cckf4TsHAuw-unsplash.jpg)
-📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a website where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
+📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a __website__ where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 https://suhas-maddali007.medium.com
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve __Linear Regression__, __Logistic Regression__, __Support Vector Machines (SVM)__, __Decision Trees__, __Random Forests__, __Deep Neural Networks__, __Gradient Boosted Decision Trees__, and __Naive Bayes__.
