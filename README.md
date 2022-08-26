@@ -136,7 +136,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Work Experience 
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__NVIDIA__](https://www.khoury.northeastern.edu/) __[May 2022 - August 2022]__
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__NVIDIA__](https://www.nvidia.com/en-in/) __[May 2022 - August 2022]__
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
 
