@@ -296,7 +296,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## ⭐️ Contact Information
 
-&emsp;&emsp; 📱 __Phone No:__ 617-671-5751, 480-28-63087
+&emsp;&emsp; 📱 __Phone No:__ 617-671-5751
 
 &emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
