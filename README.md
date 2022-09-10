@@ -300,7 +300,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
-&emsp;&emsp; __YouTube__: https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q
+&emsp;&emsp; 📹 __YouTube__: https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q
 
 &emsp;&emsp; 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
 
