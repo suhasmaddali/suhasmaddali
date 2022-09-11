@@ -226,6 +226,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Understand the Workings of Black-Box models with LIME](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431)
 
+&emsp;&emsp; 📃 [Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e)
+
 ## ⭐️ Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
