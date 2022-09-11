@@ -222,7 +222,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
 
-&emsp;&emsp; 📃 [How to Address Data Bias in Machine Learning](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
+&emsp;&emsp; 📃 [How to Address Data Bias in Machine Learning?](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
+
+&emsp;&emsp; 📃 [Understand the Workings of Black-Box models with LIME](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431)
 
 ## ⭐️ Education 
 
