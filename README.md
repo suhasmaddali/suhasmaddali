@@ -725,6 +725,8 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
 
+📹 __YouTube__: https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q
+
 📫 __Email:__ Suhas.maddali.chinnu@gmail.com
 
 📘 __Facebook:__ https://www.facebook.com/suhas.maddali
