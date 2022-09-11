@@ -220,7 +220,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f)
 
-&emsp;&emsp; 📃 [Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
+&emsp;&emsp; 📃 [Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
+
+&emsp;&emsp; 📃 [How to Address Data Bias in Machine Learning](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
 
 ## ⭐️ Education 
 
