@@ -228,6 +228,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e)
 
+&emsp;&emsp; 📃 [List of Important Libraries for Machine Learning and Data Science in Python](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
+
 ## ⭐️ Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
