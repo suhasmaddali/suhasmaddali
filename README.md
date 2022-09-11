@@ -683,6 +683,16 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [__Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning__](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f) - Steel is available almost everywhere from buildings, roads, and appliances. During the manufacture of steel, there are defects that go unnoticed. As a consequence, this leads to lower quality steel that is less durable and also affected by environmental conditions. With machine learning and convolutional neural networks (CNNs), it is possible to detect the defects in steel which results in saving a lot of time and money. Feel free to take a look at the blog where I have written the code for detecting the defects of steel along with a complete description. 
 
+📃 [Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
+
+📃 [How to Address Data Bias in Machine Learning?](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
+
+📃 [Understand the Workings of Black-Box models with LIME](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431)
+
+📃 [Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e)
+
+📃 [List of Important Libraries for Machine Learning and Data Science in Python](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
