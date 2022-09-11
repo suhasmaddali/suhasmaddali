@@ -691,7 +691,7 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [__Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How__](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e) - Knowing the purpose of machine learning is useful before we can use these tools for our business or our company. Before we start applying machine learning to a large number of applications, it can be useful to know why it is used in the first place. Understanding this can help transition from a good data scientist to a great data scientist. This article mainly discusses the importance of this question and gives various examples for the readers. 
 
-📃 [__List of Important Libraries for Machine Learning and Data Science in Python__](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
+📃 [__List of Important Libraries for Machine Learning and Data Science in Python__](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e) - There are a huge number of libraries present for machine learning. Understanding the most useful from them is handy and makes our work more productive. In this article, I highlight a list of all the libraries that are often used in Python specifically for machine learning and data science respectively. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
