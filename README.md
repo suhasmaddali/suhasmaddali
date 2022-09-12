@@ -85,7 +85,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 
 | :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/MNIST%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
 
 <h2 align = "center"> ⭐️ Data Visualization Projects </h2> 
