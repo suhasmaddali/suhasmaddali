@@ -57,7 +57,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Resized%20Images/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
 
 | 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 | :-:| :-:| 
