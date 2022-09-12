@@ -77,7 +77,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/wheat%20image%201.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Images/blob/main/Basic%20network%20Image%202.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
 
 | 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) |
 | :-:| :-:| 
