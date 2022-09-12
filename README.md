@@ -81,7 +81,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) |
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Wheat%20image%202.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Images/blob/main/Steel%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Wheat%20image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Steel%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 
 | 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 
 | :-:| 
