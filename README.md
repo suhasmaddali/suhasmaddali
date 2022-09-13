@@ -432,6 +432,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
 🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) 
+
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
@@ -444,9 +445,23 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - I give students the course materials and links that they could use to improve their performance on the exam and the assignments. 
 - During office hours, I explain the concepts to students and make it easy for them to score well. 
 
-🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) - I worked as a __research assistant__ for __Neural Network (NN) Verification__ and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). We worked on verifying the execution of neural networks on untrusted servers, black-box databases, and systems. I'm involved in understanding the behaviors of Neural Networks in various settings and whether they perform the computations as per the specification. In addition to this, I use a programming language called __Julia__ to run the neural network and understand their specifications. Overall, it was a good experience to implement neural networks and define their behaviors as well.   
+🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) 
 
-🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited. I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms. During my time at the company, I had to develop Convolutional Neural Networks (CNN) to detect images present in front of the Bionic hand. The input from the camera would contain a list of images and videos that contain different objects. Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip. Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
+- I worked as a __research assistant__ for __Neural Network (NN) Verification__ and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). 
+- We worked on verifying the execution of neural networks on untrusted servers, black-box databases, and systems.
+- I'm involved in understanding the behaviors of Neural Networks in various settings and whether they perform the computations as per the specification.
+- In addition to this, I use a programming language called __Julia__ to run the neural network and understand their specifications.
+- Overall, it was a good experience to implement neural networks and define their behaviors as well.  
+
+🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) 
+
+- I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited.
+- I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms.
+- During my time at the company, I had to develop Convolutional Neural Networks (CNN) to detect images present in front of the Bionic hand.
+- The input from the camera would contain a list of images and videos that contain different objects.
+- Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip.
+- Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. 
+- It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
 
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
