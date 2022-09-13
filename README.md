@@ -435,6 +435,9 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 - Test 1
 - Test 2 
+- As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
+- In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
+- Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
 
 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/). I'm involved in designing the assignments to students, teaching them concepts and improving their performance on the tests. I teach students classes if a lot of students don't understand the concepts being taught in the classroom. I give students the course materials and links that they could use to improve their performance on the exam and the assignments. During office hours, I explain the concepts to students and make it easy for them to score well. 
 
