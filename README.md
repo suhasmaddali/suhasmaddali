@@ -431,13 +431,13 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
-🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) [May 2022 - August 2022]
+🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
 
-👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [December 2022 - Present]
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
 
 - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/).
 - I'm involved in designing the assignments to students, teaching them concepts and improving their performance on the tests.
@@ -445,7 +445,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - I give students the course materials and links that they could use to improve their performance on the exam and the assignments. 
 - During office hours, I explain the concepts to students and make it easy for them to score well. 
 
-🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [December 2022 - April 2022]
+🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - April 2022]__
 
 - I worked as a __research assistant__ for __Neural Network (NN) Verification__ and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). 
 - We worked on verifying the execution of neural networks on untrusted servers, black-box databases, and systems.
@@ -453,7 +453,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - In addition to this, I use a programming language called __Julia__ to run the neural network and understand their specifications.
 - Overall, it was a good experience to implement neural networks and define their behaviors as well.  
 
-🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) [January 2018 - December 2018]
+🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
 - I have about a year experience working as a machine learning intern in Solbots Technologies Private Limited.
 - I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms.
