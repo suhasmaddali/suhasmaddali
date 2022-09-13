@@ -431,10 +431,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
-🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
-
-- Test 1
-- Test 2 
+🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
