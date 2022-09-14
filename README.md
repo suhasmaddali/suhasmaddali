@@ -433,7 +433,7 @@ One of the interesting things about computer vision is that there is a lot of sc
 * In the repository, various Convolutional Neural Networs (CNNs) are tested such as __InceptionV3__, __Xception__ and __VGG19__ to identify these diseases.
 * __VGG19__ was able to perform exceptionaly well with the test accuracy being __97 percent__ respectively.
 
-🥄 [__Steel Defect Detection__](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) -        
+🥄 [__Steel Defect Detection__](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)      
 
 * There are many steel manufacturing industries that produce large quantities of steel.
 * There might be instances where there are defects that go unnoticed.
@@ -451,7 +451,7 @@ One of the interesting things about computer vision is that there is a lot of sc
 * There are different kernel sizes considered and outputs are noted using a graph respectively.
 * By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
-&emsp;&emsp; 🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)    
+🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)    
 
 * There are a lot of food products that we get from wheat.
 * Wheat is known as the common food staple that could be used to prepare different kinds of food items.
