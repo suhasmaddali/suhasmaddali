@@ -344,7 +344,11 @@ In this section, different sets of __machine learning__ projects are highlighted
 *  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
 *  After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
 
-&emsp;&emsp; 🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) - In this machine learning project, the __prices of cars__ would be predicted based on features such as __horsepower (HP)__, __Mileage__, __Make__, and __other features__. Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions. Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
+🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) 
+
+* In this machine learning project, the __prices of cars__ would be predicted based on features such as __horsepower (HP)__, __Mileage__, __Make__, and __other features__.
+* Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions.
+* Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
 
 &emsp;&emsp; 🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) - It is important for banks to give __loans__ to customers based on their ability to pay back a loan. Sometimes, banks end up giving loans to people and not getting paid back the money along with interest. Machine Learning could be used in order to determine whether a loan must be given to a person, and this would help the __financial institutions__ and __banks__ to save money respectively. In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not. Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
 
