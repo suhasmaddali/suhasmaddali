@@ -471,9 +471,18 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
-&emsp;&emsp; 📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis) - Since there are many videos being uploaded every day, it is important to analyze the __videos__ and the categories. In the project, we have also analyzed the __likes__, __comments__, and other important features when videos are being uploaded. Various plots were used in the process of exploring the data such as __Scatterplots__ and __Countplots__.
+📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis)  
 
-&emsp;&emsp; 🔍 [__Google Play store Genre Prediction__](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction) - In this analysis, we are going to understand the different types of apps in the __Google Play store__. In addition, we are also going to understand the __NULL__ values that are present in our data. Moreover, we are going to analyze the total number of apps that are paid and free. We also would differentiate those apps based on age groups respectively.
+* Since there are many videos being uploaded every day, it is important to analyze the __videos__ and the categories.
+* In the project, we have also analyzed the __likes__, __comments__, and other important features when videos are being uploaded.
+* Various plots were used in the process of exploring the data such as __Scatterplots__ and __Countplots__.
+
+🔍 [__Google Play store Genre Prediction__](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)   
+
+* In this analysis, we are going to understand the different types of apps in the __Google Play store__.
+* In addition, we are also going to understand the __NULL__ values that are present in our data.
+* Moreover, we are going to analyze the total number of apps that are paid and free.
+* We also would differentiate those apps based on age groups respectively.
 
 ## 💿💽 My SQL Projects 
 
@@ -481,7 +490,11 @@ It is important to note that __data visualization__ is the key to extract insigh
 
 It is also important to understand how data is stored before performing __machine learning analysis__. It could be stored either in __Relational__ or __Non-relational__ format depending on the requirements. It is important to understand the requirements of the customers in order to design a database and perform querying and retrieval of information. You might take a look at some of the ideas expressed below. Thanks. 
 
-&emsp;&emsp; 🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-) - In this project, __database design__ of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database. Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers. After successfully __designing__ and implementing the __database design__, focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
+🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-)   
+
+* In this project, __database design__ of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database.
+* Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
+* After successfully __designing__ and implementing the __database design__, focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
 
 ## 🕸🔨My Web Scraping Projects
 
