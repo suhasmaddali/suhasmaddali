@@ -373,9 +373,19 @@ In this section, different sets of __machine learning__ projects are highlighted
 * Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
 
 
-&emsp;&emsp; 🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction) - Features such as __neighborhood__, __longitute__ and __latitude__ could be used to determine the prices of __Airbnb__ houses for hosts. __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for the housing prices. Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others. __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others. Feel free to take a look at the repository. 
+🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
-&emsp;&emsp; 🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) - In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters. Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements. __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data. The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
+* Features such as __neighborhood__, __longitute__ and __latitude__ could be used to determine the prices of __Airbnb__ houses for hosts.
+* __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for the housing prices.
+* Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others.
+* __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others.
+
+🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+
+* In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
+* Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
+* __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
+* The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
