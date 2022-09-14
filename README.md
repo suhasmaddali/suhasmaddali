@@ -544,9 +544,17 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the contents. 
 
-&emsp;&emsp; 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) - A website is designed with knowledge of __HTML__ and __CSS__. Styling is also done with the CSS stylesheets that really helps in building effective designs. Users are able to book a reservation along with locating the exact place where the restaurant is present. In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
+🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)   
 
-&emsp;&emsp; 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage) - Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes. The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. Feel free to take a look at the website design by clicking the link.
+* A website is designed with knowledge of __HTML__ and __CSS__.
+* Styling is also done with the CSS stylesheets that really helps in building effective designs.
+* Users are able to book a reservation along with locating the exact place where the restaurant is present.
+* In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
+
+🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage)
+
+* Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes.
+* The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service.
 
 ## 📐📑 My Work Experience 
 
