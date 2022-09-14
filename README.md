@@ -394,11 +394,27 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves __extracting texts__, __removing stopwords__, __lemmatization__ and __stemming__, __lowercasing the letters__, and __removing punctuations__ and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
-&emsp;&emsp; 📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning) - Since there is a lot of text around us, it would be beneficial if we get to know the content. In addition to this, understanding the __difficulty__ of the text and whether it is at our level could give us good __knowledge__ about the __depth__ of the article. Moreover, __libraries__ and other __educational institutions__ could use this information and classify __textbooks__ and __notebooks__, and separate them based on the difficulty level. In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts. __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
+📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)     
 
-&emsp;&emsp; 👹 [__Twitter Sentiment Analysis__](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) - In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics. It is important to identify comments and extract key features from the text so that positive and negative comments could be separated. In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
+* Since there is a lot of text around us, it would be beneficial if we get to know the content.
+* In addition to this, understanding the __difficulty__ of the text and whether it is at our level could give us good __knowledge__ about the __depth__ of the article.
+* Moreover, __libraries__ and other __educational institutions__ could use this information and classify __textbooks__ and __notebooks__, and separate them based on the difficulty level.
+* In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts.
+* __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
 
-&emsp;&emsp; ⁉️ [__Quora Question Pair Similarity__](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity) - In __Quora__, there are numerous questions being asked every day during different instances of time. It is important for the company to determine whether the newly asked questions are __similar__ to the ones that were asked before. This would save a lot of __memory__ and __resources__ on the part of Quora. With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones. Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company.
+👹 [__Twitter Sentiment Analysis__](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)   
+
+* In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics.
+* It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
+* In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
+
+⁉️ [__Quora Question Pair Similarity__](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)     
+
+* In __Quora__, there are numerous questions being asked every day during different instances of time.
+* It is important for the company to determine whether the newly asked questions are __similar__ to the ones that were asked before.
+* This would save a lot of __memory__ and __resources__ on the part of Quora.
+* With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
+* Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company.
 
 ## 👀👁 My Computer Vision Projects
 
