@@ -337,10 +337,12 @@ https://suhas-maddali007.medium.com
 
 In this section, different sets of __machine learning__ projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of __Artificial Intelligence__ such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with __Data Visualization__.
 
-&emsp;&emsp; 🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) - In this project, the demand for __rental bikes__ was predicted using different machine learning and deep learning algorithms. Moreover, some of the useful features were __visualized__. Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features. After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
+🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) 
 
 * In this project, the demand for __rental bikes__ was predicted using different machine learning and deep learning algorithms.
-- 
+*  Moreover, some of the useful features were __visualized__.
+*  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
+*  After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
 
 &emsp;&emsp; 🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) - In this machine learning project, the __prices of cars__ would be predicted based on features such as __horsepower (HP)__, __Mileage__, __Make__, and __other features__. Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions. Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
 
