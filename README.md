@@ -350,11 +350,28 @@ In this section, different sets of __machine learning__ projects are highlighted
 * Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions.
 * Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
 
-&emsp;&emsp; 🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) - It is important for banks to give __loans__ to customers based on their ability to pay back a loan. Sometimes, banks end up giving loans to people and not getting paid back the money along with interest. Machine Learning could be used in order to determine whether a loan must be given to a person, and this would help the __financial institutions__ and __banks__ to save money respectively. In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not. Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
+🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) 
 
-&emsp;&emsp; 👨‍⚕️ [__Cancer Diagnosis Prediction__](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction) - Cancer is a __life-threatening__ disease, and it is really important to take the right steps in order to prevent this disease. Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid __Doctors__ in predicting the chances of cancer. In this project, the chances of occurrence of cancer belonging to 9 classes are predicted using Machine Learning. Since there are more than 2 classes, it is a __multi-class classification__ problem.
+* It is important for banks to give __loans__ to customers based on their ability to pay back a loan.
+* Sometimes, banks end up giving loans to people and not getting paid back the money along with interest.
+* Machine Learning could be used in order to determine whether a loan must be given to a person, and this would help the __financial institutions__ and __banks__ to save money respectively.
+* In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not.
+* Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
 
-&emsp;&emsp; 🫀 [__Heart Disease Prediction Using Machine Learning and Deep Learning__](https://github.com/suhasmaddali/Heart-Disease-Prediction) - There are features that are important to predict heart disease in a patient such as __Blood Pressure (BP)__, __BMI__ and other factors. Since doctors cannot take into account all the factors and suggest whether a person may or may not have heart disease, it is time to use machine learning and deep learning algorithms to the rescue. In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person to suffer from heart disease. Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
+👨‍⚕️ [__Cancer Diagnosis Prediction__](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)   
+
+* Cancer is a __life-threatening__ disease, and it is really important to take the right steps in order to prevent this disease.
+* Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid __Doctors__ in predicting the chances of cancer.
+* In this project, the chances of occurrence of cancer belonging to 9 classes are predicted using Machine Learning.
+* Since there are more than 2 classes, it is a __multi-class classification__ problem.
+
+🫀 [__Heart Disease Prediction Using Machine Learning and Deep Learning__](https://github.com/suhasmaddali/Heart-Disease-Prediction)    
+
+* There are features that are important to predict heart disease in a patient such as __Blood Pressure (BP)__, __BMI__ and other factors.
+* Since doctors cannot take into account all the factors and suggest whether a person may or may not have heart disease, it is time to use machine learning and deep learning algorithms to the rescue.
+* In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person to suffer from heart disease.
+* Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
+
 
 &emsp;&emsp; 🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction) - Features such as __neighborhood__, __longitute__ and __latitude__ could be used to determine the prices of __Airbnb__ houses for hosts. __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for the housing prices. Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others. __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others. Feel free to take a look at the repository. 
 
