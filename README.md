@@ -115,7 +115,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
 
-## ⭐️ Work Experience 
+## 🖥 Work Experience 
 
 &emsp;&emsp; 🏢👨‍💻 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-in/) __[May 2022 - August 2022]__
 
