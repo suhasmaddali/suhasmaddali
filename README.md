@@ -58,7 +58,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 
-<h2 align = "center"> ⭐️ Natural Language Processing (NLP) Projects</h2> 
+<h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
@@ -68,7 +68,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
 
-<h2 align = "center"> ⭐️ Computer Vision Projects</h2>
+<h2 align = "center"> 🖥 Computer Vision Projects</h2>
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
 | :-:| :-:| 
@@ -83,19 +83,19 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
 
-<h2 align = "center"> ⭐️ Data Visualization Projects </h2> 
+<h2 align = "center"> 🖥 Data Visualization Projects </h2> 
 
 | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 
-<h2 align = "center"> ⭐️ SQL Projects</h2> 
+<h2 align = "center"> 🖥 SQL Projects</h2> 
 
 | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 | :-: |
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 
-<h2 align = "center"> ⭐️ Web Scraping Projects</h2>
+<h2 align = "center"> 🖥 Web Scraping Projects</h2>
 
 | 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)|
 | :-: | :-: | 
@@ -109,7 +109,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) | 
 
-<h2 align = "center"> ⭐️ HTML5, CSS3 and Bootstrap Projects</h2>
+<h2 align = "center"> 🖥 HTML5, CSS3 and Bootstrap Projects</h2>
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
@@ -125,7 +125,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
  
 &emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
-## ⭐️ My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
+## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
 
@@ -139,11 +139,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) 
 
-## ⭐️ Professional Introduction Video 
+## 🖥 Professional Introduction Video 
 
 &emsp;&emsp; 📸 [My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
-## ⭐️ List of Certifications
+## 🖥 List of Certifications
 
 &emsp;&emsp; 🌱 [Machine Learning by Stanford University  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
 
@@ -165,7 +165,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🌱 [Complete Tensorflow 2 and Keras Deep Learning Bootcamp ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
-## ⭐️ Academic Transcripts
+## 🖥 Academic Transcripts
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
 
@@ -179,7 +179,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
 
-## ⭐️ Blogs On Medium
+## 🖥 Blogs On Medium
 
 &emsp;&emsp; 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
 
@@ -225,7 +225,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [List of Important Libraries for Machine Learning and Data Science in Python](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
 
-## ⭐️ Education 
+## 🖥 Education 
 
 &emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
 
@@ -237,7 +237,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
 
-## ⭐️ Assignments and Coursework 
+## 🖥 Assignments and Coursework 
 
 &emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
@@ -268,7 +268,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; &emsp;&emsp; 📖 [Assignment 3](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
 
 
-## ⭐️ Competencies
+## 🖥 Competencies
 
 &emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
 
@@ -283,15 +283,15 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; 🦸 [Time Management](https://github.com/suhasmaddali/Time-Management)
 
 
-## ⭐️ Kaggle Profile 
+## 🖥 Kaggle Profile 
 
 &emsp;&emsp; 🔗 https://www.kaggle.com/suhasmaddali007
 
-## ⭐️ Resume 
+## 🖥 Resume 
 
 &emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20Khoury%20Resume.pdf)
 
-## ⭐️ References 
+## 🖥 References 
 
 &emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 
@@ -299,7 +299,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
-## ⭐️ Contact Information
+## 🖥 Contact Information
 
 &emsp;&emsp; 📱 __Phone No:__ 617-671-5751
 
