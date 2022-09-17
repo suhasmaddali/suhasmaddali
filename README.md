@@ -337,8 +337,6 @@ https://suhas-maddali007.medium.com
 
 In this section, different sets of __machine learning__ projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of __Artificial Intelligence__ such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with __Data Visualization__.
 
-<hr style="border:1px solid blue">
-
 🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) 
 
 * In this project, the demand for __rental bikes__ was predicted using different machine learning and deep learning algorithms.
@@ -400,16 +398,11 @@ In this section, different sets of __machine learning__ projects are highlighted
 * __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
 * The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
-<hr style="border:1px solid blue">
-
 ## 🗣📣 My Natural Language Processing (NLP) projects
-
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/natural%20language%20processing.gif" width = "750"/>
 
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves __extracting texts__, __removing stopwords__, __lemmatization__ and __stemming__, __lowercasing the letters__, and __removing punctuations__ and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
-
-<hr style="border:1px solid blue">
 
 📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)     
 
@@ -437,8 +430,6 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
 * Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company.
 
-<hr style="border:1px solid blue">
-
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif" width = "750" />
@@ -446,8 +437,6 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
 One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since the image and video data is found in abundance, there are computer vision tools which could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
-
-<hr style="border:1px solid blue">
 
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
@@ -497,15 +486,11 @@ One of the interesting things about computer vision is that there is a lot of sc
 * The repository contains MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross entropy loss as the metric for getting the best configuration.
 
-<hr style="border:1px solid blue">
-
 ## 📊🗺 My Data Visualization Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
 
 It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
-
-<hr style="border:1px solid blue">
 
 📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis)  
 
@@ -522,15 +507,11 @@ It is important to note that __data visualization__ is the key to extract insigh
 * Moreover, we are going to analyze the total number of apps that are paid and free.
 * We also would differentiate those apps based on age groups respectively.
 
-<hr style="border:1px solid blue">
-
 ## 💿💽 My SQL Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "500" />
 
 It is also important to understand how data is stored before performing __machine learning analysis__. It could be stored either in __Relational__ or __Non-relational__ format depending on the requirements. It is important to understand the requirements of the customers in order to design a database and perform querying and retrieval of information. You might take a look at some of the ideas expressed below. Thanks. 
-
-<hr style="border:1px solid blue">
 
 🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-)   
 
@@ -538,15 +519,11 @@ It is also important to understand how data is stored before performing __machin
 * Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
 * After successfully __designing__ and implementing the __database design__, focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
 
-<hr style="border:1px solid blue">
-
 ## 🕸🔨My Web Scraping Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
 __Web scraping__ is interesting in that information that could be potentially used for data science and machine learning could be implemented. There are various ways to extract information from websites. Sometimes the websites under consideration could be stored either in __'HTML'__, __'XML'__ or __'JSON'__ formats. Therefore, proper scraping mechanisms must be followed to generate the data from the web which could be later used for deep learning as well. Below are some web scraping projects which also involve querying information from the web and so on. Feel free to take a look.
-
-<hr style="border:1px solid blue">
 
 🍿 [__IMDB Movies Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)    
 
@@ -592,15 +569,11 @@ __Web scraping__ is interesting in that information that could be potentially us
 * When this is performed and done, we could smartly extract useful features that are important for the machine learning predictions depending on the project at hand.
 * You might take a look at this project as it highlights how to gain useful information from a website with __JSON__ data.
 
-<hr style="border:1px solid blue">
-
 ### 📄📃 My HTML5, CSS3 and Bootstrap Projects
 
 <img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
 
 With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the contents. 
-
-<hr style="border:1px solid blue">
 
 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)   
 
@@ -616,13 +589,9 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 * Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes.
 * The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service.
 
-<hr style="border:1px solid blue">
-
 ## 📐📑 My Work Experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
-
-<hr style="border:1px solid blue">
 
 🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
 
@@ -661,8 +630,6 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip.
 - Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. 
 - It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
-
-<hr style="border:1px solid blue">
 
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
