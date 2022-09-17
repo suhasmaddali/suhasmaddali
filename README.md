@@ -2,8 +2,6 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-maddali/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/suhasmaddali007)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Suhas-Maddali) [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.maddali/) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://northeastern.zoom.us/account) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+14802863087)
 
-<hr style="border:1px solid blue">
-
 I'm passionate about __Machine Learning__ and __Data Science__. With the development of __technology__, I believe that there is a huge potential for __Artificial Intelligence__ in different domains. The rapid rate at which there is advancement in __computing power__ and the freedom to take a __large amount of data__ really pushes the field of __Data Science__ and __Machine Learning__ to a whole new level.
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
@@ -346,11 +344,15 @@ In this section, different sets of __machine learning__ projects are highlighted
 *  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
 *  After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
 
+<hr style="border:1px solid blue">
+
 🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) 
 
 * In this machine learning project, the __prices of cars__ would be predicted based on features such as __horsepower (HP)__, __Mileage__, __Make__, and __other features__.
 * Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions.
 * Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
+
+<hr style="border:1px solid blue">
 
 🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) 
 
@@ -360,12 +362,16 @@ In this section, different sets of __machine learning__ projects are highlighted
 * In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not.
 * Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
 
+<hr style="border:1px solid blue">
+
 👨‍⚕️ [__Cancer Diagnosis Prediction__](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)   
 
 * Cancer is a __life-threatening__ disease, and it is really important to take the right steps in order to prevent this disease.
 * Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid __Doctors__ in predicting the chances of cancer.
 * In this project, the chances of occurrence of cancer belonging to 9 classes are predicted using Machine Learning.
 * Since there are more than 2 classes, it is a __multi-class classification__ problem.
+
+<hr style="border:1px solid blue">
 
 🫀 [__Heart Disease Prediction Using Machine Learning and Deep Learning__](https://github.com/suhasmaddali/Heart-Disease-Prediction)    
 
@@ -374,6 +380,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 * In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person to suffer from heart disease.
 * Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
 
+<hr style="border:1px solid blue">
 
 🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
@@ -382,12 +389,16 @@ In this section, different sets of __machine learning__ projects are highlighted
 * Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others.
 * __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others.
 
+<hr style="border:1px solid blue">
+
 🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
 * In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
 * Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
 * __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
 * The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
+
+<hr style="border:1px solid blue">
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
