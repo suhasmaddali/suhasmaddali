@@ -409,6 +409,8 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 __Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves __extracting texts__, __removing stopwords__, __lemmatization__ and __stemming__, __lowercasing the letters__, and __removing punctuations__ and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
+<hr style="border:1px solid blue">
+
 📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)     
 
 * Since there is a lot of text around us, it would be beneficial if we get to know the content.
@@ -417,11 +419,15 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts.
 * __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
 
+<hr style="border:1px solid blue">
+
 👹 [__Twitter Sentiment Analysis__](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)   
 
 * In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics.
 * It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
 * In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
+
+<hr style="border:1px solid blue">
 
 ⁉️ [__Quora Question Pair Similarity__](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)     
 
@@ -431,6 +437,8 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
 * Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company.
 
+<hr style="border:1px solid blue">
+
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif" width = "750" />
@@ -438,6 +446,8 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
 One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since the image and video data is found in abundance, there are computer vision tools which could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
+
+<hr style="border:1px solid blue">
 
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
@@ -447,6 +457,8 @@ One of the interesting things about computer vision is that there is a lot of sc
 * This leads to significant reduction in the time taken to identify the diseases in wheat along with taking steps to prevent future diseases.
 * In the repository, various Convolutional Neural Networs (CNNs) are tested such as __InceptionV3__, __Xception__ and __VGG19__ to identify these diseases.
 * __VGG19__ was able to perform exceptionaly well with the test accuracy being __97 percent__ respectively.
+
+<hr style="border:1px solid blue">
 
 🥄 [__Steel Defect Detection__](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)      
 
@@ -459,12 +471,15 @@ One of the interesting things about computer vision is that there is a lot of sc
 * Therefore, this would save a lot of time and effort by companies when they deploy __machine learning models__ in predicting the damage present in the steel.
 * We would use deep learning models in predicting the defects in steel respectively.
 
-🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)     
+<hr style="border:1px solid blue">
 
+🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)     
 * This is a simple project to implement Convolutional Neural Network and note its working.
 * Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ that is available in Kaggle.
 * There are different kernel sizes considered and outputs are noted using a graph respectively.
 * By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
+
+<hr style="border:1px solid blue">
 
 🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)    
 
@@ -473,6 +488,8 @@ One of the interesting things about computer vision is that there is a lot of sc
 * Since there are differnet types of wheat available, it is important to identify different kinds of wheat available.
 * In the machine learning project, images of different kinds of __wheat heads__ are taken and made available so that computer vision could be used to understand the wheat heads and distinguish them.
 * Various computer vision algorithms are used to identify the wheat heads respectively. 
+
+<hr style="border:1px solid blue">
 
 🔢 [__MNIST Digits Classification__](https://github.com/suhasmaddali/MNIST-classification-)   
 
@@ -486,11 +503,15 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
+<hr style="border:1px solid blue">
+
 📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis)  
 
 * Since there are many videos being uploaded every day, it is important to analyze the __videos__ and the categories.
 * In the project, we have also analyzed the __likes__, __comments__, and other important features when videos are being uploaded.
 * Various plots were used in the process of exploring the data such as __Scatterplots__ and __Countplots__.
+
+<hr style="border:1px solid blue">
 
 🔍 [__Google Play store Genre Prediction__](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)   
 
@@ -499,11 +520,15 @@ It is important to note that __data visualization__ is the key to extract insigh
 * Moreover, we are going to analyze the total number of apps that are paid and free.
 * We also would differentiate those apps based on age groups respectively.
 
+<hr style="border:1px solid blue">
+
 ## 💿💽 My SQL Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/database.gif" width = "500" />
 
 It is also important to understand how data is stored before performing __machine learning analysis__. It could be stored either in __Relational__ or __Non-relational__ format depending on the requirements. It is important to understand the requirements of the customers in order to design a database and perform querying and retrieval of information. You might take a look at some of the ideas expressed below. Thanks. 
+
+<hr style="border:1px solid blue">
 
 🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-)   
 
@@ -511,11 +536,15 @@ It is also important to understand how data is stored before performing __machin
 * Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
 * After successfully __designing__ and implementing the __database design__, focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
 
+<hr style="border:1px solid blue">
+
 ## 🕸🔨My Web Scraping Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
 __Web scraping__ is interesting in that information that could be potentially used for data science and machine learning could be implemented. There are various ways to extract information from websites. Sometimes the websites under consideration could be stored either in __'HTML'__, __'XML'__ or __'JSON'__ formats. Therefore, proper scraping mechanisms must be followed to generate the data from the web which could be later used for deep learning as well. Below are some web scraping projects which also involve querying information from the web and so on. Feel free to take a look.
+
+<hr style="border:1px solid blue">
 
 🍿 [__IMDB Movies Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)    
 
@@ -523,6 +552,8 @@ __Web scraping__ is interesting in that information that could be potentially us
 * It would be really good if we could be using the tables from the __IMDB data__ and understand the factors impacting the ratings by various users.
 * Web scraping was done with the help of various packages in Python and understanding the data respectively.
 * One popular library used to understand the data was __'BeautifulSoup'__ that was important for reading the tables respectively.
+
+<hr style="border:1px solid blue">
 
 🍔 [__Restaurant Recipes Web Scraping XML__](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)      
 
@@ -533,6 +564,8 @@ __Web scraping__ is interesting in that information that could be potentially us
 * In addition to this, it was also important to determine the paths needed for robust querying of the data.
 * All of these steps were performed with the aid of packages in Python.
 
+<hr style="border:1px solid blue">
+
 🎮 [__Popular Gaming Titles Wikipedia Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)   
 
 * __Wikipedia__ is a good source of information and is often reliable especially with the trends.
@@ -540,11 +573,15 @@ __Web scraping__ is interesting in that information that could be potentially us
 * There were various tables present in Wikipedia. Interest was towards the most trending Games and the overall revenue generated by them.
 * It was very interesting to work with the data and understand the games that were in high demand.
  
+ <hr style="border:1px solid blue">
+ 
 🎒 [__University Instructors Information Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)   
 
 * It would also be very interesting to know the demand for various professors in different departments.
 * Scraping the information and understanding the demand along with other features could give us a good idea overall about a __professor__ and their __teachings__.
 * The files which were used for performing the web scraping were __XML__ files and various libraries were used in the process.
+ 
+ <hr style="border:1px solid blue">
  
 🔐 [__JSON file Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)    
 
@@ -553,11 +590,15 @@ __Web scraping__ is interesting in that information that could be potentially us
 * When this is performed and done, we could smartly extract useful features that are important for the machine learning predictions depending on the project at hand.
 * You might take a look at this project as it highlights how to gain useful information from a website with __JSON__ data.
 
+<hr style="border:1px solid blue">
+
 ### 📄📃 My HTML5, CSS3 and Bootstrap Projects
 
 <img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
 
 With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the contents. 
+
+<hr style="border:1px solid blue">
 
 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)   
 
@@ -566,20 +607,28 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 * Users are able to book a reservation along with locating the exact place where the restaurant is present.
 * In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
 
+<hr style="border:1px solid blue">
+
 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage)
 
 * Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes.
 * The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service.
 
+<hr style="border:1px solid blue">
+
 ## 📐📑 My Work Experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
+
+<hr style="border:1px solid blue">
 
 🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
+
+<hr style="border:1px solid blue">
 
 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
 
@@ -589,6 +638,8 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - I give students the course materials and links that they could use to improve their performance on the exam and the assignments. 
 - During office hours, I explain the concepts to students and make it easy for them to score well. 
 
+<hr style="border:1px solid blue">
+
 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - April 2022]__
 
 - I worked as a __research assistant__ for __Neural Network (NN) Verification__ and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). 
@@ -596,6 +647,8 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - I'm involved in understanding the behaviors of Neural Networks in various settings and whether they perform the computations as per the specification.
 - In addition to this, I use a programming language called __Julia__ to run the neural network and understand their specifications.
 - Overall, it was a good experience to implement neural networks and define their behaviors as well.  
+
+<hr style="border:1px solid blue">
 
 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
@@ -606,6 +659,8 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - Later, the deep learning model would make its predictions and accordingly, the bionic hand would adjust the grip.
 - Furthermore, I had to gain the theoretical and practical understanding of machine learning and deep learning before implementing it in the company. 
 - It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
+
+<hr style="border:1px solid blue">
 
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
