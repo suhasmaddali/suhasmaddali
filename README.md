@@ -344,7 +344,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 *  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
 *  After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
 
-<hr style="border:0.1px solid blue">
+<hr style="border:0.01px solid blue">
 
 🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) 
 
