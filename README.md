@@ -434,8 +434,6 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/computer%20vision.gif" width = "750" />
 
-<img  src = "https://github.com/suhasmaddali/GIF-files/blob/main/Robot%20Computer%20Vision.gif" width = "750" />
-
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
 One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since the image and video data is found in abundance, there are computer vision tools which could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
