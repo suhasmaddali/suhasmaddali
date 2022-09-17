@@ -497,6 +497,8 @@ One of the interesting things about computer vision is that there is a lot of sc
 * The repository contains MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross entropy loss as the metric for getting the best configuration.
 
+<hr style="border:1px solid blue">
+
 ## 📊🗺 My Data Visualization Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
