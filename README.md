@@ -598,7 +598,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
 - Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
-- Improved the functionality of SAP for demand forecasting to include more models and predictive capabilities by adding state-of-the-art models and get high predictive accuracy (95% or above).  
+- Improved the functionality of __SAP__ for __demand forecasting__ to include more models and predictive capabilities by adding state-of-the-art models and getting high predictive accuracy (__95% or above__).  
 
 <hr style="border:0.01px solid blue">
 
