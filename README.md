@@ -401,6 +401,8 @@ In this section, different sets of __machine learning__ projects are highlighted
 [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)
 
 * Worked on predicting the churn rate of customers based on factors such as age, location and the type of service that was chosen by the customers. 
+* Exploratory Data Analysis (EDA) was performed to understand a list of all the features present in the dataset and understand the relationship between them. 
+* A large number of metrics were considered such as accuracy, logistic loss, precision, recall, F1 score and many others. 
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
