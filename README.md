@@ -398,6 +398,8 @@ In this section, different sets of __machine learning__ projects are highlighted
 * __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
 * The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
+<hr style="border:0.01px solid blue">
+
 [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)
 
 * Worked on predicting the __churn rate__ of customers based on factors such as age, location and the type of service that was chosen by the customers. 
