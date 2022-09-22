@@ -934,6 +934,10 @@ My interest in machine learning started during my final year of engineering at V
 
 📃 [__List of Important Libraries for Machine Learning and Data Science in Python__](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e) - There are a huge number of libraries present for machine learning. Understanding the most useful from them is handy and makes our work more productive. In this article, I highlight a list of all the libraries that are often used in Python specifically for machine learning and data science respectively. 
 
+📃 [Differences between Bias and Variance in Machine Learning](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da) - In this article, the differences between bias and variance are discussed in great detail along with the steps that could be taken to reduce them. These are the most common issues faced when trying to build machine learning and deep learning models. Therefore, this article explains these concepts in great detail so that practitioners can take the right steps to reduce them to a large extent. 
+
+&emsp;&emsp; 📃 [Common Reasons why Machine Learning Projects Fail](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
+
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
