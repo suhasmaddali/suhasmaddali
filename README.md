@@ -227,7 +227,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [Differences between Bias and Variance in Machine Learning](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da)
 
-&emsp;&emsp; 📃 [Common Reasons why Machine Learning Projects Fail](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
+&emsp;&emsp; 📃 [Common Reasons why Machine Learning Projects Fail](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 
 ## 🖥 Education 
 
