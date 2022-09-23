@@ -609,6 +609,14 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
 
+👨‍🏫🧑‍🏫 [__Teaching Assistant (Supervised Machine Learning)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[September 2022 - Present]__
+
+* Worked with students in helping them understand the assignments and guiding them in the process to make the concepts of supervised machine learning understandable.
+* Regularly attended the office hours to discuss with students about their progress in the assignments and also suggesting them changes to the be made to get the best results.
+* Often had meetings with the professor and other teaching assistants to make modifications to the syllabus and assignments.
+* Directed a large number of students in the right direction especially for job applications for internships.
+
+
 🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict the future demand of products based on the past history. 
