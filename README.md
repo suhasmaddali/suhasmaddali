@@ -616,7 +616,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (Natural Language Processing)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - Present]__
 
 - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/).
 - I'm involved in designing the assignments to students, teaching them concepts and improving their performance on the tests.
