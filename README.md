@@ -143,7 +143,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 Professional Introduction Video 
 
-&emsp;&emsp; 📸 [My Professional Introduction](https://github.com/suhasmaddali/Professional-Introduction-Repository)
+&emsp;&emsp; 📸 [__My Professional Introduction__](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
 ## 🖥 List of Certifications
 
