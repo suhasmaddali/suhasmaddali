@@ -747,6 +747,8 @@ In this section of the portfolio, I attach the transcript documents. I also brie
 * This experience was really useful for me and the way in which I viewed education in shaping my life. 
 * This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
 
+<hr style="border:0.01px solid blue">
+
 🎤 [__Crescendo__](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/) 
 
 * In our engineering college, we had Crescendo which was the singing club where people from different departments in college came together to sing and learn to enjoy music. 
