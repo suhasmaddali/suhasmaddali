@@ -171,77 +171,77 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
 
-&emsp;&emsp; 🗓 [Engineering Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
+&emsp;&emsp; 🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
 
-&emsp;&emsp; 🗓 [High School Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
+&emsp;&emsp; 🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
 
-&emsp;&emsp; 🗓 [10th Grade Marks Certificate](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
+&emsp;&emsp; 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
 
 ## 🖥 Blogs On Medium
 
-&emsp;&emsp; 📃 [Machine Learning](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
+&emsp;&emsp; 📃 [__Machine Learning__](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
 
-&emsp;&emsp; 📃 [What are the best applications of Machine Learning?](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
+&emsp;&emsp; 📃 [__What are the best applications of Machine Learning?__](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
 
-&emsp;&emsp; 📃 [Why is it just as important for Machine Learning Models to be Fair as well as Accurate?](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123)
+&emsp;&emsp; 📃 [__Why is it just as important for Machine Learning Models to be Fair as well as Accurate?__](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123)
 
-&emsp;&emsp; 📃 [Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b)
+&emsp;&emsp; 📃 [__Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming__](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b)
 
-&emsp;&emsp; 📃 [How important is data in Machine Learning?](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435)
+&emsp;&emsp; 📃 [__How important is data in Machine Learning?__](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435)
 
-&emsp;&emsp; 📃 [What are Convolutional Neural Networks (CNN)?](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665)
+&emsp;&emsp; 📃 [__What are Convolutional Neural Networks (CNN)?__](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665)
 
-&emsp;&emsp; 📃 [How Machine Learning could be used in the Cloud?](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
+&emsp;&emsp; 📃 [__How Machine Learning could be used in the Cloud?__](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5)
 
-&emsp;&emsp; 📃 [Best projects to Showcase in Machine Learning Portfolio](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc)
+&emsp;&emsp; 📃 [__Best projects to Showcase in Machine Learning Portfolio__](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc)
 
-&emsp;&emsp; 📃 [In Machine Learning, Correlation might not always be equal to Causation](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) 
+&emsp;&emsp; 📃 [__In Machine Learning, Correlation might not always be equal to Causation__](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) 
 
-&emsp;&emsp; 📃 [Predicting the Sentiment of a text using Machine Learning](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97)
+&emsp;&emsp; 📃 [__Predicting the Sentiment of a text using Machine Learning__](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97)
 
-&emsp;&emsp; 📃 [Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad)
+&emsp;&emsp; 📃 [__Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?__](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad)
 
-&emsp;&emsp; 📃 [How to understand Machine Learning?](https://medium.com/nerd-for-tech/how-to-understand-machine-learning-237492943525)
+&emsp;&emsp; 📃 [__How to understand Machine Learning?__](https://medium.com/nerd-for-tech/how-to-understand-machine-learning-237492943525)
 
-&emsp;&emsp; 📃 [Introduction to Natural Language Processing for Machine Learning](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213)
+&emsp;&emsp; 📃 [__Introduction to Natural Language Processing for Machine Learning__](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213)
 
-&emsp;&emsp; 📃 [Various ways at which Machine Learning could be used in Medical Diagnosis](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
+&emsp;&emsp; 📃 [__Various ways at which Machine Learning could be used in Medical Diagnosis__](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
 
-&emsp;&emsp; 📃 [What are the activation functions in Machine Learning?](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
+&emsp;&emsp; 📃 [__What are the activation functions in Machine Learning?__](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
 
-&emsp;&emsp; 📃 [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
+&emsp;&emsp; 📃 [__Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words__](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5)
 
-&emsp;&emsp; 📃 [Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f)
+&emsp;&emsp; 📃 [__Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning__](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f)
 
-&emsp;&emsp; 📃 [Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
+&emsp;&emsp; 📃 [__Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?__](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547)
 
-&emsp;&emsp; 📃 [How to Address Data Bias in Machine Learning?](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
+&emsp;&emsp; 📃 [__How to Address Data Bias in Machine Learning?__](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d)
 
-&emsp;&emsp; 📃 [Understand the Workings of Black-Box models with LIME](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431)
+&emsp;&emsp; 📃 [__Understand the Workings of Black-Box models with LIME__](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431)
 
-&emsp;&emsp; 📃 [Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e)
+&emsp;&emsp; 📃 [__Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How__](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e)
 
-&emsp;&emsp; 📃 [List of Important Libraries for Machine Learning and Data Science in Python](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
+&emsp;&emsp; 📃 [__List of Important Libraries for Machine Learning and Data Science in Python__](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e)
 
-&emsp;&emsp; 📃 [Differences between Bias and Variance in Machine Learning](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da)
+&emsp;&emsp; 📃 [__Differences between Bias and Variance in Machine Learning__](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da)
 
-&emsp;&emsp; 📃 [Common Reasons why Machine Learning Projects Fail](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
+&emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 
 ## 🖥 Education 
 
-&emsp;&emsp; 🏫 [Northeastern University Khoury College of Computer Science](https://www.khoury.northeastern.edu)
+&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
 
-&emsp;&emsp; 🏫 [Arizona State University Ira A. Fulton School of Engineering](https://engineering.asu.edu) 
+&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) 
 
-&emsp;&emsp; 🏫 [VNR Vignana Jyothi Institute of Engineering and Technology](http://www.vnrvjiet.ac.in/)
+&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/)
 
-&emsp;&emsp; 🏫 [Narayana Educational Institutions](https://www.narayanagroup.com)
+&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com)
 
-&emsp;&emsp; 🏫 [Vikas The Concept School](https://vikasconcept.com) 
+&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) 
 
 ## 🖥 Assignments and Coursework 
 
