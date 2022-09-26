@@ -291,7 +291,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 Kaggle Profile 
 
-&emsp;&emsp; 🔗 https://www.kaggle.com/suhasmaddali007
+&emsp;&emsp; 🔗 __https://www.kaggle.com/suhasmaddali007__
 
 ## 🖥 Resume 
 
