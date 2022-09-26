@@ -147,7 +147,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 List of Certifications
 
-&emsp;&emsp; 🌱 [__Machine Learning by Stanford University  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) __](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
+&emsp;&emsp; 🌱 [__Machine Learning by Stanford University  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
 
 &emsp;&emsp; 🌱 [Python for Data Science and Machine Learning ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
 
