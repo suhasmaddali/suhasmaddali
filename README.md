@@ -245,48 +245,48 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 Assignments and Coursework 
 
-&emsp;&emsp; 📙 [DS5220 Supervised Machine Learning](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
+&emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Homework 1](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Homework 2](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Homework 3](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Homework 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
 
-&emsp;&emsp; 📙 [DS5110 Introduction to Data Management and Processing](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
+&emsp;&emsp; 📙 [__DS5110 Introduction to Data Management and Processing__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 1](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 2](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 3](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 4](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
 
-&emsp;&emsp; 📙 [IE 7275 Data Mining in Engineering](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
+&emsp;&emsp; 📙 [__IE 7275 Data Mining in Engineering__](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 1](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) 
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 2](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [Assignment 3](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
 
 
 ## 🖥 Competencies
 
-&emsp;&emsp; 🦸 [Leadership Skills](https://github.com/suhasmaddali/Leadership-Skills-)
+&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
 
-&emsp;&emsp; 🦸 [Communication Skills](https://github.com/suhasmaddali/Communication-Skills-) 
+&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
 
-&emsp;&emsp; 🦸 [Team Work](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
+&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
 
-&emsp;&emsp; 🦸 [Curiosity](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
+&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
-&emsp;&emsp; 🦸 [Problem-solving Skills](https://github.com/suhasmaddali/Problem-Solving)
+&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
 
-&emsp;&emsp; 🦸 [Time Management](https://github.com/suhasmaddali/Time-Management)
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
 
 
 ## 🖥 Kaggle Profile 
@@ -295,29 +295,29 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 Resume 
 
-&emsp;&emsp; 📄 [Data Scientist Intern Resume](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20Updated%20Resume.pdf)
+&emsp;&emsp; 📄 [__Data Scientist Intern Resume__](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20Updated%20Resume.pdf)
 
 ## 🖥 References 
 
-&emsp;&emsp; ✅ [Bi Senior Foua](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
+&emsp;&emsp; ✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 
-&emsp;&emsp; ✅ [Abhik Lahiri](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [PathAI](https://www.pathai.com)
+&emsp;&emsp; ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [PathAI](https://www.pathai.com)
 
-&emsp;&emsp; ✅ [Mano Satya Sai](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
 ## 🖥 Contact Information
 
-&emsp;&emsp; 📱 __Phone No:__ 617-671-5751
+&emsp;&emsp; 📱 __Phone No:__ __617-671-5751__
 
-&emsp;&emsp; 🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
 
-&emsp;&emsp; 📹 __YouTube__: https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q
+&emsp;&emsp; 📹 __YouTube__: __https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q__
 
-&emsp;&emsp; 📫 __Email:__ Suhas.maddali.edu@gmail.com
+&emsp;&emsp; 📫 __Email:__ __Suhas.maddali.edu@gmail.com__
 
-&emsp;&emsp; 📘 __Facebook:__ https://www.facebook.com/suhas.maddali
+&emsp;&emsp; 📘 __Facebook:__ __https://www.facebook.com/suhas.maddali__
 
-&emsp;&emsp; ✍🏻 __Medium:__ https://suhas-maddali007.medium.com
+&emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
 
 
 ## 📔📓My Inspiration😀😀:
