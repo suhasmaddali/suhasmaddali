@@ -50,10 +50,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Loan%20Default%20Intro%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Human-Activity-Recognition)
 
-
-
-https://github.com/suhasmaddali/Images/blob/main/Loan%20Default%20Image%202.gif
-
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
