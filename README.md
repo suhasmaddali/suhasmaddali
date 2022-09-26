@@ -46,9 +46,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Images/blob/main/Car%20Prices%20Prediction%20Intro%20Gif%20File.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Price%20Prediction%20Image-min.jpg
-
-
 | 🏦 [Predicting Loan Default](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition)|
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Loan%20Default%20Image%202.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Human-Activity-Recognition)
