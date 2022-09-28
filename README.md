@@ -4,7 +4,7 @@
 
 I'm passionate about __Machine Learning__ and __Data Science__. With the development of __technology__, I believe that there is a huge potential for __Artificial Intelligence__ in different domains. The rapid rate at which there is advancement in __computing power__ and the freedom to take a __large amount of data__ really pushes the field of __Data Science__ and __Machine Learning__ to a whole new level.
 
-![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
+![](https://github.com/suhasmaddali/Images/blob/main/Suhas%20Maddali%20GitHub%20Portfolio%20Intro.gif)
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
@@ -12,7 +12,9 @@ I'm an __MS in Data Science__ student at __Northeastern University Khoury Colleg
 
 ![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Image.jpg)
 
-![](https://github.com/suhasmaddali/Images/blob/main/Suhas%20Maddali%20GitHub%20Portfolio%20Intro.gif)
+![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
+
+
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
