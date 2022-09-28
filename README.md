@@ -12,6 +12,8 @@ I'm an __MS in Data Science__ student at __Northeastern University Khoury Colleg
 
 ![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Image.jpg)
 
+![](https://github.com/suhasmaddali/Images/blob/main/Suhas%20Maddali%20GitHub%20Portfolio%20Intro.gif)
+
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 I learned to code from a young age. I learned __"C"__ language and now I'm learning __python__ which gives me an edge for understanding machine learning and data science. As a result, I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were important in order to become a __machine learning engineer__ or a __data scientist__. Below are the list of some of my skills that I've gained throughout my experience of working with data science and machine learning. Learning these important __tools__ and __techniques__ really helped me build __machine learning projects__ and understand their working in full detail. Feel free to take a look.
