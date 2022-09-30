@@ -969,17 +969,17 @@ Furthermore, I'm also a __gamer__ where I spend some time gaming on steam and ot
 
 ## Useful Links
 
-https://www.ibm.com/cloud/learn/machine-learning
+__https://www.ibm.com/cloud/learn/machine-learning__
 
-https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learning.html
+__https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learning.html__
 
-https://www.springboard.com/library/machine-learning-engineering/how-to-become/
+__https://www.springboard.com/library/machine-learning-engineering/how-to-become/__
 
-https://machinelearningmastery.com/what-is-deep-learning/
+__https://machinelearningmastery.com/what-is-deep-learning/__
 
-https://healthinformatics.uic.edu/blog/machine-learning-in-healthcare/
+__https://healthinformatics.uic.edu/blog/machine-learning-in-healthcare/__
 
-https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+__https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/__
 
 ## 🎬🔚 Summary
 
