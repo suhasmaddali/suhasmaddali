@@ -38,6 +38,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
+![](https://github.com/suhasmaddali/Images/blob/main/inspiration%20gif.gif)
+
 <h2 align = "center"> 🖥 Machine Learning Projects </h2> 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
