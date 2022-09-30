@@ -829,6 +829,8 @@ During my machine learning journey, I had a good time learning important things 
 * It was a good opportunity for me to improve my leadership skills during the process. 
 * I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
 
+<hr style="border:0.01px solid blue">
+
 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-)
 
 * Communication skills are also important to become a good software engineer and a data scientist. 
@@ -836,11 +838,15 @@ During my machine learning journey, I had a good time learning important things 
 * I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. 
 * Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
 
+<hr style="border:0.01px solid blue">
+
 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
 
 * When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. 
 * That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. 
 * Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
+
+<hr style="border:0.01px solid blue">
 
 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
 
@@ -848,11 +854,15 @@ During my machine learning journey, I had a good time learning important things 
 * Some of the most remarkable breakthroughs take place with curiosity in the field. 
 * I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
 
+<hr style="border:0.01px solid blue">
+
 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
 
 * These are the skills that generally help in solving issues quickly and effectively. 
 * They are being learned as part of the education or training. 
 * They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
+
+<hr style="border:0.01px solid blue">
 
 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) 
 
