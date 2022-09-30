@@ -38,7 +38,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/listgiffile.gif)
 
-!<img src = "https://github.com/suhasmaddali/Images/blob/main/inspiration%20gif.gif" width = 1000/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/inspiration%20gif.gif" width = 1000 height = 500/>
 
 <h2 align = "center"> 🖥 Machine Learning Projects </h2> 
 
