@@ -989,15 +989,15 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
 
-🖇 __LinkedIn:__ https://www.linkedin.com/in/suhas-maddali/
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
 
-📹 __YouTube__: https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q
+📹 __YouTube__: __https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q__
 
-📫 __Email:__ Suhas.maddali.chinnu@gmail.com
+📫 __Email:__ __Suhas.maddali.chinnu@gmail.com__
 
-📘 __Facebook:__ https://www.facebook.com/suhas.maddali
+📘 __Facebook:__ __https://www.facebook.com/suhas.maddali__
 
-✍🏻 __Medium:__ https://suhas-maddali007.medium.com
+✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
 
 
 😄😄😄😄😄😄😄😄😄😄😄😄
