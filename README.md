@@ -125,24 +125,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
  
 &emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
-## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
-
-&emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
-
-&emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
-
-&emsp;&emsp; 📕📚 [__BERT &__](https://en.wikipedia.org/wiki/BERT_(language_model)) [__RoBERTa__](https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/) 
-
-&emsp;&emsp; 🔎🔦 [__FAISS &__](https://ai.facebook.com/tools/faiss/) [__ScaNN__](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) 
-
-&emsp;&emsp; 🎧🔉 [__Audio Signal as a Spectrogram__](https://en.wikipedia.org/wiki/Spectrogram#:~:text=A%20spectrogram%20is%20a%20visual,may%20be%20called%20waterfall%20displays.) 
-
-&emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) 
-
-## 🖥 Professional Introduction Video 
-
-&emsp;&emsp; 📸 [__My Professional Introduction__](https://github.com/suhasmaddali/Professional-Introduction-Repository)
-
 ## 🖥 List of Certifications
 
 &emsp;&emsp; 🌱 [__Machine Learning by Stanford University__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
@@ -164,6 +146,24 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
 
 &emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
+
+## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
+
+&emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
+
+&emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
+
+&emsp;&emsp; 📕📚 [__BERT &__](https://en.wikipedia.org/wiki/BERT_(language_model)) [__RoBERTa__](https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/) 
+
+&emsp;&emsp; 🔎🔦 [__FAISS &__](https://ai.facebook.com/tools/faiss/) [__ScaNN__](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) 
+
+&emsp;&emsp; 🎧🔉 [__Audio Signal as a Spectrogram__](https://en.wikipedia.org/wiki/Spectrogram#:~:text=A%20spectrogram%20is%20a%20visual,may%20be%20called%20waterfall%20displays.) 
+
+&emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) 
+
+## 🖥 Professional Introduction Video 
+
+&emsp;&emsp; 📸 [__My Professional Introduction__](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
 ## 🖥 Academic Transcripts
 
