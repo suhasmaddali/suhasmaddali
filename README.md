@@ -54,7 +54,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/AirBnb%20Houses%20Introduction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Telephone%20Telco.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
 
 <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
 
