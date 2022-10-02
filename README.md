@@ -685,7 +685,7 @@ There are a lot of __resources__ and __tools__ available in the world with the a
 
 In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
 
-https://github.com/suhasmaddali/Professional-Introduction-Repository
+__https://github.com/suhasmaddali/Professional-Introduction-Repository__
 
 ## 🏅🎖 My List of Certifications
 
