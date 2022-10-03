@@ -36,7 +36,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 
 I had an amazing experience doing __machine learning__ and __deep learning__ projects. Below are the links to my projects. If you want more information about the projects, feel free to scroll to the end of this website where I describe in great detail the __projects__ and the __results__ obtained. Below is just a __summary__ of the entire portfolio. Feel free to take a look. Thanks!
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/GitHub%20Intro%20Image%20Gif.gif" width = 500 height = 300/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/GitHub%20Intro%20Image%20Gif.gif" width = 750 height = 300/>
 
 <h2 align = "center"> 🖥 Machine Learning Projects </h2> 
 
