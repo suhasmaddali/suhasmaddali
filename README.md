@@ -768,39 +768,6 @@ In this section of the portfolio, I attach the transcript documents. I also brie
 
 There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
 
-## 📹🎥 My Professional Introduction Video 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
-
-In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
-
-__https://github.com/suhasmaddali/Professional-Introduction-Repository__
-
-## 🎗🎗 My Volunteer Experience
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width = "750"/>
-
-
-👨‍💼 [__VNR SF__](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ)
-
-* I was a member of VNR SF and I was mostly influential in driving the goals of the team in helping the community by providing the needy access to resources and books. 
-* This gave me a good experience of working with different individuals and learning about their goals and dreams. 
-* There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them access to new books and also explained about our initiative to serve the poor and needy by giving them access to all the resources. 
-* This experience was really useful for me and the way in which I viewed education in shaping my life. 
-* This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
-
-<hr style="border:0.01px solid blue">
-
-🎤 [__Crescendo__](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/) 
-
-* In our engineering college, we had Crescendo which was the singing club where people from different departments in college came together to sing and learn to enjoy music. 
-* I was the lead singer during that time. 
-* Furthermore, I was also directing different groups of people to sing and also play musical instruments respectively. 
-* It was a really good experience to learn from the team the mistakes and correct them and ensure that everything was going well. 
-* It shaped the way in which I viewed music which was to not just sing but also enjoy the process. 
-* My 2 years of working with Crescendo really helped in handling practical aspects of life as well. 
-* Overall, it was a good and amazing experience to learn from a group of people of different departments in my college and it was really influential. 
-
 ## 🗃📂 My Asssignments and Coursework
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/laura-rivera-ArH3dtoDQc0-unsplash.jpg" width = "750" />
@@ -942,6 +909,39 @@ Machine learning is used in many industries and there is a lot of demand and sco
 I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
 
 __https://www.kaggle.com/suhasmaddali007__
+
+## 📹🎥 My Professional Introduction Video 
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
+
+In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
+
+__https://github.com/suhasmaddali/Professional-Introduction-Repository__
+
+## 🎗🎗 My Volunteer Experience
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width = "750"/>
+
+
+👨‍💼 [__VNR SF__](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ)
+
+* I was a member of VNR SF and I was mostly influential in driving the goals of the team in helping the community by providing the needy access to resources and books. 
+* This gave me a good experience of working with different individuals and learning about their goals and dreams. 
+* There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them access to new books and also explained about our initiative to serve the poor and needy by giving them access to all the resources. 
+* This experience was really useful for me and the way in which I viewed education in shaping my life. 
+* This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
+
+<hr style="border:0.01px solid blue">
+
+🎤 [__Crescendo__](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/) 
+
+* In our engineering college, we had Crescendo which was the singing club where people from different departments in college came together to sing and learn to enjoy music. 
+* I was the lead singer during that time. 
+* Furthermore, I was also directing different groups of people to sing and also play musical instruments respectively. 
+* It was a really good experience to learn from the team the mistakes and correct them and ensure that everything was going well. 
+* It shaped the way in which I viewed music which was to not just sing but also enjoy the process. 
+* My 2 years of working with Crescendo really helped in handling practical aspects of life as well. 
+* Overall, it was a good and amazing experience to learn from a group of people of different departments in my college and it was really influential.
 
 ## 🤝🤝 My References
 
