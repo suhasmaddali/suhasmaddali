@@ -187,10 +187,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
 
-## 🖥 Professional Introduction Video 
-
-&emsp;&emsp; 📸 [__My Professional Introduction__](https://github.com/suhasmaddali/Professional-Introduction-Repository)
-
 ## 🖥 Blogs On Medium
 
 &emsp;&emsp; 📃 [__Machine Learning__](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
@@ -284,6 +280,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; 🎧🔉 [__Audio Signal as a Spectrogram__](https://en.wikipedia.org/wiki/Spectrogram#:~:text=A%20spectrogram%20is%20a%20visual,may%20be%20called%20waterfall%20displays.) 
 
 &emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) 
+
+## 🖥 Professional Introduction Video 
+
+&emsp;&emsp; 📸 [__My Professional Introduction__](https://github.com/suhasmaddali/Professional-Introduction-Repository)
 
 ## 🖥 Kaggle Profile 
 
