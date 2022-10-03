@@ -187,6 +187,36 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
 
+## 🖥 Assignments and Coursework 
+
+&emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
+
+&emsp;&emsp; 📙 [__DS5110 Introduction to Data Management and Processing__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
+
+&emsp;&emsp; 📙 [__IE 7275 Data Mining in Engineering__](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) 
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+
 ## 🖥 Blogs On Medium
 
 &emsp;&emsp; 📃 [__Machine Learning__](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09)
@@ -236,36 +266,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; 📃 [__Differences between Bias and Variance in Machine Learning__](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da)
 
 &emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
-
-## 🖥 Assignments and Coursework 
-
-&emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
-
-&emsp;&emsp; 📙 [__DS5110 Introduction to Data Management and Processing__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
-
-&emsp;&emsp; 📙 [__IE 7275 Data Mining in Engineering__](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) 
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
