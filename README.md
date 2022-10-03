@@ -125,6 +125,18 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
  
 &emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
+## 🖥 Education 
+
+&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
+
+&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) 
+
+&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/)
+
+&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com)
+
+&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) 
+
 ## 🖥 List of Certifications
 
 &emsp;&emsp; 🌱 [__Machine Learning by Stanford University__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
@@ -228,18 +240,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; 📃 [__Differences between Bias and Variance in Machine Learning__](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da)
 
 &emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
-
-## 🖥 Education 
-
-&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
-
-&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) 
-
-&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/)
-
-&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com)
-
-&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) 
 
 ## 🖥 Assignments and Coursework 
 
