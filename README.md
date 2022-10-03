@@ -841,26 +841,6 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the sensitivity and specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and others. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true-positive rate, false-positive rate, precision, recall, and f1-score with various threshold values. In addition to this, it is also important to explain to the business people in terms of monetary values instead of machine learning terms. Therefore, an exercise is given that explains using total profit as a metric and how it changes based o the various values of the threshold that we have taken into consideration.
 
-## 📽📽 My Kaggle Profile 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
-
-I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
-
-__https://www.kaggle.com/suhasmaddali007__
-
-## 🤝🤝 My References
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/nasa-1lfI7wkGWZ4-unsplash.jpg" width = "750" />
-
-During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
-
-✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to Deployment of the models. 
-
-✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - He is currently working in [PathAI](https://www.pathai.com/) as Senior Machine Learning Scientist And Technical Lead and he saw my work through LinkedIn contributions and sharing of blogs in the field of machine learning and artificial intelligence. Furthermore, he also recognized my work through Kaggle and GitHub where I demonstrated my projects and experience of using machine learning and deep learning algorithms respectively. Overall, I had a good time interacting with him and learned a lot during the process. To add more information about Abhik, he also worked in [Quora](https://en.wikipedia.org/wiki/Quora) as a Machine Learning Engineer and pursued a Master's in Computer Science at [Stanford](https://www.stanford.edu/) University. 
-
-✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
-
 ## 📑🗞 My Blogs 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/typinggif.gif" width = "750"/>
@@ -954,6 +934,26 @@ Machine learning is used in many industries and there is a lot of demand and sco
 3. __Rigid Business models__ - Companies need to be flexible where they must spend their time to other resources apart from the fixed number of resources for them to work effectively. There are many companies that might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than be more flexible. This creates problems for large-scale businesses as they must adapt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
 
 4. __Lack of Talent__ - Machine Learning Engineer and Data Scientist are some of the talked about professions in the IT industry. There are many universities and colleges making use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seems to be a lot of gaps in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
+
+## 📽📽 My Kaggle Profile 
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
+
+I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
+
+__https://www.kaggle.com/suhasmaddali007__
+
+## 🤝🤝 My References
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/nasa-1lfI7wkGWZ4-unsplash.jpg" width = "750" />
+
+During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
+
+✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to Deployment of the models. 
+
+✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - He is currently working in [PathAI](https://www.pathai.com/) as Senior Machine Learning Scientist And Technical Lead and he saw my work through LinkedIn contributions and sharing of blogs in the field of machine learning and artificial intelligence. Furthermore, he also recognized my work through Kaggle and GitHub where I demonstrated my projects and experience of using machine learning and deep learning algorithms respectively. Overall, I had a good time interacting with him and learned a lot during the process. To add more information about Abhik, he also worked in [Quora](https://en.wikipedia.org/wiki/Quora) as a Machine Learning Engineer and pursued a Master's in Computer Science at [Stanford](https://www.stanford.edu/) University. 
+
+✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
