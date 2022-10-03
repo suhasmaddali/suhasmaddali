@@ -693,20 +693,6 @@ There are numerous machine learning and data science courses that I went through
 
 &emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F) - In the final course of the Deep Learning Specialization, the instructor teaches the foundations of Convolutional Neural Networks (CNNs). Also, Deep Convolutional Neural Networks along with case studies are included in the lectures. Finally, Face Recognition Technology and Neural Style Transfer are taught in the course, giving a good idea of their work. Hence, I was able to get a good amount of working knowledge in the field of data science and deep learning by going through all the courses and completing the specialization. 
 
-## 😇😇 My Values:
-
-![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
-
-There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
-
-## 📹🎥 My Professional Introduction Video 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
-
-In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
-
-__https://github.com/suhasmaddali/Professional-Introduction-Repository__
-
 ## 🚌👨‍🏫 Academic Transcripts 
 
 In this section of the portfolio, I attach the transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
@@ -725,6 +711,19 @@ In this section of the portfolio, I attach the transcript documents. I also brie
 
 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) - I completed my schooling in Vikas the Concept School where I learned the foundation of mathematics and physics required later in real-world applications. During that time, I had an amazing experience talking to friends, learning about their hobbies and their interests and their goals in life. Overall, it was a really good experience learning the concepts in various topics that could be potentially used later in life in general. Click on the link to view my certificate along with marks report. 
 
+## 😇😇 My Values:
+
+![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
+
+There are a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every indvidual must be respected regardless of their conditions or their significance in the society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in the society. 
+
+## 📹🎥 My Professional Introduction Video 
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
+
+In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
+
+__https://github.com/suhasmaddali/Professional-Introduction-Repository__
 
 ## 🎗🎗 My Volunteer Experience
 
