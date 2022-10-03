@@ -173,6 +173,20 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
 
+## 🖥 Competencies
+
+&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
+
+&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
+
+&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
+
+&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
+
+&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
+
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
@@ -270,22 +284,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
 
 &emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
-
-
-## 🖥 Competencies
-
-&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
-
-&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
-
-&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
-
-&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
-
-&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
-
-&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
-
 
 ## 🖥 Kaggle Profile 
 
