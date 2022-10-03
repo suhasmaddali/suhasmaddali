@@ -711,6 +711,57 @@ In this section of the portfolio, I attach the transcript documents. I also brie
 
 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) - I completed my schooling in Vikas the Concept School where I learned the foundation of mathematics and physics required later in real-world applications. During that time, I had an amazing experience talking to friends, learning about their hobbies and their interests and their goals in life. Overall, it was a really good experience learning the concepts in various topics that could be potentially used later in life in general. Click on the link to view my certificate along with marks report. 
 
+## 🐎🏎 Competencies
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
+
+🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-) 
+
+* During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. 
+* It was a good opportunity for me to improve my leadership skills during the process. 
+* I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-)
+
+* Communication skills are also important to become a good software engineer and a data scientist. 
+* Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. 
+* I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. 
+* Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
+
+* When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. 
+* That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. 
+* Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
+
+* Being creative when building applications would lead to better and more innovative products. 
+* Some of the most remarkable breakthroughs take place with curiosity in the field. 
+* I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
+
+* These are the skills that generally help in solving issues quickly and effectively. 
+* They are being learned as part of the education or training. 
+* They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
+
+<hr style="border:0.01px solid blue">
+
+🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) 
+
+* During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
+* Therefore, I was involved in the process of organizing and planning between various activities. 
+* As a result, there was a very good productivity in the company by managing time and effectively using it for best practicies. 
+
 ## 😇😇 My Values:
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
@@ -797,57 +848,6 @@ The course was interesting in that it focuses mostly on the insights generated f
 During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI powered applications. Given below are some of the repositories that I have added which I felt that had key ingredients in them that helped me excel in this data science journey. 
 
 📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the intructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanded concepts related to python. 
-
-## 🐎🏎 Competencies
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
-
-🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-) 
-
-* During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. 
-* It was a good opportunity for me to improve my leadership skills during the process. 
-* I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-)
-
-* Communication skills are also important to become a good software engineer and a data scientist. 
-* Communication plays a very important role when it comes to leting others in the team know the progress, track the development of a project and get a good understanding of the overall flow of the team. 
-* I've built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. 
-* Furthermore, I've gone through courses that are related to communcation which would ensure that we are getting the best results when talked to a group of people or audience respectively. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
-
-* When building projects and talking to people about the outcomes, it is important to have team work so that it would be a whole lot easier for a team to improve the performance of the company. 
-* That's the reason why companies such as Apple and Facebook are improving their revenue as a result of a work from the team rather than individual efforts. 
-* Since I was more into teams, I was more involved in projects with teams and I have good amount of networking and team management skills. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
-
-* Being creative when building applications would lead to better and more innovative products. 
-* Some of the most remarkable breakthroughs take place with curiosity in the field. 
-* I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
-
-* These are the skills that generally help in solving issues quickly and effectively. 
-* They are being learned as part of the education or training. 
-* They are generally about familiarizing about the common issues in various industries and also learning from experienced employees. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) 
-
-* During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
-* Therefore, I was involved in the process of organizing and planning between various activities. 
-* As a result, there was a very good productivity in the company by managing time and effectively using it for best practicies. 
 
 ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
