@@ -902,14 +902,6 @@ Machine learning is used in many industries and there is a lot of demand and sco
 
 4. __Lack of Talent__ - Machine Learning Engineer and Data Scientist are some of the talked about professions in the IT industry. There are many universities and colleges making use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seems to be a lot of gaps in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
 
-## 📽📽 My Kaggle Profile 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
-
-I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
-
-__https://www.kaggle.com/suhasmaddali007__
-
 ## 📹🎥 My Professional Introduction Video 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
@@ -917,6 +909,14 @@ __https://www.kaggle.com/suhasmaddali007__
 In repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
 
 __https://github.com/suhasmaddali/Professional-Introduction-Repository__
+
+## 📽📽 My Kaggle Profile 
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
+
+I'm very familiar with Kaggle - a website that would help data scientist and machine learning engineers to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read other's code as a result of which I get a good understanding of the various ways at which a machine learning project could be implemented. Below is a list of all the work that I did in Kaggle. Feel free to take a look and give your feedback! Thanks. 
+
+__https://www.kaggle.com/suhasmaddali007__
 
 ## 🎗🎗 My Volunteer Experience
 
