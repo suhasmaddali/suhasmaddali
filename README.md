@@ -159,34 +159,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
-## 🖥 Academic Transcripts
-
-&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
-
-&emsp;&emsp; 🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
-
-&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
-
-&emsp;&emsp; 🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
-
-&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
-
-&emsp;&emsp; 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
-
-## 🖥 Competencies
-
-&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
-
-&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
-
-&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
-
-&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
-
-&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
-
-&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
-
 ## 🖥 Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
@@ -216,6 +188,34 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
 
 &emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+
+## 🖥 Academic Transcripts
+
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
+
+&emsp;&emsp; 🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) 
+
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
+
+&emsp;&emsp; 🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) 
+
+&emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
+
+&emsp;&emsp; 🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) 
+
+## 🖥 Competencies
+
+&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
+
+&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
+
+&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
+
+&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
+
+&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
+
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
 
 ## 🖥 Blogs On Medium
 
