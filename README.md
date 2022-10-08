@@ -295,11 +295,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 References 
 
-&emsp;&emsp; ✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
+&emsp;&emsp; ✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - Data Scientist at [__Apple__](https://en.wikipedia.org/wiki/Apple_Inc.)
 
-&emsp;&emsp; ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [PathAI](https://www.pathai.com)
+&emsp;&emsp; ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [__PathAI__](https://www.pathai.com)
 
-&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
 
 ## 🖥 Contact Information
 
