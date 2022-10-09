@@ -318,14 +318,6 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 📔📓My Inspiration😀😀:
 
-![](https://github.com/suhasmaddali/Images/blob/main/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
-
-![](https://github.com/suhasmaddali/Images/blob/main/Space%20Image.jpg)
-
-![](https://github.com/suhasmaddali/Images/blob/main/Space%20Image%202.jpg)
-
-![](https://github.com/suhasmaddali/Images/blob/main/Space%20Image%203.jpg)
-
 ![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Photo%20New.jpg)
 
 My interest in __machine learning__ and __artificial intelligence__ started when I was in my final year pursuing a __Bachelor of Technology__. I remember that we had to pick a final year project. During that time, I understood that machine learning and artificial intelligence were talked about most on the internet, and it's potential to revolutionize people's lives. I suggested to my teammates that using machine learning for __healthcare__ is a really good practice. Me and my teammates worked using Machine Learning to predict the chances of a person to suffer from Heart Disease respectively. The challenge with diagnosing whether a person would suffer from heart disease using traditional methods is that they are often slow and require a lot of time and effort from the doctors. Therefore, we looked for various ways in which we would automate the process. We were able to download the dataset from __Kaggle__ and implement the machine learning models for predictions for the __heart disease__ dataset. We were able to get good results on the test set. I could see how machine learning was used for diagnosing whether a person would suffer from heart disease. It spiked an interest where I tried to look for ways in which I could apply machine learning. I came across Kaggle - a website that allows people to download datasets for machine learning and artificial intelligence purposes. I applied my knowledge of machine learning and data science in different domains such as healthcare, academia, and retail industries😀😀.
