@@ -267,7 +267,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 
-&emsp;&emsp; 📃 [__10 Tips to become a Data Scientist or Machine Learning Engineer__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
+&emsp;&emsp; 📃 [__10 Tips to become a Data Scientist or Machine Learning Engineer__](https://medium.com/towards-data-science/10-tips-to-become-a-data-scientist-or-machine-learning-engineer-8c0700976f9e)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
