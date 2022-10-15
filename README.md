@@ -267,6 +267,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 
+&emsp;&emsp; 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
