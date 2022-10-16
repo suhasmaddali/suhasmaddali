@@ -25,11 +25,7 @@ I learned to code from a young age. I learned __"C"__ language and now I'm learn
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits. By taking a look at this summary, it is handy to get to get a brief overview of the entire __portfolio__. Thanks. 
 
 ```diff
-+ The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites.
-
-+ They give irrevocable, nonexclusive, worldwide copyright license to 
-
-+ download, copy, modify, distribute, perform and use photos. 🙂
++ The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites. 🙂
 ```
 
 ## 💼🎒 My Portfolio Overview:
