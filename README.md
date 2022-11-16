@@ -267,6 +267,10 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__Do Not Curse Your Machine Learning Models When They are Not Performing Well in Real Time - Instead Do This__](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8)
 
+&emsp;&emsp; 📃 [__Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer__](https://medium.com/towards-data-science/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1)
+
+&emsp;&emsp; 📃 [__Do Not Curse Your Machine Learning Models When They are Not Performing Well in Real Time - Instead Do This__](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8)
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
