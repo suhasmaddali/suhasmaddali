@@ -265,7 +265,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__10 Tips to become a Data Scientist or Machine Learning Engineer__](https://medium.com/towards-data-science/10-tips-to-become-a-data-scientist-or-machine-learning-engineer-8c0700976f9e)
 
-&emsp;&emsp; 📃 [Do not curse your machine learning models when they are not performing well in real time - instead do this](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8)
+&emsp;&emsp; 📃 [__Do Not Curse Your Machine Learning Models When They are Not Performing Well in Real Time - Instead Do This__](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
