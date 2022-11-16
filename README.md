@@ -869,6 +869,12 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__10 Tips to become a Data Scientist or Machine Learning Engineer__](https://medium.com/towards-data-science/10-tips-to-become-a-data-scientist-or-machine-learning-engineer-8c0700976f9e) - In this blog, I have discussed some of the important ways in which we can become data scientists or machine learning engineers. There are some tips that must be followed that can increase the chances of becoming a data scientist to a large extent. While learning to code can be an important skill, the ability to communicate well with team members and other people can make a significant impact on becoming a data scientist respectively. Feel free to take a look at this article where I explain these tips in great detail.
 
+📃 [__Do Not Curse Your Machine Learning Models When They are Not Performing Well in Real Time - Instead Do This__](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8)
+
+📃 [__Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer__](https://medium.com/towards-data-science/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1)
+
+📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5)
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
