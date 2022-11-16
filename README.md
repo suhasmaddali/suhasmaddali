@@ -873,7 +873,7 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer__](https://medium.com/towards-data-science/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1) - There are a list of steps that are usually followed by data scientists and machine learning engineers to build interesting artificial intelligence applications. In the article highlighted, a sequence of steps that are usually followed in data science cycle are mentioned to make it easier to implement machine learning solutions. 
 
-📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5)
+📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) - Feature engineering can be one of the most important steps in a machine learning cycle. Learning to use the right strategies for feature engineering boosts the performance of these intricate models to a large extent. In the article, a list of a large number of feature engineering techniques are presented to the community so that they could be used later when needed. Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models. 
 
 ## 🎼👨‍🎓 Key Learnings
 
