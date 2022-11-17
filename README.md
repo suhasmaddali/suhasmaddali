@@ -608,8 +608,6 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 ## 📐📑 My Work Experience 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" width = "750" />
-
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Work%20experience%20photo.jpg" width = "750" />
 
 👨‍🏫🧑‍🏫 [__TA (Supervised Machine Learning)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[September 2022 - Present]__
