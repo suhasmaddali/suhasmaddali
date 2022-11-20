@@ -271,7 +271,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5)
 
-&emsp;&emsp; 📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
+&emsp;&emsp; 📃 [__How to Avoid Mistakes in Data Science__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
