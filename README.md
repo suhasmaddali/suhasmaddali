@@ -877,6 +877,8 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) - Feature engineering can be one of the most important steps in a machine learning cycle. Learning to use the right strategies for feature engineering boosts the performance of these intricate models to a large extent. In the article, a list of a large number of feature engineering techniques are presented to the community so that they could be used later when needed. Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models. 
 
+📃 [__How to Avoid Mistakes in Data Science__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b) 
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
