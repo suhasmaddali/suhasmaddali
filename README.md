@@ -373,6 +373,15 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 <hr style="border:0.01px solid blue">
 
+🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
+
+* In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
+* Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
+* __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
+* The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
+
+<hr style="border:0.01px solid blue">
+
 👨‍⚕️ [__Cancer Diagnosis Prediction__](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)   
 
 * Cancer is a __life-threatening__ disease, and it is really important to take the right steps in order to prevent this disease.
@@ -397,15 +406,6 @@ In this section, different sets of __machine learning__ projects are highlighted
 * __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for the housing prices.
 * Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others.
 * __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others.
-
-<hr style="border:0.01px solid blue">
-
-🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
-
-* In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
-* Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
-* __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
-* The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
 <hr style="border:0.01px solid blue">
 
