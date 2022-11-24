@@ -1,4 +1,4 @@
- <img src = "https://github.com/suhasmaddali/Images/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png" height = 100>
+ <img src = "https://github.com/suhasmaddali/Images/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png" height = 100 width = 1000>
  
  <h1><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Suhas Maddali 👋</h1>
 
