@@ -728,24 +728,6 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the sensitivity and specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and others. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true-positive rate, false-positive rate, precision, recall, and f1-score with various threshold values. In addition to this, it is also important to explain to the business people in terms of monetary values instead of machine learning terms. Therefore, an exercise is given that explains using total profit as a metric and how it changes based o the various values of the threshold that we have taken into consideration.
 
-## 🚌👨‍🏫 Academic Transcripts 
-
-In this section of the portfolio, I attach the transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
-
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/Academic%20transcripts%20gif%20file.gif"/>
-
-[<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
-
-🗓 [__Engineering Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Consolidated%20Marks%20Memo%20Transcript.pdf) - Pursuing my engineering at __Electronics and Communication (ECE)__ Engineering shaped the way at which I viewed technology and their power at which they impact people's lives. Communication is a fundamental requirement of humans. There are a lot of tools and technologies that are used for this purpose such as __Mobiles__ and __telephones__ respectively. Overall, I had a good experience working and understanding these tools in my communcation engineering. Feel free to take a look at my marks certificate in Engineering. Thanks. 
-
-[<img src = "https://github.com/suhasmaddali/Images/blob/main/Narayana%20Institute.png" width = "75" height = "75" />](https://www.narayanagroup.com)
-
-🗓 [__High School Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/Intermediate%20Certificate.pdf) - __Narayana Institutes__ in India are really known for their academic __rigor__ and __teachings__. As a result of my education in the institute, I've learned the fundamental concepts of physics, mathematics and chemistry that are used in lot of real-world applications. Furthermore, there was an exam that tests how well a student would apply the learned principles in various disciplines. The exam is also known as __IIT advanced exam__. I was able to excel in the examination and performed well. You can take a look at my education certificate along with marks by clicking on the link above. 
-
-[<img src = "https://github.com/suhasmaddali/Images/blob/main/Vikas%20the%20concept%20school%20latest%20image.png" width = "75" height = "75"/>](https://vikasconcept.com)
-
-🗓 [__10th Grade Marks Certificate__](https://github.com/suhasmaddali/Academic-Transcripts/blob/main/10th%20class%20attested%20marks%20sheets.pdf) - I completed my schooling in Vikas the Concept School where I learned the foundation of mathematics and physics required later in real-world applications. During that time, I had an amazing experience talking to friends, learning about their hobbies and their interests and their goals in life. Overall, it was a really good experience learning the concepts in various topics that could be potentially used later in life in general. Click on the link to view my certificate along with marks report. 
-
 ## 🐎🏎 Competencies
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
