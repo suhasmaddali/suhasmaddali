@@ -105,7 +105,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) | 
 
-<h2 align = "center"> 🖥 HTML5, CSS3 and Bootstrap Projects</h2>
+<h2 align = "center"> 🖥 My HTML5, CSS3 and Bootstrap Projects</h2>
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
