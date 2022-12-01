@@ -422,7 +422,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 👹 [__Twitter Sentiment Analysis__](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)   
 
-* In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of direction of certain topics.
+* In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of the direction of certain topics.
 * It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
 * In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
 
@@ -434,7 +434,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * It is important for the company to determine whether the newly asked questions are __similar__ to the ones that were asked before.
 * This would save a lot of __memory__ and __resources__ on the part of Quora.
 * With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
-* Once the predictions are performed, the answers to the previous questions are merged saving a lot of time and, memory and resources by the company.
+* Once the predictions are performed, the answers to the previous questions are merged saving a lot of time, memory, and resources by the company.
 
 ## 👀👁 My Computer Vision Projects
 
@@ -442,16 +442,16 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
-One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since the image and video data is found in abundance, there are computer vision tools which could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
+One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since image and video data are found in abundance, there are computer vision tools that could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
 
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
-* __Wheat__ is available almost everywhere in the form of nutrition such as cereals and breads. When producing wheat, there are diseases associated with them.
-* __Farmers__ have to spend considerable amount of time to identify the diseases.
-* Doing this manually is a time consuming process. With Computer Vision, it is possible to understand various diseases in wheat and identify them.
-* This leads to significant reduction in the time taken to identify the diseases in wheat along with taking steps to prevent future diseases.
-* In the repository, various Convolutional Neural Networs (CNNs) are tested such as __InceptionV3__, __Xception__ and __VGG19__ to identify these diseases.
-* __VGG19__ was able to perform exceptionaly well with the test accuracy being __97 percent__ respectively.
+* __Wheat__ is available almost everywhere in the form of nutrition such as cereals and bread. When producing wheat, there are diseases associated with them.
+* __Farmers__ have to spend a considerable amount of time identifying the diseases.
+* Doing this manually is a time-consuming process. With Computer Vision, it is possible to understand various diseases in wheat and identify them.
+* This leads to a significant reduction in the time taken to identify the diseases in wheat along with taking steps to prevent future diseases.
+* In the repository, various Convolutional Neural networks (CNNs) are tested such as __InceptionV3__, __Xception__, and __VGG19__ to identify these diseases.
+* __VGG19__ was able to perform exceptionally well with the test accuracy being __97 percent__ respectively.
 
 <hr style="border:0.01px solid blue">
 
@@ -463,14 +463,14 @@ One of the interesting things about computer vision is that there is a lot of sc
 * Moreover, This could lead to problems such as __corrosion__ and other errors.
 * Since it takes a lot of time for people to detect the defects in steel, proper analysis and prediction mechanisms must be undertaken.
 * Predictions can be generated by the __Convolutional Neural Networks (CNNs)__ based on the past training examples.
-* Therefore, this would save a lot of time and effort by companies when they deploy __machine learning models__ in predicting the damage present in the steel.
+* Therefore, this would save a lot of time and effort by companies when they deploy __machine learning models__ in predicting the damage present in steel.
 * We would use deep learning models in predicting the defects in steel respectively.
 
 <hr style="border:0.01px solid blue">
 
 🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)     
 * This is a simple project to implement Convolutional Neural Network and note its working.
-* Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ that is available in Kaggle.
+* Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
 * There are different kernel sizes considered and outputs are noted using a graph respectively.
 * By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
@@ -480,8 +480,8 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 * There are a lot of food products that we get from wheat.
 * Wheat is known as the common food staple that could be used to prepare different kinds of food items.
-* Since there are differnet types of wheat available, it is important to identify different kinds of wheat available.
-* In the machine learning project, images of different kinds of __wheat heads__ are taken and made available so that computer vision could be used to understand the wheat heads and distinguish them.
+* Since there are different types of wheat available, it is important to identify different kinds of wheat available.
+* In the machine learning project, images of different kinds of __wheat heads__ are taken and made available so that computer vision could be used to understand wheat heads and distinguish them.
 * Various computer vision algorithms are used to identify the wheat heads respectively. 
 
 <hr style="border:0.01px solid blue">
@@ -489,14 +489,14 @@ One of the interesting things about computer vision is that there is a lot of sc
 🔢 [__MNIST Digits Classification__](https://github.com/suhasmaddali/MNIST-classification-)   
 
 * MNIST data is quite popular as it is being used for beginning the journey with Convolutional Neural Networks.
-* The repository contains MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
-* There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross entropy loss as the metric for getting the best configuration.
+* The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
+* There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
 
 ## 📊🗺 My Data Visualization Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
 
-It is important to note that __data visualization__ is the key to extract insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time in performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
+It is important to note that __data visualization__ is the key to extracting insights from the data. In addition to this, it also gives us insights into whether new features must be created or removed. If we find that there is a strong __correlation__ between different features, all those features can be removed (considering that the dimensionality of the data is very large). Therefore, we have to spend time performing Exploratory Data Analysis (EDA). Below are some of the data visualization projects.
 
 📽 [__YouTube Video Analysis__](https://github.com/suhasmaddali/Youtube-Video-Analysis)  
 
@@ -521,9 +521,9 @@ It is also important to understand how data is stored before performing __machin
 
 🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-)   
 
-* In this project, __database design__ of the cab reservation system was created and analyzed to implement the effective way to storing and retrieving information from the database.
+* In this project, __database design__ of the cab reservation system was created and analyzed to implement the effective way to store and retrieve information from the database.
 * Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
-* After successfully __designing__ and implementing the __database design__, focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
+* After successfully __designing__ and implementing the __database design__, the focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
 
 ## 🕸🔨My Web Scraping Projects
 
@@ -533,7 +533,7 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 🍿 [__IMDB Movies Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)    
 
-* __IMDB ratings__ could be used to analyze user engagement with various movies.
+* __IMDB rating__ could be used to analyze user engagement with various movies.
 * It would be really good if we could be using the tables from the __IMDB data__ and understand the factors impacting the ratings by various users.
 * Web scraping was done with the help of various packages in Python and understanding the data respectively.
 * One popular library used to understand the data was __'BeautifulSoup'__ that was important for reading the tables respectively.
@@ -553,7 +553,7 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 🎮 [__Popular Gaming Titles Wikipedia Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)   
 
-* __Wikipedia__ is a good source of information and is often reliable especially with the trends.
+* __Wikipedia__ is a good source of information and is often reliable, especially with the trends.
 * __Web scraping__ this information could be handy. Web scraping of __Gaming data__ was performed to extract useful insights from it.
 * There were various tables present in Wikipedia. Interest was towards the most trending Games and the overall revenue generated by them.
 * It was very interesting to work with the data and understand the games that were in high demand.
@@ -579,14 +579,14 @@ __Web scraping__ is interesting in that information that could be potentially us
 
 <img src = "https://github.com/suhasmaddali/HTML5-CSS3-and-bootstrap-projects/blob/main/images/webpage.gif" width = "500"/>
 
-With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the contents. 
+With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, websites are designed to help users with easier navigation. As a result of the design, users end up getting attracted to the __interactive UI__, thus, booking the services as required. Feel free to take a look at the website design. The __back-end__ programming is not yet done (would be done in the future). An interactive __front-end__ is designed so that users get access to the content. 
 
 🍔 [__Adare Restaurant Webpage__](https://github.com/suhasmaddali/Adare-Restaurant-Webpage)   
 
 * A website is designed with knowledge of __HTML__ and __CSS__.
-* Styling is also done with the CSS stylesheets that really helps in building effective designs.
+* Styling is also done with the CSS stylesheets that really help in building effective designs.
 * Users are able to book a reservation along with locating the exact place where the restaurant is present.
-* In addition, an youtube video is also embedded in the homepage so that visiters take a look before ordering the foods in the restaurant.
+* In addition, a youtube video is also embedded in the homepage so that visitors take a look before ordering the food in the restaurant.
 
 <hr style="border:0.01px solid blue">
 
