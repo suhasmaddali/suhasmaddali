@@ -309,12 +309,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
 
-
 ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Photo%20New.jpg)
 
-My interest in __machine learning__ and __artificial intelligence__ started when I was in my final year pursuing a __Bachelor of Technology__. I remember that we had to pick a final year project. During that time, I understood that machine learning and artificial intelligence were talked about most on the internet, and it's potential to revolutionize people's lives. I suggested to my teammates that using machine learning for __healthcare__ is a really good practice. Me and my teammates worked using Machine Learning to predict the chances of a person to suffer from Heart Disease respectively. The challenge with diagnosing whether a person would suffer from heart disease using traditional methods is that they are often slow and require a lot of time and effort from the doctors. Therefore, we looked for various ways in which we would automate the process. We were able to download the dataset from __Kaggle__ and implement the machine learning models for predictions for the __heart disease__ dataset. We were able to get good results on the test set. I could see how machine learning was used for diagnosing whether a person would suffer from heart disease. It spiked an interest where I tried to look for ways in which I could apply machine learning. I came across Kaggle - a website that allows people to download datasets for machine learning and artificial intelligence purposes. I applied my knowledge of machine learning and data science in different domains such as healthcare, academia, and retail industries😀😀.
+My interest in __machine learning__ and __artificial intelligence__ started when I was in my final year pursuing a __Bachelor of Technology__. I remember that we had to pick a final-year project. During that time, I understood that machine learning and artificial intelligence were talked about most on the internet, and their potential to revolutionize people's lives. I suggested to my teammates that using machine learning for __healthcare__ is a really good practice. I and my teammates worked using Machine Learning to predict the chances of a person suffering from Heart Disease respectively. The challenge with diagnosing whether a person would suffer from heart disease using traditional methods is that they are often slow and require a lot of time and effort from the doctors. Therefore, we looked for various ways in which we would automate the process. We were able to download the dataset from __Kaggle__ and implement the machine learning models for predictions for the __heart disease__ dataset. We were able to get good results on the test set. I could see how machine learning was used for diagnosing whether a person would suffer from heart disease. It spiked my interest and I tried to look for ways in which I could apply machine learning. I came across Kaggle - a website that allows people to download datasets for machine learning and artificial intelligence purposes. I applied my knowledge of machine learning and data science in different domains such as healthcare, academia, and retail industries😀😀.
 
 It is with my interest and passion for the field that I started to apply my knowledge of __Machine Learning__ in different projects. I've gone through courses that are in demand in the field of Machine Learning such as __"Machine Learning"__ and __"Deep Learning Specialization"__ both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects presented involve performing data analysis and data visualization which are important to get insights.
 
@@ -364,7 +363,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
 
 * In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
-* Taking into account different features for machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
+* Taking into account different features of machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
 * __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
 * The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
 
@@ -383,7 +382,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 * There are features that are important to predict heart disease in a patient such as __Blood Pressure (BP)__, __BMI__ and other factors.
 * Since doctors cannot take into account all the factors and suggest whether a person may or may not have heart disease, it is time to use machine learning and deep learning algorithms to the rescue.
-* In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person to suffer from heart disease.
+* In this machine learning project, various features such as __BMI__, __Cholesterol__, and other factors are considered for predicting the chances of a person suffering from heart disease.
 * Various machine learning models were used for the predictions and their __precision__, __recall__, and __accuracy__ were plotted respectively.
 
 <hr style="border:0.01px solid blue">
@@ -391,7 +390,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
 * Features such as __neighborhood__, __longitute__ and __latitude__ could be used to determine the prices of __Airbnb__ houses for hosts.
-* __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for the housing prices.
+* __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for housing prices.
 * Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others.
 * __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others.
 
@@ -399,11 +398,11 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)
 
-* Worked on predicting the __churn rate__ of customers based on factors such as age, location and the type of service that was chosen by the customers. 
+* Worked on predicting the __churn rate__ of customers based on factors such as age, location, and the type of service that was chosen by the customers. 
 * __Exploratory Data Analysis (EDA)__ was performed to understand a list of all the features present in the dataset and understand the relationship between them. 
 * A large number of metrics were considered such as __accuracy__, __logistic loss__, __precision__, __recall__, __F1 score__ and many others. 
 * Vast proportion of machine learning models were used in the process of prediction of churn rate of customers such as __Logistic Regression__, __Decision Tree Classifier__, __Gaussian Naive Bayes__, __Random Forest Classifier__ and __XGBoost Regressor__.
-* Finally, the best model was selected and was __hyperparameter tuned__ to get the best results on the data that the models have not seen before.  
+* Finally, the best model was selected and was __hyperparameter tuned__ to get the best results on the data that the models have not seen before. 
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
 
