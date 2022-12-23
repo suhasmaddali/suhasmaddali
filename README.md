@@ -693,6 +693,8 @@ There are numerous machine learning and data science courses that I went through
 
 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) - Deep learning has been gaining traction in the recent decade. I could see that most of the projects on Kaggle are done with Tensorflow and Pytorch. The course is taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/) from Udemy. Most of the course is focused on the implementation of deep learning using Keras and Tensorflow. I got a good understanding of implementing various deep-learning projects using Keras and Tensorflow.
 
+🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf) - This course teaches the fundamentals of Docker and explains them in detail. In addition, the instructor does a good job in explaining how Docker along with Flask and Apache could be used for deploying our machine learning models and making them highly scalable.
+
 ## 🗃📂 My Assignments and Coursework
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/laura-rivera-ArH3dtoDQc0-unsplash.jpg" width = "750" />
