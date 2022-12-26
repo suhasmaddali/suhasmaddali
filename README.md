@@ -66,9 +66,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)| 🗞 [Fake News Prediction](https://github.com/suhasmaddali/Fake-News-Prediction)|
 | :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)| https://github.com/suhasmaddali/Fake-News-Prediction|
-
-
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Fake%20News%20Image%20Latest.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Fake-News-Prediction)|
 
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
