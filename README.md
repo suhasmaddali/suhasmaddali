@@ -68,6 +68,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
 
+https://github.com/suhasmaddali/Fake-News-Prediction
+
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
