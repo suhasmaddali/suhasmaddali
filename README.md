@@ -163,6 +163,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf)
 
+
+https://www.coursera.org/account/accomplishments/certificate/D9Q6BCYN3XS6
+
 ## 🖥 My Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
