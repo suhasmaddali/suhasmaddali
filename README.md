@@ -88,13 +88,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 
-
-
 <h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
 | 📽 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
 | :-: |
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | 
+| [<img src = "hhttps://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
 
 <h2 align = "center"> 🖥 My SQL Projects</h2> 
 
