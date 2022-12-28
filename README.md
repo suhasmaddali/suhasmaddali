@@ -92,7 +92,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 📽 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
 | :-: |
-| [<img src = "hhttps://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
 
 <h2 align = "center"> 🖥 My SQL Projects</h2> 
 
