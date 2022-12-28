@@ -92,7 +92,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 <h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
-| 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 
+| 📽 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
 | :-: |
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | 
 
