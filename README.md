@@ -40,7 +40,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
-<h1 align = "center"> 🖥 My Machine Learning Projects </h1> 
+<h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
 | :-:| :-:| 
