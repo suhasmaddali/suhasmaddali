@@ -176,6 +176,12 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 This is sample dropdown.
 </details>
 
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
+
 ## 🖥 My Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
