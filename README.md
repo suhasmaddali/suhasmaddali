@@ -176,7 +176,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 This is sample dropdown.
 </details>
 
-<details><summary>Does work</summary>
+<details><summary>🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)</summary>
 
 [hi](https://hello.ca)
 
