@@ -334,6 +334,8 @@ I came across Kaggle - a website that allows people to download datasets for mac
 
 It is with my interest and passion for the field that I started to apply my knowledge of __Machine Learning__ in different projects. I've gone through courses that are in demand in the field of Machine Learning such as __"Machine Learning"__ and __"Deep Learning Specialization"__ both by Andrew Ng. Below are the links to some of my projects on Data Science. Some of the projects presented involve performing data analysis and data visualization which are important to get insights.
 
+My interest in machine learning and artificial intelligence began when I was in my final year of a Bachelor of Technology program. I suggested to my teammates that we work on a machine learning project in healthcare, specifically using it to predict the chances of a person suffering from heart disease. We were able to download a dataset from Kaggle and implement machine learning models to make predictions. The results on the test set were promising, and this sparked my interest in finding more ways to apply machine learning. I have since taken courses in machine learning, including Andrew Ng's "Machine Learning" and "Deep Learning Specialization," and have worked on various data science projects in healthcare, academia, and the retail industry. Some of these projects involved data analysis and visualization to gain insights.
+
 ## 📄📉Blogs on Medium:
 
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
