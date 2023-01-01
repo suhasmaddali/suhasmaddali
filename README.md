@@ -171,7 +171,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; 🌱 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/D9Q6BCYN3XS6)
 
 <details>
-<summary>&emsp;&emsp; 🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)</summary>
+<summary> 🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)</summary>
 <br>
 This is sample dropdown.
 </details>
