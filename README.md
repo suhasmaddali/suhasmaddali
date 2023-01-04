@@ -8,9 +8,11 @@ I'm passionate about __Machine Learning__ and __Data Science__. With the develop
 
 ![](https://github.com/suhasmaddali/Images/blob/main/Suhas%20maddali%20portfolio%20(2).gif)
 
-![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
+
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
+
+![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
 
 I'm an __MS in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__. I have 4 years of experience building and deploying __machine learning__ and __deep learning__ models. Furthermore, I completed courses such as __Machine Learning Certification__ by __Stanford University__ and __Deep Learning Specialization__ by __Andrew Ng__. 
 
