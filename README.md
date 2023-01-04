@@ -449,6 +449,8 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
 * Once the predictions are performed, the answers to the previous questions are merged saving a lot of time, memory, and resources by the company.
 
+<hr style="border:0.01px solid blue">
+
 🗞 [__Fake News Prediction__](https://github.com/suhasmaddali/Fake-News-Prediction)
 
 * There has been a lot of __fake news__ that is spread to a large number of people on a regular basis, leading to misinformation.
