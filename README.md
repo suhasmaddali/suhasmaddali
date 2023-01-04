@@ -451,6 +451,11 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 🗞 [__Fake News Prediction__](https://github.com/suhasmaddali/Fake-News-Prediction)
 
+* There has been a lot of fake news that is spread to a large number of people on a regular basis.
+* With the aid of machine learning and data science, it is possible to extract insights from news.
+* Classification ML models are used to determine if the given news is fake or not based on a set of factors. 
+* Metrics such as accuracy, precision, recall and f1-score are used to analyze different set of algorithms before deploying in production.
+
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/computer%20vision.gif" width = "750" />
