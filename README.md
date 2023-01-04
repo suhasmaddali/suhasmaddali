@@ -550,7 +550,7 @@ It is also important to understand how data is stored before performing __machin
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
-__Web scraping__ is interesting in that information that could be potentially used for data science and machine learning could be implemented. There are various ways to extract information from websites. Sometimes the websites under consideration could be stored either in __'HTML'__, __'XML'__ or __'JSON'__ formats. Therefore, proper scraping mechanisms must be followed to generate the data from the web which could be later used for deep learning as well. Below are some web scraping projects which also involve querying information from the web and so on. Feel free to take a look.
+__Web scraping__ is the process of extracting data from websites. This data can be used for various purposes, such as data science and machine learning. There are different methods for extracting data from websites, which may be stored in __HTML__, __XML__, or __JSON__ formats. To successfully scrape data from the web, it is important to use the appropriate techniques. Some web scraping projects also involve querying information from the web.
 
 🍿 [__IMDB Movies Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)    
 
