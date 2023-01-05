@@ -523,6 +523,11 @@ __Unsupervised machine learning__ is a type of machine learning in which the mod
 
 📚 [__Article Recommender System__](https://github.com/suhasmaddali/Article-Recommender-System)
 
+* Built an __article recommender system__ that is able to generate recommendations of articles based on the similarity of previous articles.
+* Used methods such as __k-means clustering__ for understanding the right amount of clusters based on elbow method.
+* Worked with dimensionality reduction techniques such as __PCA__ and __t-SNE__.
+* Performed exploratory data analysis on the text information to understand the occurrence of words based on similarity.  
+
 ## 📊🗺 My Data Visualization Projects 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/data%20visualization.gif" width = "750" />
