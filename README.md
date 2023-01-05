@@ -515,7 +515,7 @@ One of the interesting things about computer vision is that there is a lot of sc
 * The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
 
-<h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
+<h2> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
 __Unsupervised machine learning__ is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only __unlabeled data__ and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include __clustering__, __dimensionality reduction__, and __anomaly detection__.
 
