@@ -517,11 +517,9 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 <h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
-Unsupervised machine learning is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only unlabeled data and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include clustering, dimensionality reduction, and anomaly detection.
+__Unsupervised machine learning__ is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only __unlabeled data__ and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include __clustering__, __dimensionality reduction__, and __anomaly detection__.
 
 📚 [__Article Recommender System__](https://github.com/suhasmaddali/Article-Recommender-System)
-
-
 
 ## 📊🗺 My Data Visualization Projects 
 
