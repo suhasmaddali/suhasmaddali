@@ -515,7 +515,7 @@ One of the interesting things about computer vision is that there is a lot of sc
 * The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
 
-<h2> 🖥 My Unsupervised Machine Learning Projects</h2> 
+<h2> 🌌📉 My Unsupervised Machine Learning Projects</h2> 
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/Unsupervised%20machine%20learning%20github%20readme%20image.jpg" width = "750" />
 
