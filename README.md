@@ -890,6 +890,8 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__How to Avoid Mistakes in Data Science__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b) - Data Science and Machine Learning are used in a large number of industries. Practitioners of machine learning and data science sometimes can make mistakes along the way when they are building interesting artificial intelligence applications. In this article, I explain a list of mistakes that can occur and some practical tips to avoid them.
 
+📃 [__Various Types of Deployment In Machine Learning__](https://medium.com/p/b503017e6bae#2bd2-4a3d40ce9f17) - This article mainly focuses on building highly scalable machine learning models using various deployment strategies. We also take a look at some of the key considerations that are important for deployment in various conditions. For example, deploying an ML model in the cloud could be quite different as compared to deploying the models with mobiles or edge devices. Therefore, tools and techniques of deployment should be changed depending on where they should be deployed. 
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
