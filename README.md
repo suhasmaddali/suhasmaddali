@@ -274,7 +274,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📃 [__How to Avoid Mistakes in Data Science__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b)
 
-https://medium.com/p/b503017e6bae#2bd2-4a3d40ce9f17
+&emsp;&emsp; 📃 [__Various Types of Deployment In Machine Learning__](https://medium.com/p/b503017e6bae#2bd2-4a3d40ce9f17)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
