@@ -854,12 +854,16 @@ My interest in machine learning started during my final year of engineering at _
  * Their definitions and various ways in which those could be avoided are also talked about in the article. 
  * There are different types of machine learning such as supervised machine learning, unsupervised machine learning, and semi-supervised machine learning respectively. 
  * Their definitions and usefulness are mentioned. 
+ 
+<hr style="border:0.01px solid blue">
 
 📃 [__What are the best applications of Machine Learning?__](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
 * There has been a significant increase in the number of machine learning applications in the recent decade. 
 * In the medium article, I highlight some of the potential applications of machine learning. 
 * Machine learning is being used in diverse fields such as social media, image detection, and traffic prediction. 
 * All these topics are mentioned in the article. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Why is it just as important for Machine Learning Models to be Fair as well as Accurate?__](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123) 
 * There are machine learning and deep learning models that might have good accuracy but might be biased. 
@@ -869,11 +873,15 @@ My interest in machine learning started during my final year of engineering at _
 * Therefore, steps must be taken to ensure that models take data that is unbiased. 
 * I've highlighted various ways in which machine learning models might be biased. Feel free to click on the link to get started.
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming__](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b) 
 * GPUs are quite often used to run graphics-intensive games and used by gamers. 
 * However, it is important to note that they could also be used to perform deep learning computations. 
 * In the article, I've mentioned some of the differences between a CPU and a GPU. 
 * In addition, I've described how the computations would increase with the help of GPUs as compared to that CPUs. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__How important is data in Machine Learning?__](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435) 
 * Data is present all around us. Companies generate a ton of data in different ways which could be used for machine learning and deep learning purposes respectively.
@@ -881,12 +889,16 @@ My interest in machine learning started during my final year of engineering at _
 * Moreover, there could be data in different forms that could be used for machine learning. 
 * Data could be either in categorical forms or numerical format. 
 * Various steps must be taken for various data points in order to get the outputs. 
-* Various types of data are described. 
+* Various types of data are described.
+
+<hr style="border:0.01px solid blue">
 
 📃 [__What are Convolutional Neural Networks (CNN)?__](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665) 
 * Computer Vision is applying deep learning models in order to classify objects in images and videos. 
 * It is important to understand Convolutional Neural Networks (CNNs) so that we could use them for our machine learning tasks. 
 * In this article, Convolutional Neural Networks are described.
+
+<hr style="border:0.01px solid blue">
 
 📃 [__How Machine Learning could be used in the Cloud?__](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5) 
 * There are a lot of cloud-based services that are present. 
@@ -894,21 +906,29 @@ My interest in machine learning started during my final year of engineering at _
 * In the medium article, I’ve highlighted how the cloud could be used for machine learning. 
 * Since the field of data science requires a good amount of computational resources, it would be wise to use cloud-based platforms to perform training and test machine learning and deep learning models. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__In Machine Learning, Correlation might not always be equal to Causation__](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) 
 * When taking into account visualizations from different features in our data, we could sometimes assume that correlated features are dependent on each other and occurrence of one feature might lead to the occurrence of the other.
 * However, this might not always be true when performing the visualizations. 
-* In the blog, I’ve written examples and illustrations where correlation might not always be equal to causation and explained the details. 
+* In the blog, I’ve written examples and illustrations where correlation might not always be equal to causation and explained the details.
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Predicting the Sentiment of a text using Machine Learning__](https://medium.com/mlearning-ai/predicting-the-sentiment-of-a-text-with-machine-learning-3130c2685a97) 
 * There is an abundance of text around us. Since the text is in the string format when talking in terms of computer context, it is important that steps are taken to convert it into a form that could be used for machine learning purposes. 
 * We use various natural language processing techniques for the process of converting the raw text into a form that is easily feasible for machine learning algorithms. 
-* In the medium article, I’ve mentioned some of the latest natural language processing techniques. Feel free to have a look! 
+* In the medium article, I’ve mentioned some of the latest natural language processing techniques. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Why is GPT-3 revolutionizing the Natural Language Processing Industry (NLP)?__](https://medium.com/mlearning-ai/why-is-gpt-3-revolutionizing-the-natural-language-processing-industry-nlp-9aecbac149ad) 
 * Text is available in many forms such as in books, articles, magazines, and publications. 
 * It would be really wise to make use of the text that is present in industries. 
 * We've seen how Facebook has released the GPT algorithm that would take the text and understand the context, making its predictions in the future. 
-* In the medium article, I've mentioned the use of GPT by giving numerous examples of its working respectively. 
+* In the medium article, I've mentioned the use of GPT by giving numerous examples of its working respectively.
+
+<hr style="border:0.01px solid blue">
 
 📃 [__How to understand Machine Learning?__](https://medium.com/nerd-for-tech/how-to-understand-machine-learning-237492943525) 
 * In this article, I discuss various courses that teach machine learning such as courses by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) and [Jose Portilla](https://www.udemy.com/user/joseportilla/). 
@@ -916,19 +936,27 @@ My interest in machine learning started during my final year of engineering at _
 * It is important to learn the right courses before diving into machine learning projects. 
 * Having a good theoretical knowledge of machine learning models and optimization techniques ensures that one gets a firm understanding of the practical implementation of models. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Best projects to Showcase in Machine Learning Portfolio__](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc) 
 * This article discusses the various types of projects that could be done by people who want to enter the field of data science and machine learning. 
 * In addition, it also explains the various projects in a clear fashion so that people who are new to machine learning could establish their grip in the process of implementing the models respectively. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Introduction to Natural Language Processing for Machine Learning__](https://medium.com/mlearning-ai/introduction-to-natural-language-processing-for-machine-learning-ec748131d213) 
 * There is an abundance of text present in magazines, newspapers, articles, and blogs. 
 * In order to use the natural text, conversion mechanisms must be followed which would ensure that we get the best results when performing machine learning analysis.
 * In the article, I've mentioned various natural language processing steps and ways to process raw text and convert it to a form that could be used for machine learning purposes.
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Various ways at which Machine Learning could be used in Medical Diagnosis__](https://suhas-maddali007.medium.com/various-ways-at-which-machine-learning-could-be-used-in-medical-diagnosis-338c65393509) 
 * Machine learning and data science could be used in different domains. 
 * It is important to note that machine learning could be used in medical diagnosis where patients could be treated by taking a look at various features that are important for machine learning predictions. 
 * In the medium article, I've highlighted how machine learning and data science could be used in the medical industry along with their potential challenges. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__What are the activation functions in Machine Learning?__](https://medium.com/mlearning-ai/what-are-the-activation-functions-in-machine-learning-37bae6888858)
 * We see that there are a lot of applications in machine learning. 
@@ -937,6 +965,8 @@ My interest in machine learning started during my final year of engineering at _
 * These are mostly used in Neural Networks and also machine learning. 
 * In the medium article, I've highlighted various activation functions along with their equations. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of Words__](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5) 
 * Sentences and paragraphs are present in all of our textbooks and notebooks. 
 * It would be handy if their difficulty is understood so that the most appropriate text could be given to children depending on this feature. 
@@ -944,15 +974,21 @@ My interest in machine learning started during my final year of engineering at _
 * Therefore, we would be using machine learning and data science for predicting the difficulty of texts. 
 * In the article, I've highlighted how we could be using NLP and machine learning for text classification based on the difficulty. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Detect the Defects in Steel with Convolutional Neural Networks (CNNs) and Transfer Learning__](https://towardsdatascience.com/detect-the-defects-in-steel-with-convoluted-neural-networks-cnns-and-transfer-learning-f761ca6c0d1f) 
 * Steel is available almost everywhere from buildings, roads, and appliances. 
 * During the manufacture of steel, there are defects that go unnoticed. 
 * As a consequence, this leads to lower-quality steel that is less durable and also affected by environmental conditions. 
 * With machine learning and convolutional neural networks (CNNs), it is possible to detect the defects in steel which results in saving a lot of time and money.
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Why is it Important to Constantly Monitor Machine Learning and Deep Learning Models after Production?__](https://medium.com/towards-data-science/why-is-it-important-to-constantly-monitor-machine-learning-and-deep-learning-models-after-4136f6067547) 
 * While it can be impressive to get the results from ML models for various set of business use cases, failing to put the models in production is almost equivalent to not using ML at all. 
 * In this blog, I highlight the importance of monitoring the performance of machine learning models after production and ensuring that the results are not quite different from the models that are initially trained. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__How to Address Data Bias in Machine Learning?__](https://medium.com/towards-data-science/how-to-address-data-bias-in-machine-learning-c6a45db53b8d) 
 * Most of the ethical questions that are raised when using machine learning and data science can be answered with the help of understanding the datasets that were initially used to train the models. 
@@ -960,25 +996,35 @@ My interest in machine learning started during my final year of engineering at _
 * This blog highlights the ways in which datasets can be manipulated or modified so as to reduce the inherent bias present in them. 
 * Therefore, we are assured of getting ML models that are representative of the whole population. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Understand the Workings of Black-Box models with LIME__](https://medium.com/towards-data-science/understand-the-workings-of-black-box-models-with-lime-92203f906431) 
 * Sometimes the machine learning models are able to give very strong predictions that are comparable to the human level performance. 
 * However, there can be instances where people who are involved might want to know the reason why the models gave a particular set of predictions. 
 * One of the concerns with machine learning models is that they are not explainable or interpretable though they have impressive performance on the test set or the data that the models have not seen before. 
 * With the help of LIME, we can interpret the results of any ML model from simple to the most complex state-of-the-art models. This blog explains the coding implementation of LIME used for explainable AI.
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Understanding the Why of Data Science and Machine Learning Is More Useful than Knowing the How__](https://medium.com/towards-artificial-intelligence/understanding-the-why-of-data-science-and-machine-learning-is-more-useful-than-knowing-the-how-afe3352bbe5e) 
 * Knowing the purpose of machine learning is useful before we can use these tools for our business or our company. Before we start applying machine learning to a large number of applications, it can be useful to know why it is used in the first place. 
 * Understanding this can help transition from a good data scientist to a great data scientist. 
 * This article mainly discusses the importance of this question and gives various examples for the readers. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__List of Important Libraries for Machine Learning and Data Science in Python__](https://medium.com/towards-artificial-intelligence/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e) 
 * There are a huge number of libraries present for machine learning. Understanding the most useful from them is handy and makes our work more productive. 
 * In this article, I highlight a list of all the libraries that are often used in Python specifically for machine learning and data science respectively. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Differences between Bias and Variance in Machine Learning__](https://medium.com/towards-data-science/differences-between-bias-and-variance-in-machine-learning-7f79110626da) 
 * In this article, the differences between bias and variance are discussed in great detail along with the steps that could be taken to reduce them. 
 * These are the most common issues faced when trying to build machine learning and deep learning models. 
 * Therefore, this article explains these concepts in great detail so that practitioners can take the right steps to reduce them to a large extent. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Common Reasons why Machine Learning Projects Fail__](https://medium.com/towards-data-science/common-reasons-why-machine-learning-projects-fail-62fe811024d6)
 * In order to build and deploy machine learning models, there are certain challenges that must be addressed so that we are hassle-free when trying to build them.
@@ -987,19 +1033,27 @@ My interest in machine learning started during my final year of engineering at _
 * Though it is impressive to get the models to get the best predictions, not taking care of a few details can have an impact in the long run. 
 * Furthermore, this article also lists various steps that can be taken to reduce the occurrence of failure. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__10 Tips to become a Data Scientist or Machine Learning Engineer__](https://medium.com/towards-data-science/10-tips-to-become-a-data-scientist-or-machine-learning-engineer-8c0700976f9e) 
 * In this blog, I have discussed some of the important ways in which we can become data scientists or machine learning engineers. 
 * There are some tips that must be followed that can increase the chances of becoming a data scientist to a large extent. 
 * While learning to code can be an important skill, the ability to communicate well with team members and other people can make a significant impact on becoming a data scientist respectively. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Do Not Curse Your Machine Learning Models When They are Not Performing Well in Real Time - Instead Do This__](https://medium.com/towards-artificial-intelligence/do-not-curse-your-machine-learning-models-when-they-are-not-performing-well-in-real-time-instead-75f210e5a1a8) 
 * Oftentimes there is a possibility that the machine learning models that were performing well on the training data do not perform well on the data that they have not seen before in real-time. 
 * This is the case where there are other effects taking place such as data drift and concept drift respectively. 
 * This article highlights key pieces of information about how to deal with such scenarios in great detail respectively. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer__](https://medium.com/towards-data-science/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1) 
 * There is a list of steps that are usually followed by data scientists and machine learning engineers to build interesting artificial intelligence applications. 
 * In the article highlighted, a sequence of steps that are usually followed in the data science cycle is mentioned to make it easier to implement machine learning solutions. 
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) 
 * Feature engineering can be one of the most important steps in a machine learning cycle. 
@@ -1007,10 +1061,14 @@ My interest in machine learning started during my final year of engineering at _
 * In the article, a list of a large number of feature engineering techniques is presented to the community so that they could be used later when needed. 
 * Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__How to Avoid Mistakes in Data Science__](https://medium.com/towards-data-science/how-to-avoid-mistakes-in-data-science-20d6f9c4274b) 
 * Data Science and Machine Learning are used in a large number of industries. 
 * Practitioners of machine learning and data science sometimes can make mistakes along the way when they are building interesting artificial intelligence applications. 
 * In this article, I explain a list of mistakes that can occur and some practical tips to avoid them.
+
+<hr style="border:0.01px solid blue">
 
 📃 [__Various Types of Deployment In Machine Learning__](https://medium.com/p/b503017e6bae#2bd2-4a3d40ce9f17) 
 * This article mainly focuses on building highly scalable machine learning models using various deployment strategies. 
