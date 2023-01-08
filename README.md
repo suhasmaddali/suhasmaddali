@@ -342,7 +342,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 📔📓My Inspiration😀😀:
 
-![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Photo%20New.jpg)
+![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Image%20GitHub.jpg)
 
 My interest in __machine learning__ and __artificial intelligence__ began when I was in my final year of a Bachelor of Technology program. I suggested to my teammates that we work on a machine learning project in __healthcare__, specifically using it to predict the chances of a person suffering from heart disease. We were able to download a dataset from __Kaggle__ and implement machine learning models to make predictions. 
 
