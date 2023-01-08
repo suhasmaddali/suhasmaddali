@@ -86,6 +86,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
 
+<hr style="border:0.01px solid blue">
+
 <h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
 | 📚 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
