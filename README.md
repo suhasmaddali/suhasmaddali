@@ -70,6 +70,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Fake%20News%20Image%20Latest.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Fake-News-Prediction)|
 
+<hr style="border:0.01px solid blue">
+
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
@@ -90,11 +92,15 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: |
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
 
+<hr style="border:0.01px solid blue">
+
 <h2 align = "center"> 🖥 My Data Visualization Projects </h2> 
 
 | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+
+<hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My SQL Projects</h2> 
 
@@ -116,11 +122,15 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) | 
 
+<hr style="border:0.01px solid blue">
+
 <h2 align = "center"> 🖥 My HTML5, CSS3 and Bootstrap Projects</h2>
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
+
+<hr style="border:0.01px solid blue">
 
 ## 🖥 My Work Experience 
 
