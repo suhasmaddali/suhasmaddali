@@ -855,17 +855,44 @@ My interest in machine learning started during my final year of engineering at _
  * There are different types of machine learning such as supervised machine learning, unsupervised machine learning, and semi-supervised machine learning respectively. 
  * Their definitions and usefulness are mentioned. 
 
-📃 [__What are the best applications of Machine Learning?__](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802) - There has been a significant increase in the number of machine learning applications in the recent decade. In the medium article, I highlight some of the potential applications of machine learning. Machine learning is being used in diverse fields such as social media, image detection, and traffic prediction. All these topics are mentioned in the article. 
+📃 [__What are the best applications of Machine Learning?__](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802)
+* There has been a significant increase in the number of machine learning applications in the recent decade. 
+* In the medium article, I highlight some of the potential applications of machine learning. 
+* Machine learning is being used in diverse fields such as social media, image detection, and traffic prediction. 
+* All these topics are mentioned in the article. 
 
-📃 [__Why is it just as important for Machine Learning Models to be Fair as well as Accurate?__](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123) - There are machine learning and deep learning models that might have good accuracy but might be biased. It is important to address the data that is being provided to the machine learning models for prediction. It is also useful to give data that depicts real-world use cases respectively. Sometimes the data that is given to the machine learning models might be biased. Therefore, steps must be taken to ensure that models take data that is unbiased. I've highlighted various ways in which machine learning models might be biased. Feel free to click on the link to get started.
+📃 [__Why is it just as important for Machine Learning Models to be Fair as well as Accurate?__](https://medium.com/nerd-for-tech/why-it-is-just-as-important-for-machine-learning-models-to-be-fair-as-being-accurate-3ba1f0e62123) 
+* There are machine learning and deep learning models that might have good accuracy but might be biased. 
+* It is important to address the data that is being provided to the machine learning models for prediction. 
+* It is also useful to give data that depicts real-world use cases respectively. 
+* Sometimes the data that is given to the machine learning models might be biased. 
+* Therefore, steps must be taken to ensure that models take data that is unbiased. 
+* I've highlighted various ways in which machine learning models might be biased. Feel free to click on the link to get started.
 
-📃 [__Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming__](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b) - GPUs are quite often used to run graphics-intensive games and used by gamers. However, it is important to note that they could also be used to perform deep learning computations. In the article, I've mentioned some of the differences between a CPU and a GPU. In addition, I've described how the computations would increase with the help of GPUs as compared to that CPUs. 
+📃 [__Graphical Processing Units (GPUs) can be used for deep learning apart from just gaming__](https://medium.com/nerd-for-tech/graphical-processing-units-gpus-can-be-used-for-deep-learning-apart-from-just-gaming-714dae18555b) 
+* GPUs are quite often used to run graphics-intensive games and used by gamers. 
+* However, it is important to note that they could also be used to perform deep learning computations. 
+* In the article, I've mentioned some of the differences between a CPU and a GPU. 
+* In addition, I've described how the computations would increase with the help of GPUs as compared to that CPUs. 
 
-📃 [__How important is data in Machine Learning?__](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435) - Data is present all around us. Companies generate a ton of data in different ways which could be used for machine learning and deep learning purposes respectively. In the medium article, the importance of data is shown. Moreover, there could be data in different forms that could be used for machine learning. Data could be either in categorical forms or numerical format. Various steps must be taken for various data points in order to get the outputs. Various types of data are described. 
+📃 [__How important is data in Machine Learning?__](https://medium.com/nerd-for-tech/how-important-is-data-in-machine-learning-259d51e86435) 
+* Data is present all around us. Companies generate a ton of data in different ways which could be used for machine learning and deep learning purposes respectively.
+* In the medium article, the importance of data is shown. 
+* Moreover, there could be data in different forms that could be used for machine learning. 
+* Data could be either in categorical forms or numerical format. 
+* Various steps must be taken for various data points in order to get the outputs. 
+* Various types of data are described. 
 
-📃 [__What are Convolutional Neural Networks (CNN)?__](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665) - Computer Vision is applying deep learning models in order to classify objects in images and videos. It is important to understand Convolutional Neural Networks (CNNs) so that we could use them for our machine learning tasks. In this article, Convolutional Neural Networks are described. Feel free to take a look! 
+📃 [__What are Convolutional Neural Networks (CNN)?__](https://medium.com/nerd-for-tech/what-are-convoluted-neural-networks-cnn-b207821fd665) 
+* Computer Vision is applying deep learning models in order to classify objects in images and videos. 
+* It is important to understand Convolutional Neural Networks (CNNs) so that we could use them for our machine learning tasks. 
+* In this article, Convolutional Neural Networks are described.
 
-📃 [__How Machine Learning could be used in the Cloud?__](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5) - There are a lot of cloud-based services that are present. We see companies such as Amazon and Google releasing their cloud services where the infrastructure is provided by them. In the medium article, I’ve highlighted how the cloud could be used for machine learning. Since the field of data science requires a good amount of computational resources, it would be wise to use cloud-based platforms to perform training and test machine learning and deep learning models. 
+📃 [__How Machine Learning could be used in the Cloud?__](https://medium.com/nerd-for-tech/how-machine-learning-could-be-used-in-cloud-f45a4bc156c5) 
+* There are a lot of cloud-based services that are present. 
+* We see companies such as Amazon and Google releasing their cloud services where the infrastructure is provided by them. 
+* In the medium article, I’ve highlighted how the cloud could be used for machine learning. 
+* Since the field of data science requires a good amount of computational resources, it would be wise to use cloud-based platforms to perform training and test machine learning and deep learning models. 
 
 📃 [__In Machine Learning, Correlation might not always be equal to Causation__](https://medium.com/nerd-for-tech/in-machine-learning-correlation-might-not-always-be-equal-to-causation-ed81f2e4c3d3) - When taking into account visualizations from different features in our data, we could sometimes assume that correlated features are dependent on each other and occurrence of one feature might lead to the occurrence of the other. However, this might not always be true when performing the visualizations. In the blog, I’ve written examples and illustrations where correlation might not always be equal to causation and explained the details. 
 
