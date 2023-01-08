@@ -848,7 +848,12 @@ There is a lot of __resources__ and __tools__ available in the world with the ad
 
 My interest in machine learning started during my final year of engineering at __Vignana Jyothi Institute of Technology__. During that time, we had to apply different machine learning and deep learning techniques for the prediction of heart disease in patients. I've also found interest in writing blogs and articles and sharing my knowledge with the community so that newbies in machine learning could read and understand them. Below is a list of blogs and articles that I've written along with a short description. 
 
-📃 [__Machine Learning__](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09) - In this article, basic definitions of machine learning and deep learning are mentioned. Overfitting and Underfitting are some of the challenges in machine learning. Their definitions and various ways in which those could be avoided are also talked about in the article. There are different types of machine learning such as supervised machine learning, unsupervised machine learning, and semi-supervised machine learning respectively. Their definitions and usefulness are mentioned. 
+📃 [__Machine Learning__](https://medium.com/nerd-for-tech/machine-learning-e4303a1ad09) 
+ * In this article, basic definitions of machine learning and deep learning are mentioned. 
+ * Overfitting and Underfitting are some of the challenges in machine learning. 
+ * Their definitions and various ways in which those could be avoided are also talked about in the article. 
+ * There are different types of machine learning such as supervised machine learning, unsupervised machine learning, and semi-supervised machine learning respectively. 
+ * Their definitions and usefulness are mentioned. 
 
 📃 [__What are the best applications of Machine Learning?__](https://medium.com/nerd-for-tech/what-are-the-potential-applications-of-machine-learning-c6713603b802) - There has been a significant increase in the number of machine learning applications in the recent decade. In the medium article, I highlight some of the potential applications of machine learning. Machine learning is being used in diverse fields such as social media, image detection, and traffic prediction. All these topics are mentioned in the article. 
 
