@@ -110,6 +110,8 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-: |
 | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 
+<hr style="border:0.01px solid blue">
+
 <h2 align = "center"> 🖥 My Web Scraping Projects</h2>
 
 | 🍿 [IMDB Movies Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)|
