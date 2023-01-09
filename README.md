@@ -662,7 +662,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
+🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA Corporation__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict future demand for products based on past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
