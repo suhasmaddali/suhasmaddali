@@ -46,9 +46,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-| 🏦 [Predicting Loan Default](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🏄🧘🏻‍♀️ [Human Activity Detection](https://github.com/suhasmaddali/Human-Activity-Recognition)|
+| 🏦 [Predicting Loan Default](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bank%20Loan%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Human%20activity%20detection%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Human-Activity-Recognition)
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bank%20Loan%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
 
 | ⚕️ [Cancer Diagnosis Prediction](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
 | :-:| :-:| 
