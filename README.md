@@ -651,7 +651,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Work%20experience%20photo.jpg" width = "750" />
 
-👨‍🏫🧑‍🏫 [__TA (Supervised Machine Learning)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[September 2022 - December 2022]__
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (SML)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[September 2022 - December 2022]*
 
 * Worked with students in helping them __understand__ the assignments and __guiding__ them in the process to make the concepts of supervised machine learning understandable. 
 * Regularly __attended__ office hours to discuss with students about their progress in the assignments and also suggesting them changes to be made to get the best results. 
@@ -660,7 +660,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA Corporation__](https://www.nvidia.com/en-us/) __[May 2022 - August 2022]__
+🏢👨‍🏫 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA Corporation__](https://www.nvidia.com/en-us/) *[May 2022 - August 2022]*
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict future demand for products based on past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for __supply chain optimization__. 
@@ -669,7 +669,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-👨‍🏫🧑‍🏫 [__TA (Natural Language Processing)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2021 - May 2022]__
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (NLP)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[December 2021 - May 2022]*
 
 - I'm a graduate teaching assistant at Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/).
 - I'm involved in designing the assignments for students, teaching them concepts, and improving their performance on the tests.
@@ -679,7 +679,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2022 - April 2022]__
+🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[December 2022 - April 2022]*
 
 - I worked as a __research assistant__ for __Neural Network (NN) Verification__ and specification. The research is under [Tan Cheng](https://naizhengtan.github.io/). 
 - We worked on verifying the execution of neural networks on untrusted servers, black-box databases, and systems.
@@ -689,7 +689,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
+🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) *[January 2018 - December 2018]*
 
 - I have a year of experience working as a machine learning intern in Solbots Technologies Private Limited.
 - I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms.
