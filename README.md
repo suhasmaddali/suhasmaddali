@@ -146,15 +146,15 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 ## 🖥 My Education 
 
-&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu) - __*Masters in Data Science*__
+&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
 
-&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) - __*Masters in Software Engineering*__
+&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) - *Masters in Software Engineering*
 
-&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - __*B.Tech in Electronics and Communication Engineering*__
+&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *B.Tech in Electronics and Communication Engineering*
 
-&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - __*High School*__
+&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - *High School*
 
-&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) - __*Junior High School*__
+&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) - *Junior High School*
 
 ## 🖥 My List of Certifications
 
