@@ -150,7 +150,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) - *Masters in Software Engineering*
 
-&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *Bachelor of Technology (B.Tech) in Electronics and Communication Engineering*
+&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *B.Tech in Electronics and Communication Engineering*
 
 &emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - *High School*
 
