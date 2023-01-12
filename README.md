@@ -148,7 +148,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
 
-&emsp;&emsp; * Masters in Data Science *
+&emsp;&emsp; *Masters in Data Science*
 
 &emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) 
 
