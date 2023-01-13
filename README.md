@@ -389,24 +389,6 @@ In this section, different sets of __machine learning__ projects are highlighted
 
 <hr style="border:0.01px solid blue">
 
-🏄🧘🏻‍ [__Human Activity Detection__](https://github.com/suhasmaddali/Human-Activity-Recognition) 
-
-* In some devices such as __smartwatches__ and __phones__, there is a possibility to detect activity based on our hand movements and other important parameters.
-* Taking into account different features of machine learning, we are going to be predicting the activity of human beings such as __standing__, __walking__, or __playing__ based on hand movements.
-* __Exploratory Data Analysis (EDA)__ was performed to understand various important features in the data.
-* The notebooks have been split where one is for EDA while the other is for Machine Learning and Deep Learning Predictions respectively.
-
-<hr style="border:0.01px solid blue">
-
-👨‍⚕️ [__Cancer Diagnosis Prediction__](https://github.com/suhasmaddali/Cancer-Diagnosis-Prediction)   
-
-* Cancer is a __life-threatening__ disease, and it is really important to take the right steps in order to prevent this disease.
-* Machine Learning and Data Science could be used to uncover key insights in data about Cancer and they could aid __Doctors__ in predicting the chances of cancer.
-* In this project, the chances of occurrence of cancer belonging to 9 classes are predicted using Machine Learning.
-* Since there are more than 2 classes, it is a __multi-class classification__ problem.
-
-<hr style="border:0.01px solid blue">
-
 🫀 [__Heart Disease Prediction Using Machine Learning and Deep Learning__](https://github.com/suhasmaddali/Heart-Disease-Prediction)    
 
 * There are features that are important to predict heart disease in a patient such as __Blood Pressure (BP)__, __BMI__ and other factors.
@@ -454,16 +436,6 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of the direction of certain topics.
 * It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
 * In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
-
-<hr style="border:0.01px solid blue">
-
-⁉️ [__Quora Question Pair Similarity__](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)     
-
-* In __Quora__, there are numerous questions being asked every day during different instances of time.
-* It is important for the company to determine whether the newly asked questions are __similar__ to the ones that were asked before.
-* This would save a lot of __memory__ and __resources__ on the part of Quora.
-* With the aid of Machine Learning, it is possible to predict whether the newly asked questions are similar to the older ones.
-* Once the predictions are performed, the answers to the previous questions are merged saving a lot of time, memory, and resources by the company.
 
 <hr style="border:0.01px solid blue">
 
