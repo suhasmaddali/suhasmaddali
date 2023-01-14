@@ -410,7 +410,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)
 
 * Worked on predicting the __churn rate__ of customers based on factors such as age, location, and the type of service that was chosen by the customers. 
-* __Exploratory Data Analysis (EDA)__ was performed to understand a list of all the features present in the dataset and understand the relationship between them. 
+* __Exploratory Data Analysis (EDA)__ was conducted to gain a comprehensive understanding of all the features and relationships in the dataset. Visualizations were used to effectively communicate insights.
 * A large number of metrics were considered such as __accuracy__, __logistic loss__, __precision__, __recall__, __F1 score__ and many others. 
 * Vast proportion of machine learning models were used in the process of prediction of churn rate of customers such as __Logistic Regression__, __Decision Tree Classifier__, __Gaussian Naive Bayes__, __Random Forest Classifier__ and __XGBoost Regressor__.
 * Finally, the best model was selected and was __hyperparameter tuned__ to get the best results on the data that the models have not seen before. 
