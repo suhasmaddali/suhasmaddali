@@ -36,7 +36,7 @@ Take a glimpse into my __professional capabilities__ by checking out my GitHub o
 
 ## 💼🎒 My Portfolio Overview:
 
-Unlock my expertise in __machine learning__ and __deep learning__ by exploring my completed projects. Links are below. I invite you to read the detailed descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in __image recognition__, __natural language processing__ and more. Take a look at the summary below to see the impact of my work.
+Unlock my expertise in __machine learning__ and __deep learning__ by exploring my completed projects. Links are below. I invite you to read the detailed descriptions at the bottom of this website. My portfolio shows diversity and depth of knowledge in __image recognition__, __natural language processing__ and more. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
