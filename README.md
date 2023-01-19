@@ -28,7 +28,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
 
-Take a glimpse into my __professional capabilities__ by checking out my GitHub overview. It provides a clear picture of the programming languages I am proficient in and the level of commitment I bring to my projects. By __perusing__ this summary, you can quickly gain insight into the breadth and depth of my portfolio. 
+Take a glimpse into my __professional capabilities__ by checking out my GitHub overview. It provides a clear picture of the programming languages I am proficient in and the level of commitment I bring to my projects. By looking at this summary, you can quickly gain insight into the breadth and depth of my portfolio. 
 
 ```diff
 + The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites. 🙂
