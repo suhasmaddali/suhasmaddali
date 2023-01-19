@@ -661,7 +661,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) *[January 2018 - December 2018]*
+🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies__](https://www.solbots.in/) *[January 2018 - December 2018]*
 
 - I have a year of experience working as a machine learning intern in Solbots Technologies Private Limited.
 - I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms.
