@@ -322,7 +322,7 @@ Unlock my expertise in __machine learning__ and __deep learning__ by exploring m
 
 &emsp;&emsp; ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [__PathAI__](https://www.pathai.com)
 
-&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies__](https://www.solbots.in/)
 
 ## 🖥 My Contact Information
 
