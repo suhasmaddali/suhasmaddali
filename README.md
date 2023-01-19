@@ -822,7 +822,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) 
 
-* During my tenure at [Solbots Technologies Private Limited](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
+* During my tenure at [Solbots Technologies](https://www.solbots.in/), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
 * Therefore, I was involved in the process of organizing and planning various activities. 
 * As a result, there was very good productivity in the company by managing time and effectively using it for best practices. 
 
@@ -1157,7 +1157,7 @@ During my work and my LinkedIn contributions, I came across a wonderful set of p
 
 ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - He is currently working in [__PathAI__](https://www.pathai.com/) as Senior Machine Learning Scientist And Technical Lead and he saw my work through LinkedIn contributions and sharing of blogs in the field of machine learning and artificial intelligence. Furthermore, he also recognized my work through Kaggle and GitHub where I demonstrated my projects and experience in using machine learning and deep learning algorithms respectively. Overall, I had a good time interacting with him and learned a lot during the process. To add more information about Abhik, he also worked in [__Quora__](https://en.wikipedia.org/wiki/Quora) as a Machine Learning Engineer and pursued a Master's in Computer Science at [__Stanford__](https://www.stanford.edu/) University. 
 
-✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
+✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [__Solbots Technologies__](https://www.solbots.in/). During my tenure at Solbots Technologies Private Limited, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
 
 ## 🕹🎮 Additional Information👨‍💻👨‍💻: 
 
