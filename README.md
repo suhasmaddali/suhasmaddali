@@ -623,7 +623,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Work%20experience%20photo.jpg" width = "750" />
 
-👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (SML)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[September 2022 - December 2022]*
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[September 2022 - December 2022]*
 
 * Worked with students in helping them __understand__ the assignments and __guiding__ them in the process to make the concepts of supervised machine learning understandable. 
 * Regularly __attended__ office hours to discuss with students about their progress in the assignments and also suggesting them changes to be made to get the best results. 
@@ -641,7 +641,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (NLP)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[December 2021 - May 2022]*
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - NLP__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[December 2021 - May 2022]*
 
 - I'm a graduate teaching assistant at Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/).
 - I'm involved in designing the assignments for students, teaching them concepts, and improving their performance on the tests.
