@@ -134,11 +134,11 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (SML)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*September 2022 - December 2022*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*September 2022 - December 2022*]
 
 &emsp;&emsp; 🏢👨‍💻 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA Corporation__](https://www.nvidia.com/en-in/) [*May 2022 - August 2022*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant (NLP)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*December 2022 - May 2022*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - NLP__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*December 2022 - May 2022*]
 
 &emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*December 2022 - April 2022*]
  
