@@ -737,7 +737,7 @@ There are numerous machine learning and data science courses that I went through
 
 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW) - The course introduces various components in the TensorFlow Extended (TFX) library that is used by end-to-end deployment. Components such as StatisticsGen, SchemaGen, ExampleValidator, and ExamplesGen are used which form the initial pipeline components of TensorFlow Extended. A lot of exercises were given to get a firmer understanding of these components in great detail in many scenarios.
 
-🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/FBH64PKF87HC)
+🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/FBH64PKF87HC) - This course teaches the best practices to follow when building data pipelines for machine learning. Depending on the size and complexity of the network, various set of practices must be followed in order for the models to work well in specific platforms.  
 
 ## 🗃📂 My Assignments and Coursework
 
