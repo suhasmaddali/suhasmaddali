@@ -330,15 +330,15 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 📱 __Phone No:__ __617-671-5751__
 
-&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
-
-&emsp;&emsp; 📹 __YouTube__: __https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q__
-
 &emsp;&emsp; 📫 __Email:__ __Suhas.maddali.edu@gmail.com__
+
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
 
 &emsp;&emsp; 📘 __Facebook:__ __https://www.facebook.com/suhas.maddali__
 
 &emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
+
+&emsp;&emsp; 📹 __YouTube__: __https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q__
 
 ## 📔📓My Inspiration😀😀:
 
