@@ -184,7 +184,7 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW)
 
-&emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW)
+&emsp;&emsp; 🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/FBH64PKF87HC)
 
 ## 🖥 My Assignments and Coursework 
 
