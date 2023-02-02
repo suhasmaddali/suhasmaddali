@@ -184,6 +184,8 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW)
 
+&emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW)
+
 ## 🖥 My Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
