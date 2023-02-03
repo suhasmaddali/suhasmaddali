@@ -292,6 +292,8 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 📃 [__Various Types of Deployment In Machine Learning__](https://medium.com/p/b503017e6bae#2bd2-4a3d40ce9f17)
 
+https://medium.com/@suhas-maddali007/exploratory-data-analysis-eda-on-airline-sentiment-tweets-717662205849
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
