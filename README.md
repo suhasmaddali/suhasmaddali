@@ -1075,7 +1075,8 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__Exploratory Data Analysis (EDA) on Airline Sentiment Tweets__](https://medium.com/@suhas-maddali007/exploratory-data-analysis-eda-on-airline-sentiment-tweets-717662205849)
 * This focuses on exploring the data from airline tweets to understand the sentiment of customers towards various flight companies. 
-* 
+* It explores the overall data and the amount of positive, negative and neutral tweets.
+* It takes a look at the different categories of flights and their percentage out of all the flight categories. 
 
 ## 🎼👨‍🎓 Key Learnings
 
