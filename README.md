@@ -1073,9 +1073,11 @@ My interest in machine learning started during my final year of engineering at _
 * For example, deploying an ML model in the cloud could be quite different as compared to deploying the models with mobiles or edge devices. 
 * Therefore, tools and techniques of deployment should be changed depending on where they should be deployed. 
 
+<hr style="border:0.01px solid blue">
+
 📃 [__Exploratory Data Analysis (EDA) on Airline Sentiment Tweets__](https://medium.com/@suhas-maddali007/exploratory-data-analysis-eda-on-airline-sentiment-tweets-717662205849)
 * This focuses on exploring the data from airline tweets to understand the sentiment of customers towards various flight companies. 
-* It explores the overall data and the amount of positive, negative and neutral tweets.
+* It explores the overall data and the amount of positive, negative, and neutral tweets.
 * It takes a look at the different categories of flights and their percentage out of all the flight categories. 
 
 ## 🎼👨‍🎓 Key Learnings
