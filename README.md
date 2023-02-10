@@ -748,7 +748,7 @@ There are numerous machine learning and data science courses that I went through
 
 &emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Modeling%20Pipelines%20in%20Production.pdf) - This course teaches the best practices to follow when building data pipelines for machine learning. Depending on the size and complexity of the network, various set of practices must be followed in order for the models to work well in specific platforms.  
 
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deploying%20Machine%20Learning%20Models%20in%20Production.pdf)
+&emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deploying%20Machine%20Learning%20Models%20in%20Production.pdf) - This course primarily deals with building and deploying machine learning models in production. Knowledge about various inference engines and serving mechanisms were explained and demonstrated well. Kubernetes and docker were used as important tools for ML deployment along with providing the right security features for different network topologies. 
 
 ## 🗃📂 My Assignments and Coursework
 
