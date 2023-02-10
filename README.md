@@ -740,11 +740,21 @@ There are numerous machine learning and data science courses that I went through
 
 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf) - This course teaches the fundamentals of Docker and explains them in detail. In addition, the instructor does a good job in explaining how Docker along with Flask and Apache could be used for deploying our machine learning models and making them highly scalable. It also talks about various errors that can occur during the production environment that is important to consider when trying to deploy machine learning models to a large number of clients and users. 
 
+&emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Engineering%20for%20Production%20(MLOps)%20Specialization.pdf)
+
 🌱 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/D9Q6BCYN3XS6) - This course gives examples of how to use various strategies for building machine learning models in production. There are often challenges that go unnoticed if care is not taken when models are put to production. As a result, there is a degradation in their performance. This course does a good job in highlighting this scenario in great detail along with steps to be taken to reduce them.
 
 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW) - The course introduces various components in the TensorFlow Extended (TFX) library that is used by end-to-end deployment. Components such as StatisticsGen, SchemaGen, ExampleValidator, and ExamplesGen are used which form the initial pipeline components of TensorFlow Extended. A lot of exercises were given to get a firmer understanding of these components in great detail in many scenarios.
 
 🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/FBH64PKF87HC) - This course teaches the best practices to follow when building data pipelines for machine learning. Depending on the size and complexity of the network, various set of practices must be followed in order for the models to work well in specific platforms.  
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Introduction%20to%20Machine%20Learning%20in%20Production.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Data%20Lifecycle%20in%20Production.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Modeling%20Pipelines%20in%20Production.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deploying%20Machine%20Learning%20Models%20in%20Production.pdf)
 
 ## 🗃📂 My Assignments and Coursework
 
