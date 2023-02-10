@@ -180,11 +180,11 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf)
 
-&emsp;&emsp; 🌱 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/D9Q6BCYN3XS6)
+&emsp;&emsp; 🌱 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Introduction%20to%20Machine%20Learning%20in%20Production.pdf)
 
-&emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/TKR5S96MYYZW)
+&emsp;&emsp; 🌱 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Data%20Lifecycle%20in%20Production.pdf)
 
-&emsp;&emsp; 🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/FBH64PKF87HC)
+&emsp;&emsp; 🌱 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Modeling%20Pipelines%20in%20Production.pdf)
 
 &emsp;&emsp; 🌱 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deploying%20Machine%20Learning%20Models%20in%20Production.pdf)
 
