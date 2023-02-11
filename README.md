@@ -78,6 +78,8 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Wheat%20image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Steel%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 
+https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg
+
 | 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 
 | :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
