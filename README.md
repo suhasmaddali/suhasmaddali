@@ -160,10 +160,6 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 &emsp;&emsp; 🌱 [__Machine Learning by Stanford University__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
 
-&emsp;&emsp; 🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
-
-&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
-
 &emsp;&emsp; 🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Neural Networks and Deep Learning__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/7XJ8XLVS8UA7)
@@ -175,6 +171,10 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/GN8G647GTLCR)
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
+
+&emsp;&emsp; 🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
+
+&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
 
 &emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Engineering%20for%20Production%20(MLOps)%20Specialization.pdf)
 
