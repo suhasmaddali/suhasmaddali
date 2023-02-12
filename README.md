@@ -498,6 +498,8 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 <hr style="border:0.01px solid blue">
 
+🌞 [__Solar Panels Dust Detection__](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
+
 🔢 [__MNIST Digits Classification__](https://github.com/suhasmaddali/MNIST-classification-)   
 
 * MNIST data is quite popular as it is being used for beginning the journey with Convolutional Neural Networks.
