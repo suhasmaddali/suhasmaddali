@@ -477,10 +477,10 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 🌞 [__Solar Panels Dust Detection__](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
 
-* Solar panels are used in a large number of industries to generate __electricity__ and renewable sources of energy.
+* __Solar panels__ are used in a large number of industries to generate __electricity__ and renewable sources of energy.
 * There is a considerable amount of dust and dirt accumulated in the solar panels due to adverse weather conditions, bird droppings, prolonged use, and many other factors.
 * With the aid of __convolutional neural networks__ and __transfer learning__, it is possible to detect dust accumulated in solar panels, leading to efficient maintenance cycles with minimal friction.
-* As a result, this increases the __efficiency__ of solar panels, giving rise to a higher amount of energy from the solar source.
+* This increases the __efficiency__ of solar panels, giving rise to a higher amount of energy from the solar source.
 * Networks such as __VGG16__, __VGG19__, __MobileNet__, __AlexNet__, __Xception__ and __DenseNet__ are explored to determine whether a solar panel is clean or dusty. 
 
 <hr style="border:0.01px solid blue">
