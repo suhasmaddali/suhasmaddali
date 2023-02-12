@@ -72,7 +72,7 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)|  | 🌞 [Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
 
 | 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 | :-:| :-:| 
