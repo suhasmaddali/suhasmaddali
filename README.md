@@ -475,6 +475,16 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 <hr style="border:0.01px solid blue">
 
+🌞 [__Solar Panels Dust Detection__](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
+
+* Solar panels are used in a large number of industries to generate electricy and renewable sources of energy.
+* There is considerable amount of dust and dirt accumulated in the solar panels due to adverse weather conditions, bird droppings, prolonged use and many other factors.
+* With the aid of convolutional neural networks and transfer learning, it is possible to detect dust accumulated in solar panels, leading to efficiency maintenance cycles with minimal friction.
+* As a result, this increases the efficiency of solar panels, giving rise to higher amount of energy from the solar source.
+* Networks such as VGG16, VGG19, MobileNet, AlexNet and Xception are explored to determine whether a solar panel is clean or dusty. 
+
+<hr style="border:0.01px solid blue">
+
 🥄 [__Steel Defect Detection__](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)      
 
 * There are many steel manufacturing industries that produce large quantities of steel.
@@ -497,8 +507,6 @@ One of the interesting things about computer vision is that there is a lot of sc
 * Various computer vision algorithms are used to identify the wheat heads respectively. 
 
 <hr style="border:0.01px solid blue">
-
-🌞 [__Solar Panels Dust Detection__](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
 
 🔢 [__MNIST Digits Classification__](https://github.com/suhasmaddali/MNIST-classification-)   
 
