@@ -488,14 +488,6 @@ One of the interesting things about computer vision is that there is a lot of sc
 
 <hr style="border:0.01px solid blue">
 
-🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)     
-* This is a simple project to implement Convolutional Neural Network and note its working.
-* Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
-* There are different kernel sizes considered and outputs are noted using a graph respectively.
-* By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
-
-<hr style="border:0.01px solid blue">
-
 🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)    
 
 * There are a lot of food products that we get from wheat.
@@ -511,6 +503,15 @@ One of the interesting things about computer vision is that there is a lot of sc
 * MNIST data is quite popular as it is being used for beginning the journey with Convolutional Neural Networks.
 * The repository contains an MNIST project that would classify the images into __9 digits__ starting from 0 to 9 respectively.
 * There are different configurations of Convolutional Neural Networks being implemented by taking into consideration the cross-entropy loss as the metric for getting the best configuration.
+
+<hr style="border:0.01px solid blue">
+
+🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
+
+* This is a simple project to implement Convolutional Neural Network and note its working.
+* Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
+* There are different kernel sizes considered and outputs are noted using a graph respectively.
+* By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
 <h2> 🌌📉 My Unsupervised Machine Learning Projects</h2> 
 
