@@ -70,19 +70,17 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
-| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)|  | [🌞 Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
+| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)|  | 🌞 [Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
 
 | 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Wheat%20image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Steel%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 
-
-
 | 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
 | :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
 
 <hr style="border:0.01px solid blue">
 
