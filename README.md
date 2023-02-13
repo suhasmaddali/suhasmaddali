@@ -323,7 +323,7 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Data Scientist Intern Resume__](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20New%20Resume.pdf)
+&emsp;&emsp; 📄 [__Data Scientist Resume__](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20New%20Resume.pdf)
 
 ## 🖥 My References 
 
