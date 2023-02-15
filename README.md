@@ -8,8 +8,6 @@ I'm passionate about __Machine Learning__ and __Data Science__. With the develop
 
 ![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
 
-<a href="https://data.typeracer.com/pit/profile?user=suhasmaddali007&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=suhasmaddali007" border="0" alt="TypeRacer.com scorecard for user suhasmaddali007"/></a>
-
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I'm an __MS in Data Science__ student at __Northeastern University - Khoury College of Computer Sciences__. I have __3+ years__ of experience building and deploying __machine learning__ and __deep learning__ models. Furthermore, I completed courses such as __Machine Learning Certification__ by __Stanford University__ and __Deep Learning Specialization__ by __Andrew Ng__. 
