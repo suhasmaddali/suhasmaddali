@@ -335,7 +335,7 @@ Feel free to take a look at my expertise in __machine learning__ and __deep lear
 
 ## 🖥 My Contact Information
 
-&emsp;&emsp; 📱 __Phone No:__ __617-671-5751__
+&emsp;&emsp; 📱 __Phone:__ __617-671-5751__
 
 &emsp;&emsp; 📫 __Email:__ __Suhas.maddali.edu@gmail.com__
 
