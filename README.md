@@ -685,11 +685,11 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies__](https://www.solbots.in/) *[January 2018 - August 2020]*
 
-- I have 2+ years of experience working as a data scientist at Solbots Technologies.
+- I have __2+ years__ of experience working as a data scientist at Solbots Technologies.
 - I was able to influence and direct a team of people in understanding and applying machine learning and deep learning algorithms.
-- During my time at the company, I had to develop Convolutional Neural Networks (CNN) to detect images present in front of the Bionic hand.
-- The input from the camera would contain a list of images and videos that contain different objects.
-- Later, the deep learning model would make its predictions, and accordingly, the bionic hand would adjust the grip.
+- During my time at the company, I had to develop __Convolutional Neural Networks (CNN)__ to detect images present in front of the Bionic hand.
+- The input from the camera would contain a list of images and videos of different objects.
+- Later, the deep learning model would make its predictions, and accordingly, the __bionic hand__ would adjust the grip.
 - Furthermore, I had to gain a theoretical and practical understanding of machine learning and deep learning before implementing them in the company. 
 - It was a good experience working in the company and I gained a good amount of knowledge in the field of data science and machine learning.
 
