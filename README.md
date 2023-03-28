@@ -298,6 +298,12 @@ I encourage you to explore my **machine learning** and **deep learning** project
 
 &emsp;&emsp; 📃 [__Exploratory Data Analysis (EDA) on Airline Sentiment Tweets__](https://medium.com/@suhas-maddali007/exploratory-data-analysis-eda-on-airline-sentiment-tweets-717662205849)
 
+&emsp;&emsp; 📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
+
+
+
+
+
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
