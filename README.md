@@ -1104,9 +1104,13 @@ My interest in machine learning started during my final year of engineering at _
 * It explores the overall data and the amount of positive, negative, and neutral tweets.
 * It takes a look at the different categories of flights and their percentage out of all the flight categories. 
 
-&emsp;&emsp; 📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
+📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
 
-&emsp;&emsp; 📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
+📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
+* Solar panels are a popular source of renewable energy but dust accumulation on their surfaces is a major challenge that can reduce their efficiency.
+* Automation, specifically using deep learning and image recognition techniques, can aid in detecting dust accumulation and alerting authorities for timely maintenance.
+* Libraries such as TensorFlow, NumPy, Pandas, and OS can greatly simplify the development process and improve the effectiveness of models for solar panel dust detection.
+* By leveraging these powerful tools, complex and accurate models can be built with greater ease and efficiency, leading to more effective renewable energy generation.
 
 ## 🎼👨‍🎓 Key Learnings
 
