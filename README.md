@@ -1104,6 +1104,10 @@ My interest in machine learning started during my final year of engineering at _
 * It explores the overall data and the amount of positive, negative, and neutral tweets.
 * It takes a look at the different categories of flights and their percentage out of all the flight categories. 
 
+&emsp;&emsp; 📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
+
+&emsp;&emsp; 📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
+
 ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
