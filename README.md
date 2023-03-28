@@ -1105,12 +1105,14 @@ My interest in machine learning started during my final year of engineering at _
 * It takes a look at the different categories of flights and their percentage out of all the flight categories. 
 
 📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
+* Artificial intelligence and machine learning are advancing rapidly and have great potential for generating value in various fields.
+* Unsupervised machine learning, including recommendation systems, is a less talked about but important aspect of AI.
+* This article focuses on building an article recommender system using unsupervised machine learning techniques like cosine similarity scores between articles.
 
 📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
-* Solar panels are a popular source of renewable energy but dust accumulation on their surfaces is a major challenge that can reduce their efficiency.
-* Automation, specifically using deep learning and image recognition techniques, can aid in detecting dust accumulation and alerting authorities for timely maintenance.
-* Libraries such as TensorFlow, NumPy, Pandas, and OS can greatly simplify the development process and improve the effectiveness of models for solar panel dust detection.
-* By leveraging these powerful tools, complex and accurate models can be built with greater ease and efficiency, leading to more effective renewable energy generation.
+* Dust on solar panels reduces efficiency, but automation and deep learning can detect and alert authorities for timely maintenance.
+* Libraries like TensorFlow, NumPy, Pandas, and OS simplify development and improve the effectiveness of models for solar panel dust detection.
+* These tools enable building complex and accurate models with greater ease and efficiency, leading to more effective renewable energy generation.
 
 ## 🎼👨‍🎓 Key Learnings
 
