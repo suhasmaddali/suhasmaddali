@@ -338,8 +338,6 @@ I encourage you to explore my **machine learning** and **deep learning** project
 
 ## 🖥 My Contact Information
 
-&emsp;&emsp; 📱 __Phone:__ __617-671-5751__
-
 &emsp;&emsp; 📫 __Email:__ __Suhas.maddali.edu@gmail.com__
 
 &emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
