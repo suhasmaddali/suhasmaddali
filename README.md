@@ -12,7 +12,7 @@ I'm passionate about __Machine Learning__ and __Data Science__. With the develop
 
 I'm an MS in Data Science student at __Northeastern University - Khoury College of Computer Sciences__. I have __3+ years__ of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by __Andrew Ng__. 
 
-These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __pharmaceutical__, __agricultural__, __retail__, __manufacturing__ and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
