@@ -302,6 +302,8 @@ I encourage you to explore my **machine learning** and **deep learning** project
 
 &emsp;&emsp; 📃 [__Clearing the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
 
+&emsp;&emsp; 📃 [__Constructing a Decision Tree Classifier: A Comprehensive Guide to Building Decision Tree Models from Scratch__](https://medium.com/towards-data-science/constructing-a-decision-tree-classifier-a-comprehensive-guide-to-building-decision-tree-models-2e59959db22d)
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
