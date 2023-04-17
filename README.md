@@ -10,7 +10,7 @@ I'm passionate about __Machine Learning__ and __Data Science__. With the develop
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I'm an MS in Data Science student at __Northeastern University - Khoury College of Computer Sciences__. I have __3+ years__ of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by __Andrew Ng__. 
+I'm an MS in Data Science student at __Northeastern University - Khoury College of Computer Sciences__. I have __4+ years__ of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by __Andrew Ng__. 
 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
@@ -18,7 +18,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-I learned to code from a young age. I learned __"C"__ language and now I'm learning __Python__ which gives me an edge in understanding machine learning and data science. As a result, I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were important in order to become a __machine learning engineer__ or a __data scientist__. 
+I learned to code from a young age. I learned "C" language and now I'm learning Python which gives me an edge in understanding machine learning and data science. As a result, I was able to learn and understand the code well. Later, I also learned various other programming languages such as __"R"__ which were important in order to become a __machine learning engineer__ or a __data scientist__. 
 
 Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. 
 
