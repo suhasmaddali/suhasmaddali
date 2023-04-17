@@ -300,7 +300,7 @@ I encourage you to explore my **machine learning** and **deep learning** project
 
 &emsp;&emsp; 📃 [__Unleash the Hidden Patterns: A Guide to Undersupervised Machine Learning for Article Recommender System__](https://medium.com/towards-data-science/unleash-the-hidden-patterns-a-guide-to-unsupervised-machine-learning-for-article-recommender-d1e7eb219c8d)
 
-&emsp;&emsp; 📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
+&emsp;&emsp; 📃 [__Clearing the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
 
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
