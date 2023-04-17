@@ -1118,6 +1118,7 @@ My interest in machine learning started during my final year of engineering at _
 * Libraries like TensorFlow, NumPy, Pandas, and OS simplify development and improve the effectiveness of models for solar panel dust detection.
 * These tools enable building complex and accurate models with greater ease and efficiency, leading to more effective renewable energy generation.
 
+<hr style="border:0.01px solid blue">
 
 📃 [__Constructing a Decision Tree Classifier: A Comprehensive Guide to Building Decision Tree Models from Scratch__](https://medium.com/towards-data-science/constructing-a-decision-tree-classifier-a-comprehensive-guide-to-building-decision-tree-models-2e59959db22d)
 * In this article, I delve into the critical role that decision tree classifiers and regressors play in data analysis and machine learning.
