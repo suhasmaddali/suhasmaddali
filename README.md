@@ -1111,7 +1111,7 @@ My interest in machine learning started during my final year of engineering at _
 
 <hr style="border:0.01px solid blue">
 
-📃 [__Clearning the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
+📃 [__Clearing the Dust: How CNNs and Transfer Learning Can Detect Dust on Solar Panels__](https://medium.com/towards-data-science/clearing-the-dust-how-cnns-and-transfer-learning-can-detect-dust-on-solar-panels-7f4892405123)
 * Dust on solar panels reduces efficiency, but automation and deep learning can detect and alert authorities for timely maintenance.
 * Libraries like TensorFlow, NumPy, Pandas, and OS simplify development and improve the effectiveness of models for solar panel dust detection.
 * These tools enable building complex and accurate models with greater ease and efficiency, leading to more effective renewable energy generation.
