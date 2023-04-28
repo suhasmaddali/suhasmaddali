@@ -65,7 +65,7 @@ I encourage you to explore my machine learning and deep learning projects to gai
 | 🗞 [Fake News Prediction](https://github.com/suhasmaddali/Fake-News-Prediction)| English Language Learning|
 | :-:| :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Fake%20News%20Image%20Latest.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Fake-News-Prediction)| 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Essay%20writing%20main%20github%20image.jpg"/>|
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Essay%20writing%20main%20github%20image.jpg" width = 500 height = 300/>|
 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Essay%20writing%20main%20github%20image.jpg"/>
