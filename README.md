@@ -62,7 +62,7 @@ I encourage you to explore my machine learning and deep learning projects to gai
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
-| 🗞 [Fake News Prediction](https://github.com/suhasmaddali/Fake-News-Prediction)| [English Language Learning](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
+| 🗞 [Fake News Prediction](https://github.com/suhasmaddali/Fake-News-Prediction)| 📝 [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
 | :-:| :-:|
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Fake%20News%20Image%20Latest.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Fake-News-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Essay%20writing%20main%20github%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
 
