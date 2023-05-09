@@ -68,7 +68,7 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 <hr style="border:0.01px solid blue">
 
-https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning
+[https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning](Automated Essay Scoring (AES) with Transformers)
 
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
