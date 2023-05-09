@@ -657,7 +657,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Work%20experience%20photo.jpg" width = "750" />
 
-👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) *[September 2022 - December 2022]*
+👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Northeastern University__](https://www.khoury.northeastern.edu/) *[September 2022 - December 2022]*
 
 * Worked with students in helping them __understand__ the assignments and __guiding__ them in the process to make the concepts of supervised machine learning understandable. 
 * Regularly __attended__ office hours to discuss with students about their progress in the assignments and also suggesting them changes to be made to get the best results. 
