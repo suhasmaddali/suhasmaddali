@@ -461,6 +461,10 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 * Metrics such as accuracy, precision, recall and f1-score are used to analyze different set of algorithms before __deploying__ in production.
 * This saves a lot of time for readers as they are not __fed__ with misleading information. 
 
+<hr style="border:0.01px solid blue">
+
+🔎 [__Automated Essay Scoring with Transformers__](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)
+
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/computer%20vision.gif" width = "750" />
