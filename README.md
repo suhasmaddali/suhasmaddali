@@ -70,6 +70,8 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Automated%20essay%20scoring%20transformers.jpg"/>
+
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🌞 [Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
