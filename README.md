@@ -564,7 +564,7 @@ It is important to note that __data visualization__ is the key to extracting ins
 
 <hr style="border:0.01px solid blue">
 
-🔍 [__Google Play store Genre Prediction__](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)   
+🔍 [__Google Play Store Genre Prediction__](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)   
 
 * In this analysis, we are going to understand the different types of apps in the __Google Play store__.
 * In addition, we are also going to understand the __NULL__ values that are present in our data.
