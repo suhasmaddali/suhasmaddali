@@ -465,6 +465,11 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 🔎 [__Automated Essay Scoring with Transformers__](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)
 
+* __AI__ analyzes student essays for coherence, clarity, and relevance and offers feedback to improve writing skills.
+* Deep learning models (Transformers, LSTMs, GRUs, CNNs, and ML) detect visual cues, model coherence, relevance, and identify factors for effective writing in student essays.
+* Multiple approaches provide a comprehensive evaluation, empowering educators to give targeted __feedback__ to improve student writing skills.
+* Metrics like accuracy, precision, recall, F1 score, and QWK evaluate model performance for classifying essays.
+
 ## 👀👁 My Computer Vision Projects
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/computer%20vision.gif" width = "750" />
