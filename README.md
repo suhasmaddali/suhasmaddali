@@ -192,8 +192,6 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 &emsp;&emsp; 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf)
 
-https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf
-
 ## 🖥 My Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
