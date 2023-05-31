@@ -146,9 +146,9 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 ## 🖥 My Education 
 
-&emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
+&emsp;&emsp; 🏫 [__Northeastern University (Khoury College of Computer Science)__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
 
-&emsp;&emsp; 🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) - *Masters in Software Engineering*
+&emsp;&emsp; 🏫 [__Arizona State University (Ira A. Fulton School of Engineering)__](https://engineering.asu.edu) - *Masters in Software Engineering*
 
 &emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *B.Tech in Electronics and Communication Engineering*
 
