@@ -777,7 +777,7 @@ There are numerous machine learning and data science courses that I went through
 
 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf) - This course teaches the fundamentals of Docker and explains them in detail. In addition, the instructor does a good job in explaining how Docker along with Flask and Apache could be used for deploying our machine learning models and making them highly scalable. It also talks about various errors that can occur during the production environment that is important to consider when trying to deploy machine learning models to a large number of clients and users. 
 
-🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf)
+🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf) - This course emphasizes the construction of time series models using up-to-date data from diverse sources. Participants gain a comprehensive understanding of cutting-edge models, including ARMA, ARIMA, SARIMA, SARIMAX, and Deep Neural Networks, for accurate forecasting. The course is highly regarded, offering clear explanations of the concepts and delivering valuable insights.
 
 ## 🗃📂 My Assignments and Coursework
 
