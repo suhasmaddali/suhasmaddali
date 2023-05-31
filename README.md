@@ -711,13 +711,13 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/education%20gif.gif" width = "750"/>
 
-🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
+🏫 [__Northeastern University (Khoury College of Computer Science)__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
 
 I'm currently pursuing a [Master's in Data Science](https://www.khoury.northeastern.edu/programs/data-science-ms/) at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress toward learning the concepts of data science. Courses such as Supervised Machine Learning, Unsupervised Machine Learning, and Data Visualization helped me understand the practical ways in which data science is used in industrial applications.
 
 <hr style="border:0.01px solid blue">
 
-🏫 [__Arizona State University Ira A. Fulton School of Engineering__](https://engineering.asu.edu) - *Masters in Software Engineering*
+🏫 [__Arizona State University (Ira A. Fulton School of Engineering)__](https://engineering.asu.edu) - *Masters in Software Engineering*
 
 I pursued a [Master's in Software Engineering](https://asuengineeringonline.com/content/engineering-science-software-engineering-mse) at Arizona State University. It was a good experience where I could get a solid understanding of working with software engineering principles and paradigms. Furthermore, I was also involved in a project where we as a team had to build an AR application in real time. It was a good experience where I learned software engineering principles and learned to work in sprints for a different set of tasks respectively. Furthermore, I also completed the data structures and algorithms course which allowed me to understand the time complexity of various algorithms which was also influential in my understanding of machine learning algorithms respectively. 
 
