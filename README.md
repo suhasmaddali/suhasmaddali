@@ -306,6 +306,8 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 &emsp;&emsp; 📃 [__Constructing a Decision Tree Classifier: A Comprehensive Guide to Building Decision Tree Models from Scratch__](https://medium.com/towards-data-science/constructing-a-decision-tree-classifier-a-comprehensive-guide-to-building-decision-tree-models-2e59959db22d)
 
+https://medium.com/towards-data-science/unsupervised-machine-learning-explore-a-list-of-models-that-work-without-output-labels-89322c2dd47c
+
 ## 🖥 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
 
 &emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) 
