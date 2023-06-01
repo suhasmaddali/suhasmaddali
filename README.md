@@ -369,6 +369,9 @@ The results on the test set were promising, and this sparked my interest in find
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ![](https://github.com/suhasmaddali/Images/blob/main/andrew-neel-cckf4TsHAuw-unsplash.jpg)
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Medium%20Inspiration%20GitHub%20Image.jpg"/>
+
 📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a __website__ where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 __https://suhas-maddali007.medium.com__
 
