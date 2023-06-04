@@ -481,7 +481,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 __Computer Vision__ is a subset of artificial intelligence which gives the computer to perform computations and make predictions on image data. If the image of a cat is given, for instance, the computer vision algorithms would classify whether there is a cat in the image based on a previously labeled set of images. Therefore, it is important to give the right data to the computer vision algorithms in order for them to get the right predictions. 
 
-One of the interesting things about computer vision is that there is a lot of scope and demand for it. There are a lot of opportunities where we could be using computer vision applications. Since image and video data are found in abundance, there are computer vision tools that could be used and experimented ensuring that we make the best use of them. Below are some of the interesting projects that I worked on with computer vision.
+Computer vision offers immense potential and high demand due to its wide range of applications. The abundance of image and video data creates numerous opportunities for leveraging computer vision tools effectively. Here, I present a selection of intriguing projects I have personally undertaken in the field of computer vision.
 
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
