@@ -546,6 +546,8 @@ Computer vision offers immense potential and high demand due to its wide range o
 
 <img  src = "https://github.com/suhasmaddali/Images/blob/main/Unsupervised%20machine%20learning%20github%20readme%20image.jpg" width = "750" />
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Sunset%20Introduction.gif"/>
+
 __Unsupervised machine learning__ is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only __unlabeled data__ and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include __clustering__, __dimensionality reduction__, and __anomaly detection__.
 
 📚 [__Article Recommender System__](https://github.com/suhasmaddali/Article-Recommender-System)
