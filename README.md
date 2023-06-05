@@ -18,7 +18,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-Starting at a young age, I acquired coding skills by initially learning the __"C"__ language. Currently, I am expanding my knowledge by studying Python, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __"R"__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
+Starting at a young age, I acquired coding skills by initially learning the __C__ language. Currently, I am expanding my knowledge by studying Python, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __R__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
 
 Below is a list of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important tools and techniques helped me build machine learning projects and understand them in full detail. 
 
