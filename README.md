@@ -847,7 +847,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 * When building projects and talking to people about the outcomes, it is important to have teamwork so that it would be a whole lot easier for a team to improve the performance of the company. 
 * That's the reason why companies such as Apple and Facebook are improving their revenue as a result of work from the team rather than individual efforts. 
-* Since I was more into teams, I was more involved in projects with teams and I have a good amount of networking and team management skills. 
+* Given my strong involvement in teams, I have actively participated in numerous team-based projects, honing my networking and team management skills along the way. 
 
 <hr style="border:0.01px solid blue">
 
