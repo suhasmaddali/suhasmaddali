@@ -485,12 +485,12 @@ Computer vision offers immense potential and high demand due to its wide range o
 
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
-* __Wheat__ is available almost everywhere in the form of nutrition such as cereals and bread. When producing wheat, there are diseases associated with them.
-* __Farmers__ have to spend a considerable amount of time identifying the diseases.
-* Doing this manually is a time-consuming process. With Computer Vision, it is possible to understand various diseases in wheat and identify them.
-* This leads to a significant reduction in the time taken to identify the diseases in wheat along with taking steps to prevent future diseases.
-* In the repository, various Convolutional Neural networks (CNNs) are tested such as __InceptionV3__, __Xception__, and __VGG19__ to identify these diseases.
-* __VGG19__ was able to perform exceptionally well with the test accuracy being __97 percent__ respectively.
+* __Wheat__ is commonly available in various forms such as cereals and bread, but it is susceptible to diseases during production.
+* Manual identification of wheat diseases is time-consuming for __farmers__.
+* Computer Vision can be utilized to understand and identify different diseases in wheat, leading to significant time savings.
+* This technology enables prompt identification of diseases and facilitates preventive measures for future occurrences.
+* Several Convolutional Neural Networks (CNNs) like InceptionV3, Xception, and VGG19 were tested to detect wheat diseases.
+* VGG19 exhibited exceptional performance, achieving a test accuracy of 97 percent.
 
 <hr style="border:0.01px solid blue">
 
@@ -518,7 +518,6 @@ Computer vision offers immense potential and high demand due to its wide range o
 <hr style="border:0.01px solid blue">
 
 🌾 [__Wheat Localization With Convolutional Neural Networks (CNNs)__](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)    
-
 * There are a lot of food products that we get from wheat.
 * Wheat is known as the common food staple that could be used to prepare different kinds of food items.
 * Since there are different types of wheat available, it is important to identify different kinds of wheat available.
