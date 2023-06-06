@@ -386,7 +386,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 * In this project, the demand for __rental bikes__ was predicted using different machine learning and deep learning algorithms.
 *  Moreover, some of the useful features were __visualized__.
 *  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
-*  After that, machine learning predictions were performed to ensure that we are getting the output for the test set respectively. 
+*  Subsequently, machine learning predictions were executed to ensure accurate outputs for the corresponding test set.
 
 <hr style="border:0.01px solid blue">
 
