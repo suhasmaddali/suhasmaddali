@@ -489,17 +489,17 @@ Computer vision offers immense potential and high demand due to its wide range o
 * Manual identification of wheat diseases is time-consuming for __farmers__.
 * Computer Vision can be utilized to understand and identify different diseases in wheat, leading to significant time savings.
 * This technology enables prompt identification of diseases and facilitates preventive measures for future occurrences.
-* Several Convolutional Neural Networks (CNNs) like InceptionV3, Xception, and VGG19 were tested to detect wheat diseases.
+* Several Convolutional Neural Networks (CNNs) like __InceptionV3__, __Xception__, and __VGG19__ were tested to detect wheat diseases.
 * VGG19 exhibited exceptional performance, achieving a test accuracy of 97 percent.
 
 <hr style="border:0.01px solid blue">
 
 🌞 [__Solar Panels Dust Detection__](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)
 
-* __Solar panels__ are used in a large number of industries to generate __electricity__ and renewable sources of energy.
+* __Solar panels__ are used in a large number of industries to generate electricity and renewable sources of energy.
 * There is a considerable amount of dust and dirt accumulated in the solar panels due to adverse weather conditions, bird droppings, prolonged use, and many other factors.
-* With the aid of __convolutional neural networks__ and __transfer learning__, it is possible to detect dust accumulated in solar panels, leading to efficient maintenance cycles with minimal friction.
-* This increases the __efficiency__ of solar panels, giving rise to a higher amount of energy from the solar source.
+* With the aid of convolutional neural networks and __transfer learning__, it is possible to detect dust accumulated in solar panels, leading to efficient maintenance cycles with minimal friction.
+* This increases the efficiency of solar panels, giving rise to a higher amount of energy from the solar source.
 * Networks such as __VGG16__, __VGG19__, __MobileNet__, __AlexNet__, __Xception__ and __DenseNet__ are explored to determine whether a solar panel is clean or dusty. 
 
 <hr style="border:0.01px solid blue">
