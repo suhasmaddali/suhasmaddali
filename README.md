@@ -401,7 +401,7 @@ In this section, different sets of __machine learning__ projects are highlighted
 🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) 
 
 * It is important for banks to give __loans__ to customers based on their ability to pay back a loan.
-* Sometimes, banks end up giving loans to people and not getting paid back the money along with interest.
+* Occasionally, banks encounter situations where they grant loans to individuals who fail to repay the borrowed funds, including the accrued interest.
 * Machine Learning could be used in order to determine whether a loan must be given to a person, and this would help the __financial institutions__ and __banks__ to save money respectively.
 * In the project, various features such as income levels and the amount of loan taken were considered as features for predicting whether a person would be paying back a loan or not.
 * Since the data that was taken contained a lot of __NULL__ values, various imputation methods were used such as __mean__, __median__, and __mode__ imputation.
