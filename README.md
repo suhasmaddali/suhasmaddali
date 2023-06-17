@@ -541,12 +541,12 @@ Computer vision offers immense potential and high demand due to its wide range o
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Sunset%20Introduction.gif" width="750"/>
 
-__Unsupervised machine learning__ is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only __unlabeled data__ and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include __clustering__, __dimensionality reduction__, and __anomaly detection__.
+__Unsupervised machine learning__ is a type of machine learning in which the model is not provided with labeled training examples. Instead, the model is given only __unlabeled data__ and must find patterns and relationships in the data on its own. Unsupervised learning algorithms are used to find patterns in data, group data into clusters, and identify anomalies. Some common unsupervised learning methods include clustering, dimensionality reduction, and anomaly detection.
 
 📚 [__Article Recommender System__](https://github.com/suhasmaddali/Article-Recommender-System)
 
-* Built an __article recommender system__ that is able to generate recommendations of articles based on the similarity of previous articles.
-* Used methods such as __k-means clustering__ for understanding the right amount of clusters based on elbow method.
+* Built an article recommender system that is able to generate recommendations of articles based on the similarity of previous articles.
+* Used methods such as k-means clustering for understanding the right amount of clusters based on elbow method.
 * Worked with dimensionality reduction techniques such as __PCA__ and __t-SNE__.
 * Performed exploratory data analysis on the text information to understand the occurrence of words based on similarity.  
 
