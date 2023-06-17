@@ -392,7 +392,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) 
 
-* In this project, the demand for __rental bikes__ was predicted using different machine learning and deep learning algorithms.
+* In this project, the demand for rental bikes was predicted using different machine learning and deep learning algorithms.
 *  Moreover, some of the useful features were __visualized__.
 *  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
 *  Subsequently, machine learning predictions were executed to ensure accurate outputs for the corresponding test set.
@@ -401,7 +401,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 🚙 [__Car Prices Prediction__](https://github.com/suhasmaddali/Car-Prices-Prediction) 
 
-* In this machine learning project, the __prices of cars__ would be predicted based on features such as __horsepower (HP)__, __Mileage__, __Make__, and __other features__.
+* In this machine learning project, the prices of cars would be predicted based on features such as Horsepower (HP), Mileage, Make, and other features.
 * Most of the project contains visualizations followed by machine learning and deep learning algorithm predictions.
 * Based on the prices determined by the algorithms, companies could set the price for the cars which would result in __high profitability__. 
 
