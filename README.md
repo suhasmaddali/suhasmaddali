@@ -360,9 +360,9 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/GitHub%20Inspiration%20Image.jpg"/>
 
-My interest in __machine learning__ and __artificial intelligence__ began when I was in my final year of a Bachelor of Technology program. I suggested to my teammates that we work on a machine learning project in __healthcare__, specifically using it to predict the chances of a person suffering from heart disease. We were able to download a dataset from __Kaggle__ and implement machine learning models to make predictions. 
+My interest in machine learning and artificial intelligence began when I was in my final year of a Bachelor of Technology program. I suggested to my teammates that we work on a machine learning project in __healthcare__, specifically using it to predict the chances of a person suffering from heart disease. We were able to download a dataset from __Kaggle__ and implement machine learning models to make predictions. 
 
-The results on the test set were promising, and this sparked my interest in finding more ways to apply machine learning. I have since taken courses in machine learning, including Andrew Ng's __"Machine Learning"__ and __"Deep Learning Specialization"__ and have worked on various data science projects in healthcare, academia, and the retail industry. Some of these projects involved data analysis and visualization to gain insights.
+The results on the test set were promising, and this sparked my interest in finding more ways to apply machine learning. I have since taken courses in machine learning, including Andrew Ng's __Machine Learning__ and __Deep Learning Specialization__ and have worked on various data science projects in healthcare, academia, and the retail industry. Some of these projects involved data analysis and visualization to gain insights.
 
 ## 📄📉Blogs on Medium:
 
