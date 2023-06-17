@@ -373,7 +373,16 @@ The results on the test set were promising, and this sparked my interest in find
 📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a __website__ where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 __https://suhas-maddali007.medium.com__
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Some of them involve __Linear Regression__, __Logistic Regression__, __Support Vector Machines (SVM)__, __Decision Trees__, __Random Forests__, __Deep Neural Networks__, __Gradient Boosted Decision Trees__, and __Naive Bayes__.
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some of the models used:
+
+* __Linear Regression__
+* __Logistic Regression__
+* __Support Vector Machines (SVM)__
+* __Decision Trees__
+* __Random Forests__
+* __Deep Neural Networks__
+* __Gradient Boosted Decision Trees__
+* __Naive Bayes__
  
 ## 🤖⚙️ My Machine Learning Projects
 
