@@ -388,7 +388,7 @@ __https://suhas-maddali007.medium.com__
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
 
-In this section, different sets of __machine learning__ projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of __Artificial Intelligence__ such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with __Data Visualization__.
+In this section, different sets of machine learning projects are highlighted. Feel free to click on the links for the projects that are highlighted. There is a brief description of the projects along with useful definitions. In the next few sections, a subset of Artificial Intelligence such as __Computer Vision__ and __Natural Language Processing (NLP)__ would be covered along with Data Visualization.
 
 🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) 
 
