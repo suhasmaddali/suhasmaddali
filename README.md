@@ -375,14 +375,14 @@ __https://suhas-maddali007.medium.com__
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
-* __Linear Regression__
-* __Logistic Regression__
-* __Support Vector Machines (SVM)__
-* __Decision Trees__
-* __Random Forests__
-* __Deep Neural Networks__
-* __Gradient Boosted Decision Trees__
-* __Naive Bayes__
+* Linear Regression
+* Logistic Regression
+* Support Vector Machines (SVM)
+* Decision Trees (DT)
+* Random Forests (RF)
+* Deep Neural Networks
+* Gradient Boosted Decision Trees (GBDT)
+* Naive Bayes
  
 ## 🤖⚙️ My Machine Learning Projects
 
