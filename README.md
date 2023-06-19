@@ -382,7 +382,7 @@ __https://suhas-maddali007.medium.com__
 * Random Forests (RF)
 * Deep Neural Networks
 * Gradient Boosted Decision Trees (GBDT)
-* Naive Bayes
+* Naive Bayes (NB)
  
 ## 🤖⚙️ My Machine Learning Projects
 
