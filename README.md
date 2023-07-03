@@ -451,9 +451,9 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)     
 
-* __Text mining__, __data visualization__, and __machine learning__ can reveal useful insights in the vast amount of text that surrounds us, making it more actionable and useful.
-* In addition to this, understanding the __difficulty__ of the text and whether it is at our level could give us good __knowledge__ about the __depth__ of the article.
-* Moreover, __libraries__ and other __educational institutions__ could use this information and classify __textbooks__ and __notebooks__, and separate them based on the difficulty level.
+* Text mining, data visualization, and machine learning can reveal useful insights in the vast amount of text that surrounds us, making it more actionable and useful.
+* In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article.
+* Moreover, __libraries__ and other __educational institutions__ could use this information and classify textbooks and notebooks, and separate them based on the difficulty level.
 * In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts.
 * __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
 
