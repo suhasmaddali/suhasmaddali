@@ -370,7 +370,7 @@ The results on the test set were promising, and this sparked my interest in find
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Medium%20Inspiration%20GitHub%20Image.jpg"/>
 
-📝 Furthermore, I also write articles and share my __blogs__ through __Medium__. It is a __website__ where writers could share their thoughts with the community through __publications__. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
+📝 Furthermore, I also write articles and share my blogs through __Medium__. It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 __https://suhas-maddali007.medium.com__
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
