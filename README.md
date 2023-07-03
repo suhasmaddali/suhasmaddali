@@ -447,7 +447,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/natural%20language%20processing.gif" width = "750"/>
 
-__Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves __extracting texts__, __removing stopwords__, __lemmatization__ and __stemming__, __lowercasing the letters__, and __removing punctuations__ and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the __Natural Language Processing (NLP)__ projects.
+__Natural Language Processing (NLP)__ is converting a natural text into a form that could be used for machine learning and deep learning purposes. It involves extracting texts, removing stopwords, lemmatization and stemming, lowercasing the letters, and removing punctuations and other text information that do not add a lot of meaning in our machine learning predictions. Below are the links to some of the Natural Language Processing (NLP) projects.
 
 📚 [__Predicting Readability of Texts Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)     
 
