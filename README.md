@@ -428,7 +428,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 🏚 [__Airbnb Home Prices Prediction__](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)
 
-* Features such as __neighborhood__, __longitute__ and __latitude__ could be used to determine the prices of __Airbnb__ houses for hosts.
+* Features such as neighborhood, longitute and latitude could be used to determine the prices of __Airbnb__ houses for hosts.
 * __Data Science__ and __Machine Learning__ could be used to extract these insights from data and also make useful predictions for housing prices.
 * Since the demand is also an important factor to consider, it becomes really interesting how the prices would vary based on this feature and many others.
 * __Exploratory Data Analysis (EDA)__ was performed to take a look at features that make the highest impact when determining the prices of houses along with others.
@@ -439,8 +439,8 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 * Worked on predicting the __churn rate__ of customers based on factors such as age, location, and the type of service that was chosen by the customers. 
 * __Exploratory Data Analysis (EDA)__ was conducted to gain a comprehensive understanding of all the features and relationships in the dataset. Visualizations were used to effectively communicate insights.
-* A large number of metrics were considered such as __accuracy__, __logistic loss__, __precision__, __recall__, __F1 score__ and many others. 
-* Vast proportion of machine learning models were used in the process of prediction of churn rate of customers such as __Logistic Regression__, __Decision Tree Classifier__, __Gaussian Naive Bayes__, __Random Forest Classifier__ and __XGBoost Regressor__.
+* A large number of metrics were considered such as accuracy, logistic loss, precision, recall, F1 score and many others. 
+* Vast proportion of machine learning models were used in the process of prediction of churn rate of customers such as Logistic Regression, Decision Tree Classifier, Gaussian Naive Bayes, Random Forest Classifier and XGBoost Regressor.
 * Finally, the best model was selected and was __hyperparameter tuned__ to get the best results on the data that the models have not seen before. 
 
 ## 🗣📣 My Natural Language Processing (NLP) projects
