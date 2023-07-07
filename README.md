@@ -453,7 +453,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 * Text mining, data visualization, and machine learning can reveal useful insights in the vast amount of text that surrounds us, making it more actionable and useful.
 * In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article.
-* Moreover, __libraries__ and other __educational institutions__ could use this information and classify textbooks and notebooks, and separate them based on the difficulty level.
+* Moreover, libraries__ and other educational institutions could use this information and classify textbooks and notebooks, and separate them based on the difficulty level.
 * In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts.
 * __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
 
@@ -463,7 +463,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 * In __Twitter__, there are comments made for different posts and tweets. Sometimes, there might be negative comments that would change the course of the direction of certain topics.
 * It is important to identify comments and extract key features from the text so that positive and negative comments could be separated.
-* In this project, we are going to be extracting __useful information__ from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
+* In this project, we are going to be extracting useful information from texts and understand key components for differentiating between __positive texts__ and __negative texts__.
 
 <hr style="border:0.01px solid blue">
 
@@ -495,10 +495,10 @@ Computer vision offers immense potential and high demand due to its wide range o
 🎋 [__Wheat Disease Detection Using Transfer Learning__](https://github.com/suhasmaddali/Wheat-Disease-Detection-) 
 
 * __Wheat__ is commonly available in various forms such as cereals and bread, but it is susceptible to diseases during production.
-* Manual identification of wheat diseases is time-consuming for __farmers__.
+* Manual identification of wheat diseases is time-consuming for farmers.
 * Computer Vision can be utilized to understand and identify different diseases in wheat, leading to significant time savings.
 * This technology enables prompt identification of diseases and facilitates preventive measures for future occurrences.
-* Several Convolutional Neural Networks (CNNs) like __InceptionV3__, __Xception__, and __VGG19__ were tested to detect wheat diseases.
+* Several Convolutional Neural Networks (CNNs) like InceptionV3, Xception, and VGG19 were tested to detect wheat diseases.
 * VGG19 exhibited exceptional performance, achieving a test accuracy of 97 percent.
 
 <hr style="border:0.01px solid blue">
@@ -509,7 +509,7 @@ Computer vision offers immense potential and high demand due to its wide range o
 * There is a considerable amount of dust and dirt accumulated in the solar panels due to adverse weather conditions, bird droppings, prolonged use, and many other factors.
 * With the aid of convolutional neural networks and __transfer learning__, it is possible to detect dust accumulated in solar panels, leading to efficient maintenance cycles with minimal friction.
 * This increases the efficiency of solar panels, giving rise to a higher amount of energy from the solar source.
-* Networks such as __VGG16__, __VGG19__, __MobileNet__, __AlexNet__, __Xception__ and __DenseNet__ are explored to determine whether a solar panel is clean or dusty. 
+* Networks such as VGG16, VGG19, MobileNet, AlexNet, Xception and DenseNet are explored to determine whether a solar panel is clean or dusty. 
 
 <hr style="border:0.01px solid blue">
 
@@ -542,7 +542,7 @@ Computer vision offers immense potential and high demand due to its wide range o
 🕸 [__Convolutional Neural Networks CNN Implementation Using Keras__](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)
 
 * This is a simple project to implement Convolutional Neural Network and note its working.
-* Different __layer sizes__ and __different kernels__ are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
+* Different layer sizes and different kernels are chosen and trained on a simple dataset. The data that was taken was __MNIST__ which is available in Kaggle.
 * There are different kernel sizes considered and outputs are noted using a graph respectively.
 * By doing this project, I've learned to use __Keras__ and __Tensorflow__ for building Convolutional Neural Networks (CNNs) respectively.
 
@@ -590,13 +590,13 @@ It is also important to understand how data is stored before performing __machin
 
 * In this project, __database design__ of the cab reservation system was created and analyzed to implement the effective way to store and retrieve information from the database.
 * Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
-* After successfully __designing__ and implementing the __database design__, the focus was placed on building the __UI interface__ so that users could book cars as and when needed based on the __availability of the drivers__. 
+* After successfully designing and implementing the database design, the focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
 ## 🕸🔨My Web Scraping Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/web_scraping.gif" width = "750"/>
 
-__Web scraping__ is the process of extracting data from websites. This data can be used for various purposes, such as data science and machine learning. There are different methods for extracting data from websites, which may be stored in __HTML__, __XML__, or __JSON__ formats. To successfully scrape data from the web, it is important to use the appropriate techniques. Some web scraping projects also involve querying information from the web.
+__Web scraping__ is the process of extracting data from websites. This data can be used for various purposes, such as data science and machine learning. There are different methods for extracting data from websites, which may be stored in HTML, XML, or JSON formats. To successfully scrape data from the web, it is important to use the appropriate techniques. Some web scraping projects also involve querying information from the web.
 
 🍿 [__IMDB Movies Web Scraping__](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb)    
 
