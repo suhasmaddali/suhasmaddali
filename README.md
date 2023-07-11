@@ -381,8 +381,10 @@ __https://suhas-maddali007.medium.com__
 * Decision Trees (DT)
 * Random Forests (RF)
 * Deep Neural Networks
-* Gradient Boosted Decision Trees (GBDT)
 * Naive Bayes (NB)
+* Gradient Boosted Decision Trees (GBDT)
+* XGBoost 
+
  
 ## 🤖⚙️ My Machine Learning Projects
 
