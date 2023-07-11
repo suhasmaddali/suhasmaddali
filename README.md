@@ -385,7 +385,6 @@ __https://suhas-maddali007.medium.com__
 * Gradient Boosted Decision Trees (GBDT)
 * XGBoost 
 
- 
 ## 🤖⚙️ My Machine Learning Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
