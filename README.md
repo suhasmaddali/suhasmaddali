@@ -411,7 +411,7 @@ In this section, different sets of machine learning projects are highlighted. Fe
 
 <hr style="border:0.01px solid blue">
 
-🏦 [__Predicting Loan Default Using Machine Learning*__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) 
+🏦 [__Predicting Loan Default Using Machine Learning__](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning) 
 
 * It is important for banks to give loans to customers based on their ability to pay back a loan.
 * Occasionally, banks encounter situations where they grant loans to individuals who fail to repay the borrowed funds, including the accrued interest.
