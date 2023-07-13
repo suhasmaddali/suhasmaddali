@@ -14,7 +14,7 @@ I hold a Masters Degree in Data Science at [__Northeastern University - Khoury C
 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. 
 
-I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__Solbots Technologies Private Limited__](https://www.solbots.in/) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a Data Scientist and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__Solbots Technologies Private Limited__](https://www.solbots.in/) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
