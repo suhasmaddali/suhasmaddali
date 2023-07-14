@@ -686,7 +686,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 - As a __data scientist__ at __NVIDIA__, I was influential in using __state-of-the-art__ machine learning and deep learning models to predict future demand for products based on past history. 
 - In addition to this, classical models were also used and compared before deciding the best architecture for supply chain optimization. 
-- Finally, the explainable part of artificial intelligence was implemented with the use of tools such as __LIME__ and __SHAP__ in __Python__. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
+- Finally, the explainable part of artificial intelligence was implemented with the use of various tools. This ensured that the predictions given by various ML models are made interpretable to the business before they take action from them.
 
 <hr style="border:0.01px solid blue">
 
