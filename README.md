@@ -596,7 +596,7 @@ It is also important to understand how data is stored before performing __machin
 🚕[__Cab Reservation System*__](https://github.com/suhasmaddali/Cab-Reservation-System-)   
 
 * In this project, database design of the cab reservation system was created and analyzed to implement the effective way to store and retrieve information from the database.
-* Furthermore, __Flask__ was also used to design and store the data values for storing information about various customers.
+* Furthermore, [__Flask__](https://flask.palletsprojects.com/en/2.0.x/) was also used to design and store the data values for storing information about various customers.
 * After successfully designing and implementing the database design, the focus was placed on building the UI interface so that users could book cars as and when needed based on the availability of the drivers. 
 
 ## 🕸🔨My Web Scraping Projects
