@@ -389,7 +389,7 @@ __https://suhas-maddali007.medium.com__
 * Naive Bayes (NB)
 * Gradient Boosted Decision Trees (GBDT)
 * XGBoost
-* Long Short Term Memory (LSTM)
+* Long Short-Term Memory (LSTM)
 
 ## 🤖⚙️ My Machine Learning Projects
 
