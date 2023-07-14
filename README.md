@@ -18,6 +18,8 @@ I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__So
 
 ![](https://github.com/suhasmaddali/Images/blob/main/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
 
+![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
+
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 Starting at a young age, I acquired coding skills by initially learning the __C__ language. Currently, I am expanding my knowledge by studying Python, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __R__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
