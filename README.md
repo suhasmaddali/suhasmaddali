@@ -388,7 +388,8 @@ __https://suhas-maddali007.medium.com__
 * Recurrent Neural Networks (RNN)
 * Naive Bayes (NB)
 * Gradient Boosted Decision Trees (GBDT)
-* XGBoost 
+* XGBoost
+* Long Short Term Memory (LSTM)
 
 ## 🤖⚙️ My Machine Learning Projects
 
