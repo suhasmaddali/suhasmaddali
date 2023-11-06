@@ -134,7 +134,7 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Scientist__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-in/) [*May 2022 - August 2022*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Scientist__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-in/) [*July 2023 - Present*]
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*September 2022 - December 2022*]
 
