@@ -194,36 +194,6 @@ I encourage you to explore my machine learning and deep learning projects to gai
 
 &emsp;&emsp; 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf)
 
-## 🖥 My Assignments and Coursework 
-
-&emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Suhas%20Maddali%20Homework%201.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework2.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%203.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework%204%20Last%20Assignment.ipynb) 
-
-&emsp;&emsp; 📙 [__DS5110 Introduction to Data Management and Processing__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Suhas%20Maddali%20Assignment%201.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/002109159%20Assignment%202.sql) 
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/DS-5110-Introduction-to-Data-Processing-and-Management/blob/main/Homework2-2.ipynb)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 4__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning/blob/main/Homework4IDMP.pdf) 
-
-&emsp;&emsp; 📙 [__IE 7275 Data Mining in Engineering__](https://github.com/suhasmaddali/Data-Mining-in-Engineering)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 1__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%201) 
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
-
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
-
 ## 🖥 My Competencies
 
 &emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
