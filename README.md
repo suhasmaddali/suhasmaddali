@@ -430,7 +430,7 @@ __Natural Language Processing (NLP)__ is converting a natural text into a form t
 
 * Text mining, data visualization, and machine learning can reveal useful insights in the vast amount of text that surrounds us, making it more actionable and useful.
 * In addition to this, understanding the difficulty of the text and whether it is at our level could give us good knowledge about the depth of the article.
-* Moreover, libraries__ and other educational institutions could use this information and classify textbooks and notebooks, and separate them based on the difficulty level.
+* Moreover, __libraries__ and other educational institutions could use this information and classify textbooks and notebooks, and separate them based on the difficulty level.
 * In this project, machine learning and deep learning algorithms were used to predict the difficulty of texts.
 * __Hyperparameter tuning__ was also done to ensure that the models took important features into consideration and made predictions with low __mean squared error__ and __mean absolute error__ respectively.
 
