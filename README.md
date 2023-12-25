@@ -8,9 +8,9 @@ I'm passionate about __Machine Learning__, __Data Science__ and __Large Language
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). I have *4+ years* of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/) and Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/). 
+I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). I have *4+ years* of experience building and deploying machine learning and deep learning models.
 
-These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. 
+I completed courses such as Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/) and Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/). These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. 
 
 I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__Solbots Technologies Private Limited__](https://www.solbots.in/) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
