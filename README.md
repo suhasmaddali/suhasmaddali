@@ -361,6 +361,12 @@ __https://suhas-maddali007.medium.com__
 * XGBoost
 * Long Short-Term Memory (LSTM)
 
+In addition, I had the opportunity to work with state-of-the-art (SOTA) time series forecasting models for forecasting the demand for various products. Below are some of the models used. 
+
+* Auto-Regressive (AR) Model
+* Auto-Regressive Moving Averages (ARMA) Model
+* Auto-Regressive Integrated Moving Averages (ARIMA) Model
+  
 ## 🤖⚙️ My Machine Learning Projects
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/machine%20learning%20gif%20file.gif" width = "750"/>
