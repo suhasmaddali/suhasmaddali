@@ -361,7 +361,7 @@ __https://suhas-maddali007.medium.com__
 * XGBoost
 * Long Short-Term Memory (LSTM)
 
-Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
+🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
 
 * Auto-Regressive (AR) Model
 * Auto-Regressive Moving Averages (ARMA) Model
