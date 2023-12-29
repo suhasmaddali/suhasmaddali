@@ -361,7 +361,7 @@ __https://suhas-maddali007.medium.com__
 * XGBoost
 * Long Short-Term Memory (LSTM)
 
-In addition, I had the opportunity to work with state-of-the-art (SOTA) time series forecasting models for forecasting the demand for various products. Below are some of the models used. 
+Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
 
 * Auto-Regressive (AR) Model
 * Auto-Regressive Moving Averages (ARMA) Model
