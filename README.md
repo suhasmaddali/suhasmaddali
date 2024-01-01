@@ -12,7 +12,7 @@ I hold a Masters Degree in Data Science at [__Northeastern University - Khoury C
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
-Some of the notable courses I have completed include: 
+Some of the notable courses I have completed and helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 
