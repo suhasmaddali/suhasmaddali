@@ -20,7 +20,7 @@ I completed courses such as Machine Learning Certification by [__Stanford Univer
 
 Below are some of the companies I have worked as a data scientist:
 
-* *[__NVIDIA__](https://www.nvidia.com/en-us/)*
+* *NVIDIA*
 * *[__Solbots Technologies Private Limited__](https://www.solbots.in/)*
 * *[__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/)*
 
