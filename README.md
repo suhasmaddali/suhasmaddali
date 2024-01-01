@@ -15,10 +15,8 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
-
-* Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)
-
-&emsp;&emsp; 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf)
+* *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
+* Python for Time Series Data Analysis by Jose Portilla (https://www.udemy.com/user/joseportilla/)
 
 Below are some of the companies I have worked as a data scientist:
 
