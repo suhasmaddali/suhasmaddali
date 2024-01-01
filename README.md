@@ -21,8 +21,8 @@ I completed courses such as Machine Learning Certification by [__Stanford Univer
 Below are some of the companies I have worked as a data scientist:
 
 * *NVIDIA*
-* *[__Solbots Technologies Private Limited__](https://www.solbots.in/)*
-* *[__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/)*
+* *Solbots Technologies Private Limited*
+* *Khoury College of Computer Sciences*
 
 I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__Solbots Technologies Private Limited__](https://www.solbots.in/) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
