@@ -16,7 +16,7 @@ Some of the notable courses I have completed and that helped in gaining strong t
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
-* Python for Time Series Data Analysis by Jose Portilla (https://www.udemy.com/user/joseportilla/)
+* *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
 
 Below are some of the companies I have worked as a data scientist:
 
