@@ -12,17 +12,17 @@ I hold a Masters Degree in Data Science at [__Northeastern University - Khoury C
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
-Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
-* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
-* *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
-* *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
-* *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
-
 Below are some of the companies I have worked as a data scientist:
 
 * *NVIDIA*
 * *Solbots Technologies Private Limited*
 * *Khoury College of Computer Sciences*
+
+Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
+* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
+* *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
+* *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
+* *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
 
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
