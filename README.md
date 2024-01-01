@@ -14,7 +14,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 
 Below are some of the companies I have worked as a data scientist:
 
-* *NVIDIA*
+* *NVIDIA Corporation*
 * *Solbots Technologies Private Limited*
 * *Khoury College of Computer Sciences*
 
