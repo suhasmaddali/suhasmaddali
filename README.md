@@ -16,7 +16,7 @@ I have *4+ years* of experience building and deploying machine learning and deep
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
-Below are some of the companies I have worked as a data scientist:
+Below are some of the companies I have worked as a data scientist and a machine learning engineer:
 
 * *NVIDIA Corporation*
 * *Solbots Technologies Private Limited*
