@@ -373,11 +373,11 @@ __https://suhas-maddali007.medium.com__
 
 🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
 
-* Auto-Regressive (AR) Model
-* Auto-Regressive Moving Averages (ARMA) Model
-* Auto-Regressive Integrated Moving Averages (ARIMA) Model
-* Neural Hierarchical Interpolation of Time Series (N-HiTS) Model
-* Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model 
+* *Auto-Regressive (AR) Model*
+* *Auto-Regressive Moving Averages (ARMA) Model*
+* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
+* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
+* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
   
 ## 🤖⚙️ My Machine Learning Projects
 
