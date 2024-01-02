@@ -28,6 +28,30 @@ Some of the notable courses I have completed and that helped in gaining strong t
 * *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
 * *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
 
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+
+* *Linear Regression*
+* *Logistic Regression*
+* *Support Vector Machines (SVM)*
+* *Decision Trees (DT)*
+* *Random Forests (RF)*
+* *K-Nearest Neighbors (KNN)*
+* *Deep Neural Networks*
+* *Convolutional Neural Networks (CNN)*
+* *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
+* *Long Short-Term Memory (LSTM)*
+
+🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
+
+* *Auto-Regressive (AR) Model*
+* *Auto-Regressive Moving Averages (ARMA) Model*
+* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
+* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
+* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
+
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
@@ -354,30 +378,6 @@ The results on the test set were promising, and this sparked my interest in find
 
 📝 Furthermore, I also write articles and share my blogs through [__Medium__](https://medium.com/). It is a website where writers could share their thoughts with the community through publications. I've written articles on Machine Learning and Data Science. Below is the link to my Medium articles.
 __https://suhas-maddali007.medium.com__
-
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
-
-* *Linear Regression*
-* *Logistic Regression*
-* *Support Vector Machines (SVM)*
-* *Decision Trees (DT)*
-* *Random Forests (RF)*
-* *K-Nearest Neighbors (KNN)*
-* *Deep Neural Networks*
-* *Convolutional Neural Networks (CNN)*
-* *Recurrent Neural Networks (RNN)*
-* *Naive Bayes (NB)*
-* *Gradient Boosted Decision Trees (GBDT)*
-* *XGBoost*
-* *Long Short-Term Memory (LSTM)*
-
-🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
-
-* *Auto-Regressive (AR) Model*
-* *Auto-Regressive Moving Averages (ARMA) Model*
-* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
-* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
-* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
   
 ## 🤖⚙️ My Machine Learning Projects
 
