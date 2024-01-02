@@ -16,13 +16,13 @@ I have *4+ years* of experience building and deploying machine learning and deep
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
-Below are some of the companies I have worked as a data scientist and a machine learning engineer:
+🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:
 
 * *NVIDIA Corporation*
 * *Solbots Technologies Private Limited*
 * *Khoury College of Computer Sciences*
 
-Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
+🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
