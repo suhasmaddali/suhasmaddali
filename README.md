@@ -358,18 +358,18 @@ __https://suhas-maddali007.medium.com__
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
 * *Linear Regression*
-* Logistic Regression
-* Support Vector Machines (SVM)
-* Decision Trees (DT)
-* Random Forests (RF)
-* K-Nearest Neighbors (KNN)
-* Deep Neural Networks
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* Naive Bayes (NB)
-* Gradient Boosted Decision Trees (GBDT)
-* XGBoost
-* Long Short-Term Memory (LSTM)
+* *Logistic Regression*
+* *Support Vector Machines (SVM)*
+* *Decision Trees (DT)*
+* *Random Forests (RF)*
+* *K-Nearest Neighbors (KNN)*
+* *Deep Neural Networks*
+* *Convolutional Neural Networks (CNN)*
+* *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
+* *Long Short-Term Memory (LSTM)*
 
 🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
 
