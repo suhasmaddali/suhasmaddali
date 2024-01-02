@@ -357,7 +357,7 @@ __https://suhas-maddali007.medium.com__
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
-* Linear Regression
+* *Linear Regression*
 * Logistic Regression
 * Support Vector Machines (SVM)
 * Decision Trees (DT)
