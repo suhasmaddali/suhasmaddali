@@ -76,9 +76,9 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
-| 🚴‍ [Health Assistant Application](https://github.com/suhasmaddali/health_assistant)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
+| 🚴‍ [Health Assistant Application](https://github.com/suhasmaddali/health_assistant)|
+| :-:| 
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
