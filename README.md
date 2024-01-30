@@ -78,7 +78,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 | 🚴‍ [Health Assistant Application](https://github.com/suhasmaddali/health_assistant)|
 | :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 
+| [<img src = "https://github.com/suhasmaddali/health_assistant/blob/main/Images/health_assistant_doctor.png" width = 500 height = 300/>](https://github.com/suhasmaddali/health_assistant)| 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
