@@ -80,14 +80,6 @@ I encourage you to explore my machine learning and deep learning projects. The l
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-| 🏦 [Predicting Loan Default](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bank%20Loan%20Image-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
-
-| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
-
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
