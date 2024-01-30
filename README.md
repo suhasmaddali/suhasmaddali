@@ -76,7 +76,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
-| 🚴‍ [Health Assistant Application](https://github.com/suhasmaddali/health_assistant)|
+| 🏥 [Health Assistant Application](https://github.com/suhasmaddali/health_assistant)|
 | :-:| 
 | [<img src = "https://github.com/suhasmaddali/health_assistant/blob/main/Images/health_assistant_doctor.png" width = 500 height = 300/>](https://github.com/suhasmaddali/health_assistant)| 
 
