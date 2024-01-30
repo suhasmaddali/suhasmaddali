@@ -74,7 +74,7 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
-<h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
+<h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
 | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🚙 [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
 | :-:| :-:| 
