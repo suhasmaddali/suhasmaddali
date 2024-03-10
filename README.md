@@ -54,6 +54,18 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
+🔭 Furthermore, below are some of the tools used during my experience for generative AI:
+
+* Langchain 
+* Llama Index
+* OpenAI API
+* Mixtral (LLM)
+* Llama 2 (LLM)
+* GPT - 3 (LLM)
+* GPT - 3.5 (LLM)
+* GPT - 4 (LLM)
+* Retrieval Augmented Generation (RAG)
+
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
