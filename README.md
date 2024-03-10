@@ -52,7 +52,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
 * *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
 
-🔭 Furthermore, below are some of the tools used during my experience for generative AI:
+🔭 Furthermore, below are some of the tools used during my experience for __generative AI__:
 
 * *Langchain*
 * *Retrieval Augmented Generation (RAG)*
