@@ -55,6 +55,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
 
 * *Langchain*
+* *LangGraph*
 * *Retrieval Augmented Generation (RAG)*
 * *Llama Index*
 * *OpenAI API*
