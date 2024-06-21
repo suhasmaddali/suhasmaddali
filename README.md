@@ -65,6 +65,16 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
 
+🔭 Here are some of the skillsets in regards to __DevOps__ technologies:
+
+* *Docker*
+* *Docker-Compose*
+* *Kubernetes*
+* *Linux*
+* *Windows Subsystem for Linux (WSL)*
+* *Travis CI*
+* *Ubuntu*
+
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
 
