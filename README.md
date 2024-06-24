@@ -74,6 +74,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Windows Subsystem for Linux (WSL)*
 * *Travis CI*
 * *Ubuntu*
+* *GitLab CI/CD*
 
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
