@@ -12,7 +12,7 @@ The rapid rate at which there is advancement in computing power and the freedom 
 
 I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/).
 
-I have *4+ years* of experience building and deploying __machine learning__ and deep learning models. 
+I have *4+ years* of experience building and deploying __machine learning__ and __deep learning models__. 
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
