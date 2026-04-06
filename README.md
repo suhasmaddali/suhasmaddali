@@ -58,6 +58,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *LangGraph*
 * *Retrieval Augmented Generation (RAG)*
 * *Supervised Fine Tuning (SFT)*
+* *Reinforcement Learning with Human Feedback (RLHF)*
 * *Llama Index*
 * *OpenAI API*
 * *Mixtral (LLM)*
