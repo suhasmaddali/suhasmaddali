@@ -57,6 +57,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Langchain*
 * *LangGraph*
 * *Retrieval Augmented Generation (RAG)*
+* *Supervised Fine Tuning (SFT)*
 * *Llama Index*
 * *OpenAI API*
 * *Mixtral (LLM)*
